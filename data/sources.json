@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "gamewith",
+    "language": "ja",
+    "title": "GameWith · 人物送礼偏好",
+    "url": "https://gamewith.jp/fefw/577115",
+    "note": "展开网页内的礼物分类提示，逐项提取；未把整个类别扩展为所有同类物品。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8",
+    "language": "ja",
+    "title": "Game8 · 据点与商店目录",
+    "url": "https://game8.jp/fe-banshisenko/818736",
+    "note": "用于补全未在 AppMedia 收录的商品；此总表不含库存数，缺少值保留 null。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "gamecap",
+    "language": "ja",
+    "title": "Gamecap · 商店资料",
+    "url": "https://gamecap.jp/fe_fw/shop.html",
+    "note": "对照商品与价格，不把价格误记为库存。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "raiderking",
+    "language": "en",
+    "title": "Raider King · 旺达尔商会兑换",
+    "url": "https://raiderking.com/fe-fortunes-weave-vandhal-trading-co-all-trader-locations-items-exchange-and-resources/",
+    "note": "英文兑换清单；原站标注仍在更新。材料个数不等于商品库存。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "keengamer",
+    "language": "en",
+    "title": "KeenGamer · 送礼推荐",
+    "url": "https://www.keengamer.com/articles/guides/fire-emblem-fortunes-weave-best-gifts-guide/",
+    "note": "通过搜索与网页阅读检索；推荐类别不直接列为已确认偏好。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-1",
+    "language": "zh",
+    "title": "游民星空 · 救世主（伊修玛尔）",
+    "url": "https://www.gamersky.com/handbook/202609/2217606.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-2",
+    "language": "zh",
+    "title": "游民星空 · 凯伊",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_2.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-3",
+    "language": "zh",
+    "title": "游民星空 · 迪托利希",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_3.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-4",
+    "language": "zh",
+    "title": "游民星空 · 赛奥朵拉",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_4.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-5",
+    "language": "zh",
+    "title": "游民星空 · 蕾达",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_5.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-6",
+    "language": "zh",
+    "title": "游民星空 · 蒂亚拉",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_6.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-7",
+    "language": "zh",
+    "title": "游民星空 · 彼得",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_7.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-8",
+    "language": "zh",
+    "title": "游民星空 · 乌尔坦德",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_8.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-9",
+    "language": "zh",
+    "title": "游民星空 · 法比奥",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_9.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-10",
+    "language": "zh",
+    "title": "游民星空 · 埃斯梅拉达",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_10.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-11",
+    "language": "zh",
+    "title": "游民星空 · 米凯伊拉",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_11.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-12",
+    "language": "zh",
+    "title": "游民星空 · 博纳旺蒂尔",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_12.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-13",
+    "language": "zh",
+    "title": "游民星空 · 托比亚斯",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_13.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-14",
+    "language": "zh",
+    "title": "游民星空 · 莉莲",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_14.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-15",
+    "language": "zh",
+    "title": "游民星空 · 莱桑德",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_15.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-16",
+    "language": "zh",
+    "title": "游民星空 · 布卡尔",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_16.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-17",
+    "language": "zh",
+    "title": "游民星空 · 西罗科",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_17.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-18",
+    "language": "zh",
+    "title": "游民星空 · 奥林匹亚",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_18.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-19",
+    "language": "zh",
+    "title": "游民星空 · 穆",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_19.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-20",
+    "language": "zh",
+    "title": "游民星空 · 贝特朗",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_20.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-21",
+    "language": "zh",
+    "title": "游民星空 · 谭利穆恩",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_21.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-22",
+    "language": "zh",
+    "title": "游民星空 · 欧露赫露（奥谢尔）",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_22.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-23",
+    "language": "zh",
+    "title": "游民星空 · 阿纳托利亚（爱娜特莉亚）",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_23.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-24",
+    "language": "zh",
+    "title": "游民星空 · 森图里奥",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_24.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-25",
+    "language": "zh",
+    "title": "游民星空 · 特洛伊",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_25.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-26",
+    "language": "zh",
+    "title": "游民星空 · 红花",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_26.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-27",
+    "language": "zh",
+    "title": "游民星空 · 盖茨",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_27.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-28",
+    "language": "zh",
+    "title": "游民星空 · 乌修拉",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_28.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-29",
+    "language": "zh",
+    "title": "游民星空 · 迭戈",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_29.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-30",
+    "language": "zh",
+    "title": "游民星空 · 沙兰",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_30.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-31",
+    "language": "zh",
+    "title": "游民星空 · 但丁",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_31.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-32",
+    "language": "zh",
+    "title": "游民星空 · 希蒙",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_32.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-33",
+    "language": "zh",
+    "title": "游民星空 · 妮娜",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_33.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-34",
+    "language": "zh",
+    "title": "游民星空 · 哪吒",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_34.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-35",
+    "language": "zh",
+    "title": "游民星空 · 古扎岚",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_35.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-36",
+    "language": "zh",
+    "title": "游民星空 · 努蒂奴",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_36.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-37",
+    "language": "zh",
+    "title": "游民星空 · 伊欧",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_37.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-38",
+    "language": "zh",
+    "title": "游民星空 · 卡塔妮娅",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_38.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-39",
+    "language": "zh",
+    "title": "游民星空 · 本迪茨",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_39.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-40",
+    "language": "zh",
+    "title": "游民星空 · 亚历桑德拉",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_40.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-41",
+    "language": "zh",
+    "title": "游民星空 · 诺库图拉（诺克裘拉）",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_41.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-42",
+    "language": "zh",
+    "title": "游民星空 · 杨界",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_42.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-43",
+    "language": "zh",
+    "title": "游民星空 · 索绯雅",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_43.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-44",
+    "language": "zh",
+    "title": "游民星空 · 努佐",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_44.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-45",
+    "language": "zh",
+    "title": "游民星空 · 马吉德",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_45.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-46",
+    "language": "zh",
+    "title": "游民星空 · 扎尔科内",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_46.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-47",
+    "language": "zh",
+    "title": "游民星空 · 歌利亚",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_47.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-48",
+    "language": "zh",
+    "title": "游民星空 · 杰斯特",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_48.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-49",
+    "language": "zh",
+    "title": "游民星空 · 露迪亚",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_49.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-50",
+    "language": "zh",
+    "title": "游民星空 · 菲安娜",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_50.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-51",
+    "language": "zh",
+    "title": "游民星空 · 大刀",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_51.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-52",
+    "language": "zh",
+    "title": "游民星空 · 哈尔温",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_52.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-53",
+    "language": "zh",
+    "title": "游民星空 · 赛特斯",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_53.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-54",
+    "language": "zh",
+    "title": "游民星空 · 洛蕾塔",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_54.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-55",
+    "language": "zh",
+    "title": "游民星空 · 内森",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_55.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-56",
+    "language": "zh",
+    "title": "游民星空 · 克里克",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_56.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-57",
+    "language": "zh",
+    "title": "游民星空 · 贾斯敏",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_57.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-58",
+    "language": "zh",
+    "title": "游民星空 · 基洛克",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_58.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-59",
+    "language": "zh",
+    "title": "游民星空 · 伊尼奥妮",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_59.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-60",
+    "language": "zh",
+    "title": "游民星空 · 佩佩",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_60.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-61",
+    "language": "zh",
+    "title": "游民星空 · 阿斯旺",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_61.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-62",
+    "language": "zh",
+    "title": "游民星空 · 塔霍妮娅",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_62.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "cn-63",
+    "language": "zh",
+    "title": "游民星空 · 克拉普卡",
+    "url": "https://www.gamersky.com/handbook/202609/2217606_63.shtml",
+    "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425177",
+    "language": "ja",
+    "title": "AppMedia · ゴーラ草原帯",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425177",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425258",
+    "language": "ja",
+    "title": "AppMedia · カリアネイラの港",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425258",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425264",
+    "language": "ja",
+    "title": "AppMedia · リベイラ村",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425264",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425498",
+    "language": "ja",
+    "title": "AppMedia · フィーナの漁村",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425498",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425501",
+    "language": "ja",
+    "title": "AppMedia · フィーナの岩礁",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425501",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425210",
+    "language": "ja",
+    "title": "AppMedia · レギアの町",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425210",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425276",
+    "language": "ja",
+    "title": "AppMedia · オレンスの町",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425276",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425159",
+    "language": "ja",
+    "title": "AppMedia · ヤーマン村",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425159",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425516",
+    "language": "ja",
+    "title": "AppMedia · パンドラの港町",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425516",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425750",
+    "language": "ja",
+    "title": "AppMedia · アギーニョ村",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425750",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425762",
+    "language": "ja",
+    "title": "AppMedia · ライ・オーの港",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425762",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425690",
+    "language": "ja",
+    "title": "AppMedia · 海都アレクトー",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425690",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425714",
+    "language": "ja",
+    "title": "AppMedia · メッシリーナ大農園",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425714",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425705",
+    "language": "ja",
+    "title": "AppMedia · 王都メガエラ",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425705",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425471",
+    "language": "ja",
+    "title": "AppMedia · ベネトナシュの村",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425471",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425279",
+    "language": "ja",
+    "title": "AppMedia · 黒翼の谷",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425279",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425309",
+    "language": "ja",
+    "title": "AppMedia · 領都カッシート",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425309",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425588",
+    "language": "ja",
+    "title": "AppMedia · ザスタの集落",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425588",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425369",
+    "language": "ja",
+    "title": "AppMedia · 黒煙の谷ダ・ミナ",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425369",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425351",
+    "language": "ja",
+    "title": "AppMedia · ニーザの港",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425351",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425300",
+    "language": "ja",
+    "title": "AppMedia · バスク宿場町",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425300",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425387",
+    "language": "ja",
+    "title": "AppMedia · マオン城郭",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425387",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425399",
+    "language": "ja",
+    "title": "AppMedia · オシリスの村",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425399",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425444",
+    "language": "ja",
+    "title": "AppMedia · バイナのオアシス",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425444",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425546",
+    "language": "ja",
+    "title": "AppMedia · トバリンの村",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425546",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425564",
+    "language": "ja",
+    "title": "AppMedia · デモニクの村",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425564",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425603",
+    "language": "ja",
+    "title": "AppMedia · ウィリー村",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425603",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425615",
+    "language": "ja",
+    "title": "AppMedia · 王都ブレストン",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425615",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425639",
+    "language": "ja",
+    "title": "AppMedia · 城塞都市モンス",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425639",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425330",
+    "language": "ja",
+    "title": "AppMedia · 王都グラン・アラゴン",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425330",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425672",
+    "language": "ja",
+    "title": "AppMedia · ボンバエの隠れ里",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425672",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425150",
+    "language": "ja",
+    "title": "AppMedia · サンタナ橋",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425150",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425249",
+    "language": "ja",
+    "title": "AppMedia · ペルーサ岬",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425249",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425573",
+    "language": "ja",
+    "title": "AppMedia · 笑み岩",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425573",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "app-80425321",
+    "language": "ja",
+    "title": "AppMedia · ゾトー湖",
+    "url": "https://appmedia.jp/fe_banshisenkou/80425321",
+    "note": "库存与价格来自同一张表；来源未逐项注明章节，不能视作所有路线、所有章节均相同。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819535",
+    "language": "ja",
+    "title": "Game8 · 木製の剣",
+    "url": "https://game8.jp/fe-banshisenko/819535",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819534",
+    "language": "ja",
+    "title": "Game8 · 青銅の剣",
+    "url": "https://game8.jp/fe-banshisenko/819534",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819533",
+    "language": "ja",
+    "title": "Game8 · 清めの剣",
+    "url": "https://game8.jp/fe-banshisenko/819533",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819528",
+    "language": "ja",
+    "title": "Game8 · 鉄の剣",
+    "url": "https://game8.jp/fe-banshisenko/819528",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819527",
+    "language": "ja",
+    "title": "Game8 · 毒の剣",
+    "url": "https://game8.jp/fe-banshisenko/819527",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819526",
+    "language": "ja",
+    "title": "Game8 · 斬馬刀",
+    "url": "https://game8.jp/fe-banshisenko/819526",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819525",
+    "language": "ja",
+    "title": "Game8 · グレートソード",
+    "url": "https://game8.jp/fe-banshisenko/819525",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819524",
+    "language": "ja",
+    "title": "Game8 · ダ・ミナの剣",
+    "url": "https://game8.jp/fe-banshisenko/819524",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819522",
+    "language": "ja",
+    "title": "Game8 · フリッサ",
+    "url": "https://game8.jp/fe-banshisenko/819522",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819521",
+    "language": "ja",
+    "title": "Game8 · サンダーソード",
+    "url": "https://game8.jp/fe-banshisenko/819521",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819517",
+    "language": "ja",
+    "title": "Game8 · 木製の槍",
+    "url": "https://game8.jp/fe-banshisenko/819517",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819516",
+    "language": "ja",
+    "title": "Game8 · 青銅の槍",
+    "url": "https://game8.jp/fe-banshisenko/819516",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819512",
+    "language": "ja",
+    "title": "Game8 · 鉄の槍",
+    "url": "https://game8.jp/fe-banshisenko/819512",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819511",
+    "language": "ja",
+    "title": "Game8 · 手槍",
+    "url": "https://game8.jp/fe-banshisenko/819511",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819507",
+    "language": "ja",
+    "title": "Game8 · ダ・ミナの槍",
+    "url": "https://game8.jp/fe-banshisenko/819507",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819506",
+    "language": "ja",
+    "title": "Game8 · ショートスピア",
+    "url": "https://game8.jp/fe-banshisenko/819506",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819496",
+    "language": "ja",
+    "title": "Game8 · 木製の斧",
+    "url": "https://game8.jp/fe-banshisenko/819496",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819495",
+    "language": "ja",
+    "title": "Game8 · 青銅の斧",
+    "url": "https://game8.jp/fe-banshisenko/819495",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819492",
+    "language": "ja",
+    "title": "Game8 · 鉄の斧",
+    "url": "https://game8.jp/fe-banshisenko/819492",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819490",
+    "language": "ja",
+    "title": "Game8 · ハンマー",
+    "url": "https://game8.jp/fe-banshisenko/819490",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819489",
+    "language": "ja",
+    "title": "Game8 · 手斧",
+    "url": "https://game8.jp/fe-banshisenko/819489",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819487",
+    "language": "ja",
+    "title": "Game8 · ダ・ミナの斧",
+    "url": "https://game8.jp/fe-banshisenko/819487",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819486",
+    "language": "ja",
+    "title": "Game8 · ショートアクス",
+    "url": "https://game8.jp/fe-banshisenko/819486",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819480",
+    "language": "ja",
+    "title": "Game8 · 木製の弓",
+    "url": "https://game8.jp/fe-banshisenko/819480",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819479",
+    "language": "ja",
+    "title": "Game8 · 青銅の弓",
+    "url": "https://game8.jp/fe-banshisenko/819479",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819478",
+    "language": "ja",
+    "title": "Game8 · 鉄の弓",
+    "url": "https://game8.jp/fe-banshisenko/819478",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819476",
+    "language": "ja",
+    "title": "Game8 · 毒の弓",
+    "url": "https://game8.jp/fe-banshisenko/819476",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819475",
+    "language": "ja",
+    "title": "Game8 · ダ・ミナの弓",
+    "url": "https://game8.jp/fe-banshisenko/819475",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819474",
+    "language": "ja",
+    "title": "Game8 · ロングボウ",
+    "url": "https://game8.jp/fe-banshisenko/819474",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819471",
+    "language": "ja",
+    "title": "Game8 · 馬殺しの弓",
+    "url": "https://game8.jp/fe-banshisenko/819471",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819469",
+    "language": "ja",
+    "title": "Game8 · 木製の籠手",
+    "url": "https://game8.jp/fe-banshisenko/819469",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819468",
+    "language": "ja",
+    "title": "Game8 · 青銅の籠手",
+    "url": "https://game8.jp/fe-banshisenko/819468",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819465",
+    "language": "ja",
+    "title": "Game8 · 鉄の籠手",
+    "url": "https://game8.jp/fe-banshisenko/819465",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819464",
+    "language": "ja",
+    "title": "Game8 · ジャマダハル",
+    "url": "https://game8.jp/fe-banshisenko/819464",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819463",
+    "language": "ja",
+    "title": "Game8 · ダ・ミナの籠手",
+    "url": "https://game8.jp/fe-banshisenko/819463",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-819461",
+    "language": "ja",
+    "title": "Game8 · 対魔の鉄甲",
+    "url": "https://game8.jp/fe-banshisenko/819461",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-817086",
+    "language": "ja",
+    "title": "Game8 · ワラジムシ肉",
+    "url": "https://game8.jp/fe-banshisenko/817086",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-817083",
+    "language": "ja",
+    "title": "Game8 · サンドバアル肉",
+    "url": "https://game8.jp/fe-banshisenko/817083",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-817081",
+    "language": "ja",
+    "title": "Game8 · 巨大肉",
+    "url": "https://game8.jp/fe-banshisenko/817081",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "game8-item-817080",
+    "language": "ja",
+    "title": "Game8 · 砂虫肉",
+    "url": "https://game8.jp/fe-banshisenko/817080",
+    "note": "单品入手页面，补全已有商品的库存；保留与主表不同的观察。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "gamewith-portraits",
+    "language": "ja",
+    "title": "GameWith · 人物头像图鉴",
+    "url": "https://gamewith.jp/fefw/573109",
+    "note": "头像按日文姓名逐一匹配，使用原始游戏角色图；图片归 Nintendo / INTELLIGENT SYSTEMS 所有，本地缓存供页面离线显示。",
+    "accessed": "2026-09-30"
+  }
+]

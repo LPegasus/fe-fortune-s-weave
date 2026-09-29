@@ -1,0 +1,5 @@
+.tools/
+.research/
+__pycache__/
+preview-*.png
+game8.tmp.html

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>万紫千红 · 行旅手册</title>
+<meta name="description" content="Fire Emblem 万紫千红（万缕千丝）送礼偏好与据点商店查询，中英日攻略资料整理。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23392d54'/%3E%3Cpath d='M32 9 45 32 32 55 19 32Z' fill='%23d9b779'/%3E%3Cpath d='M9 32h46M32 9v46' stroke='%23fff' stroke-width='2'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<aside class="rail">
+ <a class="brand" href="#gifts" aria-label="万紫千红行旅手册首页"><span class="crest">✧</span><span>万紫千红<small>行旅手册</small></span></a>
+ <p class="rail-label">FIRE EMBLEM · FORTUNE'S WEAVE</p>
+ <nav aria-label="攻略栏目"><button class="nav active" data-view="gifts"><span>♧</span>送礼攻略<em>01</em></button><button class="nav" data-view="shops"><span>⌑</span>地图商店<em>02</em></button><button class="nav" data-view="sources"><span>≡</span>资料与来源<em>↗</em></button></nav>
+ <div class="rail-note"><span class="small-star">✦</span><p>把心意送给对的人。<br>把旅途需要的物品备齐。</p></div>
+ <div class="rail-foot"><div class="language-tags"><span>中</span><span>EN</span><span>日</span></div><p>三语资料整理</p><small>资料快照 · 2026.09.29<br>非官方攻略手册</small></div>
+</aside>
+<main>
+ <header><div><div class="eyebrow" id="eyebrow">THE GIFT COMPANION</div><h1 id="page-title">一份礼物，一段羁绊<span>。</span></h1><p id="subtitle">查询每位人物非常喜欢与喜欢的礼物，出发前准备一份恰好的心意。</p></div><a class="data-link" href="data/gifts.json" download id="download">下载 JSON <span>↓</span></a></header>
+ <div class="stats" id="stats"></div>
+ <section id="gifts-view" class="view">
+  <div class="toolbar"><label class="search"><span aria-hidden="true">⌕</span><input id="gift-search" type="search" placeholder="搜索人物、礼物，支持中文 / 日文 / 英文" aria-label="搜索人物或礼物"><kbd>/</kbd></label><label class="select-label">偏好<select id="preference"><option value="all">全部偏好</option><option value="loves">非常喜欢</option><option value="likes">喜欢</option><option value="unknown">待确认人物</option></select></label></div>
+  <div class="section-caption"><span>人物名录 <b id="character-count"></b></span><span><i class="dot love-dot"></i>非常喜欢 <i class="dot like-dot"></i>喜欢</span></div>
+  <div class="gift-layout"><div id="characters" class="characters" aria-label="人物列表"></div><article id="character-detail" class="detail" aria-live="polite"></article></div>
+ </section>
+ <section id="shops-view" class="view" hidden>
+  <div class="toolbar"><label class="search"><span aria-hidden="true">⌕</span><input id="shop-search" type="search" placeholder="搜索据点或商品名称" aria-label="搜索据点或商品"></label><label class="select-label">地点<select id="place-kind"><option value="all">全部地点</option><option value="据点">据点</option><option value="准据点">准据点</option><option value="地图商会">地图商会</option></select></label></div>
+  <div class="notice"><span>ⓘ</span><p>库存为攻略记录的可购买数量。<strong>∞</strong> 表示无限，<strong>待确认</strong> 表示来源未给出数量。章节、路线及名声可能影响货品。</p></div>
+  <div class="shop-layout"><aside class="places" id="places" aria-label="据点列表"></aside><article id="shop-detail" class="detail" aria-live="polite"></article></div>
+ </section>
+ <section id="sources-view" class="view" hidden><div class="source-intro"><h2>每条记录，都有出处。</h2><p>人物偏好以 GameWith 明确列出的礼物为主，中文攻略用于译名和交叉比对；商店优先采用 AppMedia 的库存表，再以 Game8 单品页补全。英文商会记录单独保留，避免把不同资料的兑换成本混为一谈。</p><p>中文角色与部分物品名来自游民星空；其余中文名称为便于检索的暂译，日文原名始终保留。本文未在游戏中逐项实测，也不将转载关系视为独立验证。</p></div><div id="coverage"></div><div id="sources"></div></section>
+ <footer><span>万紫千红 / 万缕千丝 · 行旅手册</span><span>非官方资料整理 · 游戏名称及相关权利归 Nintendo / INTELLIGENT SYSTEMS</span></footer>
+</main>
+<script src="data.js"></script><script src="app.js"></script>
+</body></html>

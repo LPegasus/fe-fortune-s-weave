@@ -1,0 +1,23 @@
+{
+  "characters": 63,
+  "documentedCharacters": 60,
+  "locations": 37,
+  "shopRecords": 566,
+  "knownStockRecords": 489,
+  "unknownStockRecords": 77,
+  "sourcePages": 144,
+  "checks": [
+    "JSON structure and references",
+    "Cai gift sample",
+    "unlimited stock sample",
+    "character search",
+    "gift to shop navigation",
+    "empty results",
+    "shop inventory and English exchange comparison",
+    "unknown preferences",
+    "mobile layout",
+    "source links",
+    "offline file loading"
+  ],
+  "browserErrors": []
+}

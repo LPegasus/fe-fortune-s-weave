@@ -1,0 +1,569 @@
+{
+  "character-1": {
+    "src": "assets/portraits/character-1.png",
+    "alt": "救世主（伊修玛尔）的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_1.png",
+    "sourcePage": "https://gamewith.jp/fefw/573109",
+    "width": 350,
+    "height": 350,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-2": {
+    "src": "assets/portraits/character-2.png",
+    "alt": "凯伊的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_4.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 425,
+    "height": 425,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-3": {
+    "src": "assets/portraits/character-3.png",
+    "alt": "迪托利希的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_5.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 437,
+    "height": 437,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-4": {
+    "src": "assets/portraits/character-4.png",
+    "alt": "赛奥朵拉的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_6.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 441,
+    "height": 441,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-5": {
+    "src": "assets/portraits/character-5.png",
+    "alt": "蕾达的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_7.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 441,
+    "height": 441,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-6": {
+    "src": "assets/portraits/character-6.png",
+    "alt": "蒂亚拉的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_8.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 423,
+    "height": 423,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-7": {
+    "src": "assets/portraits/character-7.png",
+    "alt": "彼得的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_9.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 442,
+    "height": 442,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-8": {
+    "src": "assets/portraits/character-8.png",
+    "alt": "乌尔坦德的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_10.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 441,
+    "height": 441,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-9": {
+    "src": "assets/portraits/character-9.png",
+    "alt": "法比奥的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_11.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 441,
+    "height": 441,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-10": {
+    "src": "assets/portraits/character-10.png",
+    "alt": "埃斯梅拉达的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_12.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 441,
+    "height": 441,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-11": {
+    "src": "assets/portraits/character-11.png",
+    "alt": "米凯伊拉的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_13.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 441,
+    "height": 441,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-12": {
+    "src": "assets/portraits/character-12.png",
+    "alt": "博纳旺蒂尔的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_14.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 440,
+    "height": 440,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-13": {
+    "src": "assets/portraits/character-13.png",
+    "alt": "托比亚斯的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_15.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 441,
+    "height": 441,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-14": {
+    "src": "assets/portraits/character-14.png",
+    "alt": "莉莲的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_16.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 441,
+    "height": 441,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-15": {
+    "src": "assets/portraits/character-15.png",
+    "alt": "莱桑德的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_17.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 440,
+    "height": 440,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-16": {
+    "src": "assets/portraits/character-16.png",
+    "alt": "布卡尔的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_18.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 442,
+    "height": 442,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-17": {
+    "src": "assets/portraits/character-17.png",
+    "alt": "西罗科的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_19.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 440,
+    "height": 440,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-18": {
+    "src": "assets/portraits/character-18.png",
+    "alt": "奥林匹亚的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_20.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 441,
+    "height": 441,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-19": {
+    "src": "assets/portraits/character-19.png",
+    "alt": "穆的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_21.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 440,
+    "height": 440,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-20": {
+    "src": "assets/portraits/character-20.png",
+    "alt": "贝特朗的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_22.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-21": {
+    "src": "assets/portraits/character-21.png",
+    "alt": "谭利穆恩的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_23.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-22": {
+    "src": "assets/portraits/character-22.png",
+    "alt": "欧露赫露（奥谢尔）的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_24.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 469,
+    "height": 469,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-23": {
+    "src": "assets/portraits/character-23.png",
+    "alt": "阿纳托利亚（爱娜特莉亚）的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_25.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 468,
+    "height": 468,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-24": {
+    "src": "assets/portraits/character-24.png",
+    "alt": "森图里奥的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_31.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 470,
+    "height": 470,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-25": {
+    "src": "assets/portraits/character-25.png",
+    "alt": "特洛伊的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_34.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 471,
+    "height": 471,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-26": {
+    "src": "assets/portraits/character-26.png",
+    "alt": "红花的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_35.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 470,
+    "height": 470,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-27": {
+    "src": "assets/portraits/character-27.png",
+    "alt": "盖茨的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_36.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-28": {
+    "src": "assets/portraits/character-28.png",
+    "alt": "乌修拉的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_37.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-29": {
+    "src": "assets/portraits/character-29.png",
+    "alt": "迭戈的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_38.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-30": {
+    "src": "assets/portraits/character-30.png",
+    "alt": "沙兰的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_39.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-31": {
+    "src": "assets/portraits/character-31.png",
+    "alt": "但丁的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_40.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-32": {
+    "src": "assets/portraits/character-32.png",
+    "alt": "希蒙的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_41.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-33": {
+    "src": "assets/portraits/character-33.png",
+    "alt": "妮娜的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_42.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 160,
+    "height": 160,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-34": {
+    "src": "assets/portraits/character-34.png",
+    "alt": "哪吒的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_43.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 160,
+    "height": 160,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-35": {
+    "src": "assets/portraits/character-35.png",
+    "alt": "古扎岚的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_44.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 426,
+    "height": 426,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-36": {
+    "src": "assets/portraits/character-36.png",
+    "alt": "努蒂奴的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_45.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 160,
+    "height": 160,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-37": {
+    "src": "assets/portraits/character-37.png",
+    "alt": "伊欧的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_46.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-38": {
+    "src": "assets/portraits/character-38.png",
+    "alt": "卡塔妮娅的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_47.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 442,
+    "height": 442,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-39": {
+    "src": "assets/portraits/character-39.png",
+    "alt": "本迪茨的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_48.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-40": {
+    "src": "assets/portraits/character-40.png",
+    "alt": "亚历桑德拉的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_49.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-41": {
+    "src": "assets/portraits/character-41.png",
+    "alt": "诺库图拉（诺克裘拉）的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_50.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 425,
+    "height": 425,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-42": {
+    "src": "assets/portraits/character-42.png",
+    "alt": "杨界的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_51.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 440,
+    "height": 440,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-43": {
+    "src": "assets/portraits/character-43.png",
+    "alt": "索绯雅的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_52.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-44": {
+    "src": "assets/portraits/character-44.png",
+    "alt": "努佐的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_53.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 471,
+    "height": 471,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-45": {
+    "src": "assets/portraits/character-45.png",
+    "alt": "马吉德的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_54.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 160,
+    "height": 160,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-46": {
+    "src": "assets/portraits/character-46.png",
+    "alt": "扎尔科内的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_55.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 160,
+    "height": 160,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-47": {
+    "src": "assets/portraits/character-47.png",
+    "alt": "歌利亚的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_56.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 160,
+    "height": 160,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-48": {
+    "src": "assets/portraits/character-48.png",
+    "alt": "杰斯特的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_57.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-49": {
+    "src": "assets/portraits/character-49.png",
+    "alt": "露迪亚的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_58.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 160,
+    "height": 160,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-50": {
+    "src": "assets/portraits/character-50.png",
+    "alt": "菲安娜的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_59.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-51": {
+    "src": "assets/portraits/character-51.png",
+    "alt": "大刀的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_60.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 160,
+    "height": 160,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-52": {
+    "src": "assets/portraits/character-52.png",
+    "alt": "哈尔温的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_61.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 160,
+    "height": 160,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-53": {
+    "src": "assets/portraits/character-53.png",
+    "alt": "赛特斯的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_62.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 160,
+    "height": 160,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-54": {
+    "src": "assets/portraits/character-54.png",
+    "alt": "洛蕾塔的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_63.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 160,
+    "height": 160,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-55": {
+    "src": "assets/portraits/character-55.png",
+    "alt": "内森的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_64.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 425,
+    "height": 425,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-56": {
+    "src": "assets/portraits/character-56.png",
+    "alt": "克里克的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_65.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 471,
+    "height": 471,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-57": {
+    "src": "assets/portraits/character-57.png",
+    "alt": "贾斯敏的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_66.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 250,
+    "height": 230,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-58": {
+    "src": "assets/portraits/character-58.png",
+    "alt": "基洛克的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_67.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 250,
+    "height": 230,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-59": {
+    "src": "assets/portraits/character-59.png",
+    "alt": "伊尼奥妮的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_68.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 468,
+    "height": 468,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-60": {
+    "src": "assets/portraits/character-60.png",
+    "alt": "佩佩的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_69.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-61": {
+    "src": "assets/portraits/character-61.png",
+    "alt": "阿斯旺的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_76.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-62": {
+    "src": "assets/portraits/character-62.png",
+    "alt": "塔霍妮娅的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_77.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 450,
+    "height": 450,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  },
+  "character-63": {
+    "src": "assets/portraits/character-63.png",
+    "alt": "克拉普卡的人物头像",
+    "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_78.png",
+    "sourcePage": "https://gamewith.jp/fefw/577115",
+    "width": 488,
+    "height": 480,
+    "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+  }
+}

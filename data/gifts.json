@@ -1,0 +1,6291 @@
+{
+  "coverage": "公开来源已收录记录；并非所有章节及全部隐藏货品的穷尽清单",
+  "schemaVersion": 1,
+  "updated": "2026-09-30",
+  "game": "Fire Emblem 万紫千红 / 万缕千丝",
+  "notes": [
+    "本站整理公开攻略，不代表游戏内逐项实测。",
+    "库存为来源记录快照；未注明具体路线、章节、名声和折扣的条目不作统一假设。",
+    "stockStatus=unlimited 表示来源明确记载无限；unknown 表示缺少资料，不是售罄。",
+    "未收录店铺表示参考资料没有列出，不能断言游戏中不存在。"
+  ],
+  "characters": [
+    {
+      "id": "character-1",
+      "name": "救世主（伊修玛尔）",
+      "nameJa": "救世主",
+      "nameEn": "Savior (Ishmaar)",
+      "loves": [],
+      "likes": [],
+      "sourceIds": [
+        "cn-1"
+      ],
+      "status": "unknown",
+      "portrait": {
+        "src": "assets/portraits/character-1.png",
+        "alt": "救世主（伊修玛尔）的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_1.png",
+        "sourcePage": "https://gamewith.jp/fefw/573109",
+        "width": 350,
+        "height": 350,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-2",
+      "name": "凯伊",
+      "nameJa": "カイ",
+      "nameEn": "Cai",
+      "loves": [
+        {
+          "nameJa": "ダグザヒゲシバ",
+          "name": "达格萨胡须草",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "馬のお手入れ道具",
+          "name": "马匹护理工具",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "髭飾り",
+          "name": "马鬃饰品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鍛錬用の装飾腕輪",
+          "name": "训练装饰臂环",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "軍略書の写本",
+          "name": "军略书抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "儀礼用の鋭い槍",
+          "name": "仪式用锋利长枪",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "鋭く小さな短剣",
+          "name": "锋利的小短剑",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-2"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-2.png",
+        "alt": "凯伊的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_4.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 425,
+        "height": 425,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-3",
+      "name": "迪托利希",
+      "nameJa": "ディートリヒ",
+      "nameEn": "Dietrich",
+      "loves": [
+        {
+          "nameJa": "素朴な焼き菓子",
+          "name": "朴素烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "少し甘い焼き菓子",
+          "name": "微甜烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "香ばしい焼き菓子",
+          "name": "香烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ギンジ入りセルビ",
+          "name": "银吉塞尔维饮品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ペガサスの風景画",
+          "name": "天马风景画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "盾たちの肖像画",
+          "name": "盾牌众人肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-3"
+      ],
+      "status": "documented",
+      "notes": [
+        "中日清单存在差异；当前偏好采用采集到的 GameWith 列表，中文独有项保存在 JSON 供核对。"
+      ],
+      "sourceDifference": [
+        "テフ入り焼き菓子"
+      ],
+      "portrait": {
+        "src": "assets/portraits/character-3.png",
+        "alt": "迪托利希的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_5.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 437,
+        "height": 437,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-4",
+      "name": "赛奥朵拉",
+      "nameJa": "セオドラ",
+      "nameEn": "Theodora",
+      "loves": [
+        {
+          "nameJa": "ユ・ファスの肖像",
+          "name": "尤法斯肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ペガサスの風景画",
+          "name": "天马风景画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "儀礼用の鋭い槍",
+          "name": "仪式用锋利长枪",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "派手すぎる腕輪",
+          "name": "华丽手镯",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "派手で美しい指輪",
+          "name": "华丽戒指",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の耳飾り",
+          "name": "东方耳饰",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鍛錬用の装飾腕輪",
+          "name": "训练装饰臂环",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "盾たちの肖像画",
+          "name": "盾牌众人肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "関節保護用長手袋",
+          "name": "护关节长手套",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "風裂きの矢羽根",
+          "name": "裂风箭羽",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "美しい飾り矢",
+          "name": "精美装饰箭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "美しい飾り弓",
+          "name": "精美装饰弓",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "二振りの魚包丁",
+          "name": "两把鱼刀",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鋭く小さな短剣",
+          "name": "锋利的小短剑",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "珍しい香辛料",
+          "name": "稀有香辛料",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "味わい深い調味料",
+          "name": "浓香调味料",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-4"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-4.png",
+        "alt": "赛奥朵拉的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_6.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 441,
+        "height": 441,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-5",
+      "name": "蕾达",
+      "nameJa": "レダ",
+      "nameEn": "Leda",
+      "loves": [
+        {
+          "nameJa": "派手すぎる腕輪",
+          "name": "华丽手镯",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の耳飾り",
+          "name": "东方耳饰",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "派手で美しい指輪",
+          "name": "华丽戒指",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "天露水",
+          "name": "天露水",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "実用的な裁縫道具",
+          "name": "实用缝纫工具",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ユ・ファスの肖像",
+          "name": "尤法斯肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "盾たちの肖像画",
+          "name": "盾牌众人肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ペガサスの風景画",
+          "name": "天马风景画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-5"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-5.png",
+        "alt": "蕾达的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_7.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 441,
+        "height": 441,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-6",
+      "name": "蒂亚拉",
+      "nameJa": "ティアラ",
+      "nameEn": "Tialla",
+      "loves": [
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南洋冒険奇譚",
+          "name": "南洋冒险奇谭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "女騎士と求婚者",
+          "name": "女骑士与求婚者",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "貿易取引入門",
+          "name": "贸易入门",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "闘技場物語の写本",
+          "name": "斗技场故事抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "海の向こうの古書",
+          "name": "海外古书",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ガルム",
+          "name": "加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の盤上遊戯",
+          "name": "东方桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "黒檀の盤上遊戯",
+          "name": "黑檀桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "精霊の盤上遊戯",
+          "name": "精灵桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "薄いセルビ",
+          "name": "淡塞尔维饮品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "濃いセルビ",
+          "name": "浓塞尔维饮品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ギンジ入りセルビ",
+          "name": "银吉塞尔维饮品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成干しセルビ",
+          "name": "熟成干制塞尔维",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-6"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-6.png",
+        "alt": "蒂亚拉的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_8.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 423,
+        "height": 423,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-7",
+      "name": "彼得",
+      "nameJa": "ピーテル",
+      "nameEn": "Peter",
+      "loves": [
+        {
+          "nameJa": "少し甘い焼き菓子",
+          "name": "微甜烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ギンジ入りセルビ",
+          "name": "银吉塞尔维饮品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "サラミスの菓子",
+          "name": "萨拉米斯点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "栄養満点お菓子本",
+          "name": "营养点心食谱",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "香ばしい焼き菓子",
+          "name": "香烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "蜂蜜入りの乳",
+          "name": "蜂蜜奶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "薬草料理大全",
+          "name": "药草料理大全",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "二振りの魚包丁",
+          "name": "两把鱼刀",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ニーザ産ガルム",
+          "name": "尼萨产加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "アレクトーガルム",
+          "name": "阿勒克托加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ガルム",
+          "name": "加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "濃厚なガルム",
+          "name": "浓郁加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南洋冒険奇譚",
+          "name": "南洋冒险奇谭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "闘技場物語の写本",
+          "name": "斗技场故事抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "女騎士と求婚者",
+          "name": "女骑士与求婚者",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "教職員事件簿",
+          "name": "教职员事件簿",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-7"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-7.png",
+        "alt": "彼得的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_9.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 442,
+        "height": 442,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-8",
+      "name": "乌尔坦德",
+      "nameJa": "ウルタンド",
+      "nameEn": "Ultand",
+      "loves": [
+        {
+          "nameJa": "ガルム",
+          "name": "加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "濃厚なガルム",
+          "name": "浓郁加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ニーザ産ガルム",
+          "name": "尼萨产加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "二振りの魚包丁",
+          "name": "两把鱼刀",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "味わい深い調味料",
+          "name": "浓香调味料",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "薬草料理大全",
+          "name": "药草料理大全",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "家庭料理大全",
+          "name": "家庭料理大全",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "野外調理道具",
+          "name": "野外烹饪工具",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "村の素朴な料理集",
+          "name": "乡村家常食谱",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南洋冒険奇譚",
+          "name": "南洋冒险奇谭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "女騎士と求婚者",
+          "name": "女骑士与求婚者",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "世界の名詩集",
+          "name": "世界名诗集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "教職員事件簿",
+          "name": "教职员事件簿",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ペガサスの風景画",
+          "name": "天马风景画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-8"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-8.png",
+        "alt": "乌尔坦德的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_10.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 441,
+        "height": 441,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-9",
+      "name": "法比奥",
+      "nameJa": "ファビオ",
+      "nameEn": "Fabio",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-9"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-9.png",
+        "alt": "法比奥的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_11.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 441,
+        "height": 441,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-10",
+      "name": "埃斯梅拉达",
+      "nameJa": "エスメラルダ",
+      "nameEn": "Esmeralda",
+      "loves": [
+        {
+          "nameJa": "鋭い釣り針",
+          "name": "锋利鱼钩",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "しなやかな釣り竿",
+          "name": "柔韧鱼竿",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "少し甘い焼き菓子",
+          "name": "微甜烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "素朴な焼き菓子",
+          "name": "朴素烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "香ばしい焼き菓子",
+          "name": "香烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ギンジ入りセルビ",
+          "name": "银吉塞尔维饮品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "巨大魚の目玉",
+          "name": "巨鱼眼球",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "魚の内蔵の塩漬け",
+          "name": "盐渍鱼内脏",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-10"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-10.png",
+        "alt": "埃斯梅拉达的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_12.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 441,
+        "height": 441,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-11",
+      "name": "米凯伊拉",
+      "nameJa": "ミカエラ",
+      "nameEn": "Mikaela",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "軽妙なソウシュ",
+          "name": "轻快苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-11"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-11.png",
+        "alt": "米凯伊拉的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_13.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 441,
+        "height": 441,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-12",
+      "name": "博纳旺蒂尔",
+      "nameJa": "ボナパルテ",
+      "nameEn": "Bonaventure",
+      "loves": [
+        {
+          "nameJa": "旅の老師の口伝録",
+          "name": "游历老者口述录",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南洋冒険奇譚",
+          "name": "南洋冒险奇谭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "モルフィス歳時記",
+          "name": "莫尔菲斯岁时记",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "海の向こうの古書",
+          "name": "海外古书",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "女騎士と求婚者",
+          "name": "女骑士与求婚者",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "世界の名詩集",
+          "name": "世界名诗集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-12"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-12.png",
+        "alt": "博纳旺蒂尔的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_14.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 440,
+        "height": 440,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-13",
+      "name": "托比亚斯",
+      "nameJa": "トビヤス",
+      "nameEn": "Tobias",
+      "loves": [
+        {
+          "nameJa": "太陽のゴーシュ",
+          "name": "太阳戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "若いゴーシュ",
+          "name": "新酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成ゴーシュ",
+          "name": "陈酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "翡翠色のゴーシュ",
+          "name": "翡翠戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "刺激的なゴーシュ",
+          "name": "烈性戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "素朴なゴーシュ",
+          "name": "朴素戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "秘伝のゴーシュ",
+          "name": "秘传戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方のゴーシュ",
+          "name": "南方戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "火の山のゴーシュ",
+          "name": "火山戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "真紅のゴーシュ",
+          "name": "深红戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "若いソウシュ",
+          "name": "新酿苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成ソウシュ",
+          "name": "陈酿苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "軽妙なソウシュ",
+          "name": "轻快苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "芳醇なソウシュ",
+          "name": "醇香苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "旅の老師の口伝録",
+          "name": "游历老者口述录",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-13"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-13.png",
+        "alt": "托比亚斯的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_15.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 441,
+        "height": 441,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-14",
+      "name": "莉莲",
+      "nameJa": "リリアン",
+      "nameEn": "Lilian",
+      "loves": [
+        {
+          "nameJa": "東方の耳飾り",
+          "name": "东方耳饰",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "派手すぎる腕輪",
+          "name": "华丽手镯",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "天露水",
+          "name": "天露水",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "実験的な裁縫道具",
+          "name": "试验性缝纫工具",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "珍しい香辛料",
+          "name": "稀有香辛料",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "美しい飾り矢",
+          "name": "精美装饰箭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-14"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-14.png",
+        "alt": "莉莲的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_16.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 441,
+        "height": 441,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-15",
+      "name": "莱桑德",
+      "nameJa": "ライサンダー",
+      "nameEn": "Lysander",
+      "loves": [
+        {
+          "nameJa": "武術訓練用の重り",
+          "name": "武术训练重物",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鋭く小さな短剣",
+          "name": "锋利的小短剑",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "儀礼用の鋭い槍",
+          "name": "仪式用锋利长枪",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "軍略書の写本",
+          "name": "军略书抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-15"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-15.png",
+        "alt": "莱桑德的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_17.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 440,
+        "height": 440,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-16",
+      "name": "布卡尔",
+      "nameJa": "バッカニア",
+      "nameEn": "Buccar",
+      "loves": [
+        {
+          "nameJa": "若いゴーシュ",
+          "name": "新酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成ゴーシュ",
+          "name": "陈酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "太陽のゴーシュ",
+          "name": "太阳戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "翡翠色のゴーシュ",
+          "name": "翡翠戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鋭く小さな短剣",
+          "name": "锋利的小短剑",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "儀礼用の鋭い槍",
+          "name": "仪式用锋利长枪",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-16"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-16.png",
+        "alt": "布卡尔的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_18.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 442,
+        "height": 442,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-17",
+      "name": "西罗科",
+      "nameJa": "シロッコ",
+      "nameEn": "Sirocco",
+      "loves": [
+        {
+          "nameJa": "若いゴーシュ",
+          "name": "新酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成ゴーシュ",
+          "name": "陈酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "太陽のゴーシュ",
+          "name": "太阳戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "刺激的なゴーシュ",
+          "name": "烈性戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "素朴なゴーシュ",
+          "name": "朴素戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "翡翠色のゴーシュ",
+          "name": "翡翠戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方のゴーシュ",
+          "name": "南方戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "火の山のゴーシュ",
+          "name": "火山戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "秘伝のゴーシュ",
+          "name": "秘传戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "真紅のゴーシュ",
+          "name": "深红戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "若いソウシュ",
+          "name": "新酿苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成ソウシュ",
+          "name": "陈酿苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "軽妙なソウシュ",
+          "name": "轻快苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "芳醇なソウシュ",
+          "name": "醇香苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "女騎士と求婚者",
+          "name": "女骑士与求婚者",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南洋冒険奇譚",
+          "name": "南洋冒险奇谭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ユ・ファスの肖像",
+          "name": "尤法斯肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ペガサスの風景画",
+          "name": "天马风景画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "教職員事件簿",
+          "name": "教职员事件簿",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-17"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-17.png",
+        "alt": "西罗科的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_19.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 440,
+        "height": 440,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-18",
+      "name": "奥林匹亚",
+      "nameJa": "オリンピア",
+      "nameEn": "Olympia",
+      "loves": [
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "天露水",
+          "name": "天露水",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "実用的な裁縫道具",
+          "name": "实用缝纫工具",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の耳飾り",
+          "name": "东方耳饰",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "派手すぎる腕輪",
+          "name": "华丽手镯",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "派手で美しい指輪",
+          "name": "华丽戒指",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ユ・ファスの肖像",
+          "name": "尤法斯肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "盾たちの肖像画",
+          "name": "盾牌众人肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の盤上遊戯",
+          "name": "东方桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "精霊の盤上遊戯",
+          "name": "精灵桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "モルフィスの紅茶",
+          "name": "莫尔菲斯红茶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "フォドラの紅茶",
+          "name": "芙朵拉红茶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-18"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-18.png",
+        "alt": "奥林匹亚的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_20.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 441,
+        "height": 441,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-19",
+      "name": "穆",
+      "nameJa": "ムウ",
+      "nameEn": "Mu",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "素朴な焼き菓子",
+          "name": "朴素烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "少し甘い焼き菓子",
+          "name": "微甜烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "サラミスの菓子",
+          "name": "萨拉米斯点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "香ばしい焼き菓子",
+          "name": "香烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-19"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-19.png",
+        "alt": "穆的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_21.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 440,
+        "height": 440,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-20",
+      "name": "贝特朗",
+      "nameJa": "ベルトラン",
+      "nameEn": "Bertrand",
+      "loves": [
+        {
+          "nameJa": "ガルム",
+          "name": "加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "淡麗なガルム",
+          "name": "清淡加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ニーザ産ガルム",
+          "name": "尼萨产加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "軍略書の写本",
+          "name": "军略书抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鍛錬用の装飾腕輪",
+          "name": "训练装饰臂环",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "儀礼用の鋭い槍",
+          "name": "仪式用锋利长枪",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "武術訓練用の重り",
+          "name": "武术训练重物",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鋭く小さな短剣",
+          "name": "锋利的小短剑",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-20"
+      ],
+      "status": "documented",
+      "notes": [
+        "日文站已有明确礼物记录；中文旧版仍为调查中。"
+      ],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-20.png",
+        "alt": "贝特朗的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_22.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-21",
+      "name": "谭利穆恩",
+      "nameJa": "タリムーン",
+      "nameEn": "Talimun",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "芳醇なソウシュ",
+          "name": "醇香苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "軽妙なソウシュ",
+          "name": "轻快苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成ソウシュ",
+          "name": "陈酿苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "若いソウシュ",
+          "name": "新酿苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "秘伝のゴーシュ",
+          "name": "秘传戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方のゴーシュ",
+          "name": "南方戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "火の山のゴーシュ",
+          "name": "火山戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "翡翠色のゴーシュ",
+          "name": "翡翠戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "素朴なゴーシュ",
+          "name": "朴素戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "刺激的なゴーシュ",
+          "name": "烈性戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "太陽のゴーシュ",
+          "name": "太阳戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成ゴーシュ",
+          "name": "陈酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "若いゴーシュ",
+          "name": "新酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "真紅のゴーシュ",
+          "name": "深红戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "女騎士と求婚者",
+          "name": "女骑士与求婚者",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南洋冒険奇譚",
+          "name": "南洋冒险奇谭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の盤上遊戯",
+          "name": "东方桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "精霊の盤上遊戯",
+          "name": "精灵桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "黒檀の盤上遊戯",
+          "name": "黑檀桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "ペガサスの風景画",
+          "name": "天马风景画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "盾たちの肖像画",
+          "name": "盾牌众人肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "教職員事件簿",
+          "name": "教职员事件簿",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ],
+          "preferenceCorrection": {
+            "characterId": "character-21",
+            "itemNameJa": "大粒のテフ",
+            "from": "loves",
+            "to": "likes",
+            "reportedBy": "user",
+            "date": "2026-09-30",
+            "note": "用户实测修正：大粒特芙咖啡（大粒のテフ）为“喜欢”；公开攻略原记录为“非常喜欢”。"
+          }
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-21"
+      ],
+      "status": "documented",
+      "notes": [
+        "用户实测修正：大粒特芙咖啡（大粒のテフ）为“喜欢”；公开攻略原记录为“非常喜欢”。"
+      ],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-21.png",
+        "alt": "谭利穆恩的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_23.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-22",
+      "name": "欧露赫露（奥谢尔）",
+      "nameJa": "オルヘル",
+      "nameEn": "Orchel",
+      "loves": [
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-22"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-22.png",
+        "alt": "欧露赫露（奥谢尔）的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_24.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 469,
+        "height": 469,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-23",
+      "name": "阿纳托利亚（爱娜特莉亚）",
+      "nameJa": "アナトリア",
+      "nameEn": "Anatolia",
+      "loves": [
+        {
+          "nameJa": "南洋冒険奇譚",
+          "name": "南洋冒险奇谭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "高級八卦占い道具",
+          "name": "高级八卦占卜道具",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "儀礼用の鋭い槍",
+          "name": "仪式用锋利长枪",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "女騎士と求婚者",
+          "name": "女骑士与求婚者",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "貿易取引入門",
+          "name": "贸易入门",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "闘技場物語の写本",
+          "name": "斗技场故事抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "実用的な裁縫道具",
+          "name": "实用缝纫工具",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-23"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-23.png",
+        "alt": "阿纳托利亚（爱娜特莉亚）的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_25.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 468,
+        "height": 468,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-24",
+      "name": "森图里奥",
+      "nameJa": "セントリオン",
+      "nameEn": "Centurio",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鋭く小さな短剣",
+          "name": "锋利的小短剑",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "儀礼用の鋭い槍",
+          "name": "仪式用锋利长枪",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-24"
+      ],
+      "status": "documented",
+      "notes": [
+        "日文站已有明确礼物记录；中文旧版仍为调查中。"
+      ],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-24.png",
+        "alt": "森图里奥的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_31.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 470,
+        "height": 470,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-25",
+      "name": "特洛伊",
+      "nameJa": "トロイア",
+      "nameEn": "Troy",
+      "loves": [
+        {
+          "nameJa": "素朴な焼き菓子",
+          "name": "朴素烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "少し甘い焼き菓子",
+          "name": "微甜烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "香ばしい焼き菓子",
+          "name": "香烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "子猫の置物",
+          "name": "小猫摆件",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-25"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-25.png",
+        "alt": "特洛伊的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_34.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 471,
+        "height": 471,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-26",
+      "name": "红花",
+      "nameJa": "コウカ",
+      "nameEn": "Hong Hua",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "素朴な焼き菓子",
+          "name": "朴素烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "少し甘い焼き菓子",
+          "name": "微甜烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "香ばしい焼き菓子",
+          "name": "香烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "女騎士と求婚者",
+          "name": "女骑士与求婚者",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "闘技場物語の写本",
+          "name": "斗技场故事抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-26"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-26.png",
+        "alt": "红花的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_35.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 470,
+        "height": 470,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-27",
+      "name": "盖茨",
+      "nameJa": "ゲイツ",
+      "nameEn": "Gaitz",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "馬のお手入れ道具",
+          "name": "马匹护理工具",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ダグザヒゲシバ",
+          "name": "达格萨胡须草",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "髭飾り",
+          "name": "马鬃饰品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鋭く小さな短剣",
+          "name": "锋利的小短剑",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "儀礼用の鋭い槍",
+          "name": "仪式用锋利长枪",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の最高級茶葉",
+          "name": "东方顶级茶叶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "モルフィスの紅茶",
+          "name": "莫尔菲斯红茶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "フォドラの紅茶",
+          "name": "芙朵拉红茶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-27"
+      ],
+      "status": "documented",
+      "notes": [
+        "中日清单存在差异；当前偏好采用采集到的 GameWith 列表，中文独有项保存在 JSON 供核对。"
+      ],
+      "sourceDifference": [
+        "東方の最高級紅茶"
+      ],
+      "portrait": {
+        "src": "assets/portraits/character-27.png",
+        "alt": "盖茨的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_36.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-28",
+      "name": "乌修拉",
+      "nameJa": "ウーシュラ",
+      "nameEn": "Ursula",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の盤上遊戯",
+          "name": "东方桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南洋冒険奇譚",
+          "name": "南洋冒险奇谭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "教職員事件簿",
+          "name": "教职员事件簿",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "女騎士と求婚者",
+          "name": "女骑士与求婚者",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "精霊の盤上遊戯",
+          "name": "精灵桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-28"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-28.png",
+        "alt": "乌修拉的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_37.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-29",
+      "name": "迭戈",
+      "nameJa": "ディエゴ",
+      "nameEn": "Diego",
+      "loves": [
+        {
+          "nameJa": "美しい飾り矢",
+          "name": "精美装饰箭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "関節保護用長手袋",
+          "name": "护关节长手套",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "弓の手入れ道具",
+          "name": "弓保养工具",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "旅の老師の口伝録",
+          "name": "游历老者口述录",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "海の向こうの古書",
+          "name": "海外古书",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の盤上遊戯",
+          "name": "东方桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "教職員事件簿",
+          "name": "教职员事件簿",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "精霊の盤上遊戯",
+          "name": "精灵桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "盤上遊戯の定跡集",
+          "name": "桌游定式集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-29"
+      ],
+      "status": "documented",
+      "notes": [
+        "日文站已有明确礼物记录；中文旧版仍为调查中。"
+      ],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-29.png",
+        "alt": "迭戈的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_38.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-30",
+      "name": "沙兰",
+      "nameJa": "サラン",
+      "nameEn": "Sha Lan",
+      "loves": [
+        {
+          "nameJa": "薬草料理大全",
+          "name": "药草料理大全",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ガルム",
+          "name": "加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ニーザ産ガルム",
+          "name": "尼萨产加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "アレクトーガルム",
+          "name": "阿勒克托加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "濃厚なガルム",
+          "name": "浓郁加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "村の素朴な料理集",
+          "name": "乡村家常食谱",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "二振りの魚包丁",
+          "name": "两把鱼刀",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "味わい深い調味料",
+          "name": "浓香调味料",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "家庭料理大全",
+          "name": "家庭料理大全",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "栄養満点お菓子本",
+          "name": "营养点心食谱",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の最高級茶葉",
+          "name": "东方顶级茶叶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "翡翠色のゴーシュ",
+          "name": "翡翠戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "モルフィスの紅茶",
+          "name": "莫尔菲斯红茶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "フォドラの紅茶",
+          "name": "芙朵拉红茶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "巨大魚の目玉",
+          "name": "巨鱼眼球",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-30"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-30.png",
+        "alt": "沙兰的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_39.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-31",
+      "name": "但丁",
+      "nameJa": "ダンテ",
+      "nameEn": "Dante",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "女騎士と求婚者",
+          "name": "女骑士与求婚者",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "旅の老師の口伝録",
+          "name": "游历老者口述录",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "貿易取引入門",
+          "name": "贸易入门",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-31"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-31.png",
+        "alt": "但丁的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_40.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-32",
+      "name": "希蒙",
+      "nameJa": "シモン",
+      "nameEn": "Simon",
+      "loves": [
+        {
+          "nameJa": "球根の酢漬け",
+          "name": "醋渍球根",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "野菜の瓶漬け",
+          "name": "瓶装腌蔬菜",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "奇妙な野菜の種子",
+          "name": "奇特蔬菜种子",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-32"
+      ],
+      "status": "documented",
+      "notes": [
+        "日文站已有明确礼物记录；中文旧版仍为调查中。"
+      ],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-32.png",
+        "alt": "希蒙的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_41.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-33",
+      "name": "妮娜",
+      "nameJa": "ニネ",
+      "nameEn": "Ninae",
+      "loves": [
+        {
+          "nameJa": "ユ・ファスの肖像",
+          "name": "尤法斯肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "淡い色の画材",
+          "name": "浅色画材",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ペガサスの風景画",
+          "name": "天马风景画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "派手で美しい指輪",
+          "name": "华丽戒指",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-33"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-33.png",
+        "alt": "妮娜的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_42.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 160,
+        "height": 160,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-34",
+      "name": "哪吒",
+      "nameJa": "ナジャ",
+      "nameEn": "Nezha",
+      "loves": [
+        {
+          "nameJa": "野菜の鉢植え",
+          "name": "盆栽蔬菜",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "球根の酢漬け",
+          "name": "醋渍球根",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "野菜の瓶漬け",
+          "name": "瓶装腌蔬菜",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の盤上遊戯",
+          "name": "东方桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "黒檀の盤上遊戯",
+          "name": "黑檀桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "精霊の盤上遊戯",
+          "name": "精灵桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-34"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-34.png",
+        "alt": "哪吒的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_43.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 160,
+        "height": 160,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-35",
+      "name": "古扎岚",
+      "nameJa": "グザラン",
+      "nameEn": "Guzran",
+      "loves": [
+        {
+          "nameJa": "若いゴーシュ",
+          "name": "新酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成ゴーシュ",
+          "name": "陈酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "太陽のゴーシュ",
+          "name": "太阳戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "刺激的なゴーシュ",
+          "name": "烈性戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "素朴なゴーシュ",
+          "name": "朴素戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "翡翠色のゴーシュ",
+          "name": "翡翠戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方のゴーシュ",
+          "name": "南方戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "火の山のゴーシュ",
+          "name": "火山戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "若いソウシュ",
+          "name": "新酿苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成ソウシュ",
+          "name": "陈酿苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "芳醇なソウシュ",
+          "name": "醇香苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-35"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-35.png",
+        "alt": "古扎岚的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_44.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 426,
+        "height": 426,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-36",
+      "name": "努蒂奴",
+      "nameJa": "ヌディーヌ",
+      "nameEn": "Nydine",
+      "loves": [
+        {
+          "nameJa": "風裂きの矢羽根",
+          "name": "裂风箭羽",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "関節保護用長手袋",
+          "name": "护关节长手套",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "盾たちの肖像画",
+          "name": "盾牌众人肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ペガサスの風景画",
+          "name": "天马风景画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ユ・ファスの肖像",
+          "name": "尤法斯肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南洋冒険奇譚",
+          "name": "南洋冒险奇谭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鬣飾り",
+          "name": "马鬃饰品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "美しい飾り弓",
+          "name": "精美装饰弓",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "美しい飾り矢",
+          "name": "精美装饰箭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "栄養満点お菓子本",
+          "name": "营养点心食谱",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "教職員事件簿",
+          "name": "教职员事件簿",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "女騎士と求婚者",
+          "name": "女骑士与求婚者",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "闘技場物語の写本",
+          "name": "斗技场故事抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の耳飾り",
+          "name": "东方耳饰",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-36"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-36.png",
+        "alt": "努蒂奴的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_45.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 160,
+        "height": 160,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-37",
+      "name": "伊欧",
+      "nameJa": "イオ",
+      "nameEn": "Io",
+      "loves": [
+        {
+          "nameJa": "馬のお手入れ道具",
+          "name": "马匹护理工具",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ダグザヒゲシバ",
+          "name": "达格萨胡须草",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "髭飾り",
+          "name": "马鬃饰品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-37"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-37.png",
+        "alt": "伊欧的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_46.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-38",
+      "name": "卡塔妮娅",
+      "nameJa": "カターニャ",
+      "nameEn": "Catania",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "盾たちの肖像画",
+          "name": "盾牌众人肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ペガサスの風景画",
+          "name": "天马风景画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "よく切れる彫刻刀",
+          "name": "锋利雕刻刀",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ユ・ファスの肖像",
+          "name": "尤法斯肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-38"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-38.png",
+        "alt": "卡塔妮娅的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_47.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 442,
+        "height": 442,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-39",
+      "name": "本迪茨",
+      "nameJa": "ベンディッツ",
+      "nameEn": "Benditz",
+      "loves": [
+        {
+          "nameJa": "精霊の盤上遊戯",
+          "name": "精灵桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の盤上遊戯",
+          "name": "东方桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "軍略書の写本",
+          "name": "军略书抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南洋冒険奇譚",
+          "name": "南洋冒险奇谭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "儀礼用の鋭い槍",
+          "name": "仪式用锋利长枪",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "鋭く小さな短剣",
+          "name": "锋利的小短剑",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鍛錬用の装飾腕輪",
+          "name": "训练装饰臂环",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-39"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-39.png",
+        "alt": "本迪茨的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_48.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-40",
+      "name": "亚历桑德拉",
+      "nameJa": "アレキサンドラ",
+      "nameEn": "Alexandra",
+      "loves": [
+        {
+          "nameJa": "馬のお手入れ道具",
+          "name": "马匹护理工具",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "髭飾り",
+          "name": "马鬃饰品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ダグザヒゲシバ",
+          "name": "达格萨胡须草",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ペガサスの風景画",
+          "name": "天马风景画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-40"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-40.png",
+        "alt": "亚历桑德拉的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_49.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-41",
+      "name": "诺库图拉（诺克裘拉）",
+      "nameJa": "ノクチュラ",
+      "nameEn": "Noctula",
+      "loves": [
+        {
+          "nameJa": "鍛錬用の装飾腕輪",
+          "name": "训练装饰臂环",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "武術訓練用の重り",
+          "name": "武术训练重物",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "軍略書の写本",
+          "name": "军略书抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "儀礼用の鋭い槍",
+          "name": "仪式用锋利长枪",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鋭く小さな短剣",
+          "name": "锋利的小短剑",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-41"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-41.png",
+        "alt": "诺库图拉（诺克裘拉）的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_50.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 425,
+        "height": 425,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-42",
+      "name": "杨界",
+      "nameJa": "ヨーカイ",
+      "nameEn": "Yang Jie",
+      "loves": [
+        {
+          "nameJa": "若いゴーシュ",
+          "name": "新酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成ゴーシュ",
+          "name": "陈酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "太陽のゴーシュ",
+          "name": "太阳戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "刺激的なゴーシュ",
+          "name": "烈性戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "素朴なゴーシュ",
+          "name": "朴素戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "翡翠色のゴーシュ",
+          "name": "翡翠戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方のゴーシュ",
+          "name": "南方戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "真紅のゴーシュ",
+          "name": "深红戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "秘伝のゴーシュ",
+          "name": "秘传戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "若いソウシュ",
+          "name": "新酿苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成ソウシュ",
+          "name": "陈酿苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "軽妙なソウシュ",
+          "name": "轻快苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "芳醇なソウシュ",
+          "name": "醇香苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "火の山のゴーシュ",
+          "name": "火山戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "女騎士と求婚者",
+          "name": "女骑士与求婚者",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方恋愛見聞録",
+          "name": "东方恋爱见闻录",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南洋冒険奇譚",
+          "name": "南洋冒险奇谭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "闘技場物語の写本",
+          "name": "斗技场故事抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "教職員事件簿",
+          "name": "教职员事件簿",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "精霊の盤上遊戯",
+          "name": "精灵桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の盤上遊戯",
+          "name": "东方桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-42"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-42.png",
+        "alt": "杨界的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_51.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 440,
+        "height": 440,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-43",
+      "name": "索绯雅",
+      "nameJa": "ソフィア",
+      "nameEn": "Sofia",
+      "loves": [
+        {
+          "nameJa": "ニーザ産ガルム",
+          "name": "尼萨产加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ガルム",
+          "name": "加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "濃厚なガルム",
+          "name": "浓郁加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "アレクトーガルム",
+          "name": "阿勒克托加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "薬草料理大全",
+          "name": "药草料理大全",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "二振りの魚包丁",
+          "name": "两把鱼刀",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "味わい深い調味料",
+          "name": "浓香调味料",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "野外調理道具",
+          "name": "野外烹饪工具",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "村の素朴な料理集",
+          "name": "乡村家常食谱",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "家庭料理大全",
+          "name": "家庭料理大全",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ジャーメルの乳",
+          "name": "贾梅尔奶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ヤクの乳",
+          "name": "牦牛奶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "濃いセルビ",
+          "name": "浓塞尔维饮品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "薄いセルビ",
+          "name": "淡塞尔维饮品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成干しセルビ",
+          "name": "熟成干制塞尔维",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "蜂蜜入りの乳",
+          "name": "蜂蜜奶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ギンジ入りセルビ",
+          "name": "银吉塞尔维饮品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "少し甘い焼き菓子",
+          "name": "微甜烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "素朴な焼き菓子",
+          "name": "朴素烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "香ばしい焼き菓子",
+          "name": "香烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "サラミスの菓子",
+          "name": "萨拉米斯点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "栄養満点お菓子本",
+          "name": "营养点心食谱",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "珍しい香辛料",
+          "name": "稀有香辛料",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-43"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-43.png",
+        "alt": "索绯雅的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_52.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-44",
+      "name": "努佐",
+      "nameJa": "ヌッツォ",
+      "nameEn": "Nuzzuo",
+      "loves": [
+        {
+          "nameJa": "ガルム",
+          "name": "加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ニーザ産ガルム",
+          "name": "尼萨产加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "薬草料理大全",
+          "name": "药草料理大全",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "野外調理道具",
+          "name": "野外烹饪工具",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "味わい深い調味料",
+          "name": "浓香调味料",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "野菜の瓶漬け",
+          "name": "瓶装腌蔬菜",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "野菜の鉢植え",
+          "name": "盆栽蔬菜",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "盾たちの肖像画",
+          "name": "盾牌众人肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ペガサスの風景画",
+          "name": "天马风景画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ユ・ファスの肖像",
+          "name": "尤法斯肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "家庭料理大全",
+          "name": "家庭料理大全",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-44"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-44.png",
+        "alt": "努佐的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_53.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 471,
+        "height": 471,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-45",
+      "name": "马吉德",
+      "nameJa": "マジーデ",
+      "nameEn": "Majide",
+      "loves": [
+        {
+          "nameJa": "若いゴーシュ",
+          "name": "新酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成ゴーシュ",
+          "name": "陈酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "太陽のゴーシュ",
+          "name": "太阳戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "刺激的なゴーシュ",
+          "name": "烈性戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "素朴なゴーシュ",
+          "name": "朴素戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "翡翠色のゴーシュ",
+          "name": "翡翠戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方のゴーシュ",
+          "name": "南方戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "火の山のゴーシュ",
+          "name": "火山戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "真紅のゴーシュ",
+          "name": "深红戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "若いソウシュ",
+          "name": "新酿苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成ソウシュ",
+          "name": "陈酿苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "軽妙なソウシュ",
+          "name": "轻快苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "芳醇なソウシュ",
+          "name": "醇香苏修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-45"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-45.png",
+        "alt": "马吉德的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_54.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 160,
+        "height": 160,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-46",
+      "name": "扎尔科内",
+      "nameJa": "ザーコネ",
+      "nameEn": "Zarcone",
+      "loves": [
+        {
+          "nameJa": "野菜の瓶漬け",
+          "name": "瓶装腌蔬菜",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "球根の酢漬け",
+          "name": "醋渍球根",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "野菜の鉢植え",
+          "name": "盆栽蔬菜",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "奇妙な野菜の種子",
+          "name": "奇特蔬菜种子",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-46"
+      ],
+      "status": "documented",
+      "notes": [
+        "日文站已有明确礼物记录；中文旧版仍为调查中。"
+      ],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-46.png",
+        "alt": "扎尔科内的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_55.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 160,
+        "height": 160,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-47",
+      "name": "歌利亚",
+      "nameJa": "ゴライアス",
+      "nameEn": "Goliath",
+      "loves": [
+        {
+          "nameJa": "若いゴーシュ",
+          "name": "新酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "太陽のゴーシュ",
+          "name": "太阳戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成ゴーシュ",
+          "name": "陈酿戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "刺激的なゴーシュ",
+          "name": "烈性戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "素朴なゴーシュ",
+          "name": "朴素戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "翡翠色のゴーシュ",
+          "name": "翡翠戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方のゴーシュ",
+          "name": "南方戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "火の山のゴーシュ",
+          "name": "火山戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "精霊の盤上遊戯",
+          "name": "精灵桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の盤上遊戯",
+          "name": "东方桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-47"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-47.png",
+        "alt": "歌利亚的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_56.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 160,
+        "height": 160,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-48",
+      "name": "杰斯特",
+      "nameJa": "ジェスター",
+      "nameEn": "Jester",
+      "loves": [],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-48"
+      ],
+      "status": "unknown",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-48.png",
+        "alt": "杰斯特的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_57.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-49",
+      "name": "露迪亚",
+      "nameJa": "ルルディヤー",
+      "nameEn": "Ludia",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "庶民百景",
+          "name": "庶民百景",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "女騎士と求婚者",
+          "name": "女骑士与求婚者",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "貿易取引入門",
+          "name": "贸易入门",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "闘技場物語の写本",
+          "name": "斗技场故事抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "よく切れる彫刻刀",
+          "name": "锋利雕刻刀",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "淡い色の画材",
+          "name": "浅色画材",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-49"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-49.png",
+        "alt": "露迪亚的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_58.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 160,
+        "height": 160,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-50",
+      "name": "菲安娜",
+      "nameJa": "フィアナ",
+      "nameEn": "Fianna",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "旅の老師の口伝録",
+          "name": "游历老者口述录",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "モルフィスの紅茶",
+          "name": "莫尔菲斯红茶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の最高級茶葉",
+          "name": "东方顶级茶叶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "モルフィスの紅茶",
+          "name": "莫尔菲斯红茶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "フォドラの紅茶",
+          "name": "芙朵拉红茶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-50"
+      ],
+      "status": "documented",
+      "notes": [
+        "中日清单存在差异；当前偏好采用采集到的 GameWith 列表，中文独有项保存在 JSON 供核对。"
+      ],
+      "sourceDifference": [
+        "東方の最高級紅茶"
+      ],
+      "portrait": {
+        "src": "assets/portraits/character-50.png",
+        "alt": "菲安娜的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_59.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-51",
+      "name": "大刀",
+      "nameJa": "ダイトウ",
+      "nameEn": "Dadao",
+      "loves": [
+        {
+          "nameJa": "真紅のゴーシュ",
+          "name": "深红戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ヤクの乳",
+          "name": "牦牛奶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "蜂蜜入りの乳",
+          "name": "蜂蜜奶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ジャーメルの乳",
+          "name": "贾梅尔奶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "薄いセルビ",
+          "name": "淡塞尔维饮品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "濃いセルビ",
+          "name": "浓塞尔维饮品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "熟成干しセルビ",
+          "name": "熟成干制塞尔维",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ギンジ入りセルビ",
+          "name": "银吉塞尔维饮品",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "素朴な焼き菓子",
+          "name": "朴素烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "火の山のゴーシュ",
+          "name": "火山戈修发酵酒",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "モルフィスの紅茶",
+          "name": "莫尔菲斯红茶",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-51"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-51.png",
+        "alt": "大刀的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_60.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 160,
+        "height": 160,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-52",
+      "name": "哈尔温",
+      "nameJa": "ハルヴィン",
+      "nameEn": "Halvin",
+      "loves": [
+        {
+          "nameJa": "ガルム",
+          "name": "加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ニーザ産ガルム",
+          "name": "尼萨产加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "野菜の鉢植え",
+          "name": "盆栽蔬菜",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "野菜の酢漬け",
+          "name": "醋渍蔬菜",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "球根の酢漬け",
+          "name": "醋渍球根",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "高級八卦占い道具",
+          "name": "高级八卦占卜道具",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-52"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-52.png",
+        "alt": "哈尔温的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_61.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 160,
+        "height": 160,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-53",
+      "name": "赛特斯",
+      "nameJa": "セテス",
+      "nameEn": "Seteth",
+      "loves": [
+        {
+          "nameJa": "鋭い釣り針",
+          "name": "锋利鱼钩",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "しなやかな釣り竿",
+          "name": "柔韧鱼竿",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-53"
+      ],
+      "status": "documented",
+      "notes": [
+        "日文站已有明确礼物记录；中文旧版仍为调查中。"
+      ],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-53.png",
+        "alt": "赛特斯的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_62.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 160,
+        "height": 160,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-54",
+      "name": "洛蕾塔",
+      "nameJa": "ロレッタ",
+      "nameEn": "Loretta",
+      "loves": [
+        {
+          "nameJa": "少し甘い焼き菓子",
+          "name": "微甜烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "素朴な焼き菓子",
+          "name": "朴素烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "サラミスの菓子",
+          "name": "萨拉米斯点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "香ばしい焼き菓子",
+          "name": "香烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "家庭料理大全",
+          "name": "家庭料理大全",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-54"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-54.png",
+        "alt": "洛蕾塔的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_63.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 160,
+        "height": 160,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-55",
+      "name": "内森",
+      "nameJa": "ネイサン",
+      "nameEn": "Nathan",
+      "loves": [
+        {
+          "nameJa": "鋭く小さな短剣",
+          "name": "锋利的小短剑",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "儀礼用の鋭い槍",
+          "name": "仪式用锋利长枪",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "軍略書の写本",
+          "name": "军略书抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "武術訓練用の重り",
+          "name": "武术训练重物",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鍛錬用の装飾腕輪",
+          "name": "训练装饰臂环",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "骨董の戦功章",
+          "name": "古董战功勋章",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-55"
+      ],
+      "status": "documented",
+      "notes": [
+        "日文站已有明确礼物记录；中文旧版仍为调查中。"
+      ],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-55.png",
+        "alt": "内森的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_64.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 425,
+        "height": 425,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-56",
+      "name": "克里克",
+      "nameJa": "キリーク",
+      "nameEn": "Creek",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鋭く小さな短剣",
+          "name": "锋利的小短剑",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "儀礼用の鋭い槍",
+          "name": "仪式用锋利长枪",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "軍略書の写本",
+          "name": "军略书抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鍛錬用の装飾腕輪",
+          "name": "训练装饰臂环",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-56"
+      ],
+      "status": "documented",
+      "notes": [
+        "日文站已有明确礼物记录；中文旧版仍为调查中。"
+      ],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-56.png",
+        "alt": "克里克的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_65.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 471,
+        "height": 471,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-57",
+      "name": "贾斯敏",
+      "nameJa": "ジャスミン",
+      "nameEn": "Jasmine",
+      "loves": [
+        {
+          "nameJa": "素朴な焼き菓子",
+          "name": "朴素烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "少し甘い焼き菓子",
+          "name": "微甜烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "香ばしい焼き菓子",
+          "name": "香烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ガルム",
+          "name": "加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "淡麗なガルム",
+          "name": "清淡加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ニーザ産ガルム",
+          "name": "尼萨产加尔姆",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の盤上遊戯",
+          "name": "东方桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-57"
+      ],
+      "status": "documented",
+      "notes": [
+        "日文站已有明确礼物记录；中文旧版仍为调查中。"
+      ],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-57.png",
+        "alt": "贾斯敏的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_66.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 250,
+        "height": 230,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-58",
+      "name": "基洛克",
+      "nameJa": "キロイカ",
+      "nameEn": "Kiroc",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "派手すぎる腕輪",
+          "name": "华丽手镯",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の耳飾り",
+          "name": "东方耳饰",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "南部の珍しい種子",
+          "name": "南部稀有种子",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "天露水",
+          "name": "天露水",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-58"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-58.png",
+        "alt": "基洛克的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_67.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 250,
+        "height": 230,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-59",
+      "name": "伊尼奥妮",
+      "nameJa": "イニオニ",
+      "nameEn": "Inyoni",
+      "loves": [
+        {
+          "nameJa": "美しい飾り矢",
+          "name": "精美装饰箭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "関節保護用長手袋",
+          "name": "护关节长手套",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "風裂きの矢羽根",
+          "name": "裂风箭羽",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "しなやかな釣り竿",
+          "name": "柔韧鱼竿",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鋭い釣り針",
+          "name": "锋利鱼钩",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-59"
+      ],
+      "status": "documented",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-59.png",
+        "alt": "伊尼奥妮的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_68.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 468,
+        "height": 468,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-60",
+      "name": "佩佩",
+      "nameJa": "ペペ",
+      "nameEn": "Peppe",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南洋冒険奇譚",
+          "name": "南洋冒险奇谭",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "教職員事件簿",
+          "name": "教职员事件簿",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "闘技場物語の写本",
+          "name": "斗技场故事抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "貿易取引入門",
+          "name": "贸易入门",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "女騎士と求婚者",
+          "name": "女骑士与求婚者",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "庶民百景",
+          "name": "庶民百景",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "栄養満点お菓子本",
+          "name": "营养点心食谱",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "薬草料理大全",
+          "name": "药草料理大全",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ユ・ファスの肖像",
+          "name": "尤法斯肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "盾たちの肖像画",
+          "name": "盾牌众人肖像画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "ペガサスの風景画",
+          "name": "天马风景画",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-60"
+      ],
+      "status": "documented",
+      "notes": [
+        "日文站已有明确礼物记录；中文旧版仍为调查中。"
+      ],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-60.png",
+        "alt": "佩佩的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_69.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-61",
+      "name": "阿斯旺",
+      "nameJa": "アスワン",
+      "nameEn": "Aswan",
+      "loves": [
+        {
+          "nameJa": "ダンテ戯曲全集",
+          "name": "但丁戏剧全集",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "旅の老師の口伝録",
+          "name": "游历老者口述录",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "海の向こうの古書",
+          "name": "海外古书",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方恋愛見聞録",
+          "name": "东方恋爱见闻录",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "教職員事件簿",
+          "name": "教职员事件簿",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "東方の盤上遊戯",
+          "name": "东方桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "精霊の盤上遊戯",
+          "name": "精灵桌游",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "テフ入り焼き菓子",
+          "name": "特芙咖啡烤点心",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-61"
+      ],
+      "status": "documented",
+      "notes": [
+        "日文站已有明确礼物记录；中文旧版仍为调查中。"
+      ],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-61.png",
+        "alt": "阿斯旺的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_76.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-62",
+      "name": "塔霍妮娅",
+      "nameJa": "タホウニア",
+      "nameEn": "Tahonia",
+      "loves": [],
+      "likes": [],
+      "sourceIds": [
+        "gamewith",
+        "cn-62"
+      ],
+      "status": "unknown",
+      "notes": [],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-62.png",
+        "alt": "塔霍妮娅的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_77.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 450,
+        "height": 450,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    },
+    {
+      "id": "character-63",
+      "name": "克拉普卡",
+      "nameJa": "クラプカ",
+      "nameEn": "Klapka",
+      "loves": [
+        {
+          "nameJa": "小粒のテフ",
+          "name": "小粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "大粒のテフ",
+          "name": "大粒特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "オーガスのテフ",
+          "name": "奥古斯特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "南方の薫るテフ",
+          "name": "南方香醇特芙咖啡",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "鋭く小さな短剣",
+          "name": "锋利的小短剑",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "儀礼用の鋭い槍",
+          "name": "仪式用锋利长枪",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "軍略書の写本",
+          "name": "军略书抄本",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        },
+        {
+          "nameJa": "武術訓練用の重り",
+          "name": "武术训练重物",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "likes": [
+        {
+          "nameJa": "鍛錬用の装飾腕輪",
+          "name": "训练装饰臂环",
+          "kind": "item",
+          "sourceIds": [
+            "gamewith"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gamewith",
+        "cn-63"
+      ],
+      "status": "documented",
+      "notes": [
+        "日文站已有明确礼物记录；中文旧版仍为调查中。"
+      ],
+      "sourceDifference": [],
+      "portrait": {
+        "src": "assets/portraits/character-63.png",
+        "alt": "克拉普卡的人物头像",
+        "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_78.png",
+        "sourcePage": "https://gamewith.jp/fefw/577115",
+        "width": 488,
+        "height": 480,
+        "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
+      }
+    }
+  ]
+}
