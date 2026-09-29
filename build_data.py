@@ -12,14 +12,14 @@ cn=json.loads((CACHE/'cn_pages.json').read_text(encoding='utf-8'))
 translations={}
 chars=[]
 for c in cn:
-    source('cn-'+str(c['page']),'zh','游民星空 · '+c['text'].splitlines()[0].split('：')[-1].replace('厄休拉','乌修拉').replace('西蒙','希蒙').replace('奈丁','努蒂奴'),c['url'],'中文译名及偏好对照。该文引用 GameWith，不计为独立实测。')
+    source('cn-'+str(c['page']),'zh','游民星空 · '+c['text'].splitlines()[0].split('：')[-1].replace('厄休拉','乌修拉').replace('西蒙','希蒙').replace('奈丁','努蒂奴').replace('洛蕾塔','罗蕾塔'),c['url'],'中文译名及偏好对照。该文引用 GameWith，不计为独立实测。')
     lines=c['text'].splitlines()
     head=next(x for x in lines if '·' in x)
     left,jp=[x.strip() for x in head.split('·',1)]
     match=re.match(r'(.+?)\s+([A-Za-z].*)',left)
     zh,en=match.groups()
     # Character name corrected by the user.
-    zh={'厄休拉':'乌修拉','西蒙':'希蒙','奈丁':'努蒂奴'}.get(zh,zh)
+    zh={'厄休拉':'乌修拉','西蒙':'希蒙','奈丁':'努蒂奴','洛蕾塔':'罗蕾塔'}.get(zh,zh)
     for a,b in re.findall(r'([^（）、：\n]+)（([^（）]+)）',c['text']):
         a=re.sub(r'^(非常喜欢|喜欢|训练装备|英文攻略补充)\s*','',a).strip()
         if re.search(r'[ぁ-ヿ]',b) or b in ['天露水','南洋冒険奇譚']:

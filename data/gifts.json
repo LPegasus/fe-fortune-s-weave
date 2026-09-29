@@ -5409,7 +5409,7 @@
     },
     {
       "id": "character-54",
-      "name": "洛蕾塔",
+      "name": "罗蕾塔",
       "nameJa": "ロレッタ",
       "nameEn": "Loretta",
       "loves": [
@@ -5473,7 +5473,7 @@
       "sourceDifference": [],
       "portrait": {
         "src": "assets/portraits/character-54.png",
-        "alt": "洛蕾塔的人物头像",
+        "alt": "罗蕾塔的人物头像",
         "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_63.png",
         "sourcePage": "https://gamewith.jp/fefw/577115",
         "width": 160,
