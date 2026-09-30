@@ -1,0 +1,17 @@
+{
+  "gifts": {
+    "sourceCharacters": 57,
+    "sourcePreferences": 751,
+    "addedPreferences": 673,
+    "matchedPreferences": 78,
+    "userOverrides": 1,
+    "conflictingItems": 113
+  },
+  "shops": {
+    "sourceLocations": 21,
+    "sourceObservations": 141,
+    "addedLocations": 9,
+    "addedProducts": 50,
+    "matchedProducts": 91
+  }
+}

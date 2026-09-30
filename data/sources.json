@@ -122,7 +122,7 @@
   {
     "id": "cn-11",
     "language": "zh",
-    "title": "游民星空 · 米凯伊拉",
+    "title": "游民星空 · 米迦艾拉",
     "url": "https://www.gamersky.com/handbook/202609/2217606_11.shtml",
     "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
     "accessed": "2026-09-29"
@@ -146,7 +146,7 @@
   {
     "id": "cn-14",
     "language": "zh",
-    "title": "游民星空 · 莉莲",
+    "title": "游民星空 · 莉利安",
     "url": "https://www.gamersky.com/handbook/202609/2217606_14.shtml",
     "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
     "accessed": "2026-09-29"
@@ -178,7 +178,7 @@
   {
     "id": "cn-18",
     "language": "zh",
-    "title": "游民星空 · 奥林匹亚",
+    "title": "游民星空 · 奥琳琵娅",
     "url": "https://www.gamersky.com/handbook/202609/2217606_18.shtml",
     "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
     "accessed": "2026-09-29"
@@ -282,7 +282,7 @@
   {
     "id": "cn-31",
     "language": "zh",
-    "title": "游民星空 · 但丁",
+    "title": "游民星空 · 丹提",
     "url": "https://www.gamersky.com/handbook/202609/2217606_31.shtml",
     "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
     "accessed": "2026-09-29"
@@ -418,7 +418,7 @@
   {
     "id": "cn-48",
     "language": "zh",
-    "title": "游民星空 · 杰斯特",
+    "title": "游民星空 · 杰斯塔",
     "url": "https://www.gamersky.com/handbook/202609/2217606_48.shtml",
     "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
     "accessed": "2026-09-29"
@@ -426,7 +426,7 @@
   {
     "id": "cn-49",
     "language": "zh",
-    "title": "游民星空 · 露迪亚",
+    "title": "游民星空 · 露露蒂雅",
     "url": "https://www.gamersky.com/handbook/202609/2217606_49.shtml",
     "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
     "accessed": "2026-09-29"
@@ -458,7 +458,7 @@
   {
     "id": "cn-53",
     "language": "zh",
-    "title": "游民星空 · 赛特斯",
+    "title": "游民星空 · 西提司",
     "url": "https://www.gamersky.com/handbook/202609/2217606_53.shtml",
     "note": "中文译名及偏好对照。该文引用 GameWith，不计为独立实测。",
     "accessed": "2026-09-29"
@@ -1148,7 +1148,63 @@
     "language": "ja",
     "title": "GameWith · 人物头像图鉴",
     "url": "https://gamewith.jp/fefw/573109",
-    "note": "头像按日文姓名逐一匹配，使用原始游戏角色图；图片归 Nintendo / INTELLIGENT SYSTEMS 所有，本地缓存供页面离线显示。",
-    "accessed": "2026-09-30"
+    "note": "人物头像按姓名匹配并本地缓存；图片归 Nintendo / INTELLIGENT SYSTEMS 所有。",
+    "accessed": "2026-09-29"
+  },
+  {
+    "id": "fwsite-misc",
+    "language": "zh",
+    "title": "万缕千丝中文攻略站 · 礼物与商人",
+    "url": "https://fire-emblem-fw.site/misc.html",
+    "note": "2026-10-01 导入；礼物主要转译 Game8，并含玩家补充。按日文名称取并集，冲突保留原始来源，用户修正优先。",
+    "accessed": "2026-10-01"
+  },
+  {
+    "id": "game8-gift-alignment",
+    "language": "ja",
+    "title": "Game8 · 礼物原名对照",
+    "url": "https://game8.jp/fe-banshisenko/816847",
+    "note": "用于核对中文站译名与日文物品身份；不将转译页面视为独立实测。",
+    "accessed": "2026-10-01"
+  },
+  {
+    "id": "fwsite-characters",
+    "language": "zh",
+    "title": "万缕千丝中文攻略站 · 人物图鉴",
+    "url": "https://fire-emblem-fw.site/characters.html",
+    "note": "人物通过共用 GameWith 头像编号及对应日文名对齐。",
+    "accessed": "2026-10-01"
+  },
+  {
+    "id": "fwsite-merchants",
+    "language": "zh",
+    "title": "万缕千丝中文攻略站 · 商人截图与帝都兑换",
+    "url": "https://fire-emblem-fw.site/misc.html",
+    "note": "旺达尔商会的商人固定在各地点，用素材交换（帝都鞑古席翁的「交换材料」也是旺达尔商会）；旅行商人用金币购买，位置不固定、会随机出现在世界地图各处，这里记的是已观测到的位置。截图时期为赛奥朵拉篇第 10 章，其他篇章与时期可能不同。库存为截图当时的剩余数量。",
+    "accessed": "2026-10-01"
+  },
+  {
+    "id": "gamewith-item-alignment",
+    "language": "ja",
+    "title": "GameWith · 物品原名对照",
+    "url": "https://gamewith.jp/fefw/574296",
+    "note": "按原名、用途、获取地点核对物品及材料的不同中文译名。",
+    "accessed": "2026-10-01"
+  },
+  {
+    "id": "gamewith-weapon-alignment",
+    "language": "ja",
+    "title": "GameWith · 武器原名对照",
+    "url": "https://gamewith.jp/fefw/576859",
+    "note": "核对武器名称、数值和获取地点。",
+    "accessed": "2026-10-01"
+  },
+  {
+    "id": "gamewith-equipment-alignment",
+    "language": "ja",
+    "title": "GameWith · 装备原名对照",
+    "url": "https://gamewith.jp/fefw/574252",
+    "note": "按装备效果区分面具、护符等不同物品，避免将相近中文译名误合并。",
+    "accessed": "2026-10-01"
   }
 ]

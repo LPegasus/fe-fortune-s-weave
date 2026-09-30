@@ -1,0 +1,2233 @@
+{
+  "sourceId": "fwsite-merchants",
+  "url": "https://fire-emblem-fw.site/misc.html",
+  "fetchedAt": "2026-10-01",
+  "upstreamDataUrl": "https://fire-emblem-fw.site/data/v/merchants.721c47b4.json",
+  "context": "站长游戏截图（赛奥朵拉篇第 10 章，1449 年 9 月 12 日）",
+  "note": "旺达尔商会的商人固定在各地点，用素材交换（帝都鞑古席翁的「交换材料」也是旺达尔商会）；旅行商人用金币购买，位置不固定、会随机出现在世界地图各处，这里记的是已观测到的位置。截图时期为赛奥朵拉篇第 10 章，其他篇章与时期可能不同。库存为截图当时的剩余数量。",
+  "locations": [
+    {
+      "locationId": "fw-travel-1",
+      "name": "亚席罗堡垒",
+      "nameJa": null,
+      "rawName": "亚席罗堡垒",
+      "type": "travel",
+      "items": [
+        {
+          "name": "粉碎斧",
+          "nameJa": "スマッシュアクス",
+          "rawName": "猛击斧",
+          "stock": 1,
+          "price": 1920,
+          "exchange": []
+        },
+        {
+          "name": "对魔铁甲",
+          "nameJa": "対魔の鉄甲",
+          "rawName": "对魔铁甲",
+          "stock": 1,
+          "price": 1920,
+          "exchange": []
+        },
+        {
+          "name": "黑魔术指南书",
+          "nameJa": "黒魔術指南書",
+          "rawName": "黑魔术指南书",
+          "stock": 3,
+          "price": 1000,
+          "exchange": []
+        },
+        {
+          "name": "白魔术指南书",
+          "nameJa": "白魔術指南書",
+          "rawName": "白魔术指南书",
+          "stock": 3,
+          "price": 1000,
+          "exchange": []
+        }
+      ]
+    },
+    {
+      "locationId": "place-29",
+      "name": "马翁城郭",
+      "nameJa": "マオン城郭",
+      "rawName": "马恩城郭",
+      "type": "vandhal",
+      "items": [
+        {
+          "name": "噬毒宝珠",
+          "nameJa": "毒喰の宝珠",
+          "rawName": "噬毒宝珠",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "龙舌兰",
+              "nameJa": "アガヴェ",
+              "rawName": "龙舌兰",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "猎毒宝珠",
+          "nameJa": "毒狩の宝珠",
+          "rawName": "猎毒宝珠",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "索尔吉",
+              "nameJa": "ソルギ",
+              "rawName": "梭露季",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "优质武具箱",
+          "nameJa": "良質な武具箱",
+          "rawName": "优良武具箱",
+          "stock": 3,
+          "price": null,
+          "exchange": [
+            {
+              "name": "克雷斯托尔",
+              "nameJa": "クレストル",
+              "rawName": "库勒司妥露",
+              "quantity": 1
+            },
+            {
+              "name": "阿帕奇亚",
+              "nameJa": "アパチア",
+              "rawName": "阿帕提芽",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "书箱",
+          "nameJa": "書箱",
+          "rawName": "书箱",
+          "stock": 5,
+          "price": null,
+          "exchange": [
+            {
+              "name": "佐托贡",
+              "nameJa": "ゾトーゴン",
+              "rawName": "佐托贡",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "矿石箱",
+          "nameJa": "鉱石箱",
+          "rawName": "矿石箱",
+          "stock": 5,
+          "price": null,
+          "exchange": [
+            {
+              "name": "椰枣",
+              "nameJa": "デーツ",
+              "rawName": "椰枣",
+              "quantity": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locationId": "fw-travel-3",
+      "name": "战士之路",
+      "nameJa": null,
+      "rawName": "战士之路",
+      "type": "travel",
+      "items": [
+        {
+          "name": "青铜护手",
+          "nameJa": "青銅の籠手",
+          "rawName": "青铜手甲",
+          "stock": 3,
+          "price": 400,
+          "exchange": []
+        },
+        {
+          "name": "铁护手",
+          "nameJa": "鉄の籠手",
+          "rawName": "铁手甲",
+          "stock": 1,
+          "price": 1200,
+          "exchange": []
+        },
+        {
+          "name": "达米纳护手",
+          "nameJa": "ダ・ミナの籠手",
+          "rawName": "达·米纳手甲",
+          "stock": 1,
+          "price": 3200,
+          "exchange": []
+        },
+        {
+          "name": "反击护手",
+          "nameJa": "反撃の籠手",
+          "rawName": "反击手甲",
+          "stock": 1,
+          "price": 1920,
+          "exchange": []
+        }
+      ]
+    },
+    {
+      "locationId": "place-28",
+      "name": "王都布雷斯顿",
+      "nameJa": "王都ブレストン",
+      "rawName": "王都布雷斯顿",
+      "type": "vandhal",
+      "items": [
+        {
+          "name": "达米纳剑",
+          "nameJa": "ダ・ミナの剣",
+          "rawName": "达·米纳剑",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "夏库托",
+              "nameJa": "シャクトウ",
+              "rawName": "夏库托",
+              "quantity": 20
+            }
+          ]
+        },
+        {
+          "name": "治愈之杖",
+          "nameJa": "癒しの杖",
+          "rawName": "治愈之杖",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "达格赞迪",
+              "nameJa": "ダグザンディ",
+              "rawName": "鞑古扎恩涤",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "迅雷宝珠",
+          "nameJa": "迅雷の宝珠",
+          "rawName": "迅雷宝珠",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "约帕",
+              "nameJa": "ジョッパ",
+              "rawName": "约帕",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "轰炎宝珠",
+          "nameJa": "轟炎の宝珠",
+          "rawName": "轰炎宝珠",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "炼狱草",
+              "nameJa": "煉獄草",
+              "rawName": "炼狱草",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "翠岚宝珠",
+          "nameJa": "翠嵐の宝珠",
+          "rawName": "翠岚宝珠",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "金芭蕉",
+              "nameJa": "キンバショウ",
+              "rawName": "金芭蕉",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "优质武具箱",
+          "nameJa": "良質な武具箱",
+          "rawName": "优良武具箱",
+          "stock": 5,
+          "price": null,
+          "exchange": [
+            {
+              "name": "西纳摩斯",
+              "nameJa": "シナモス",
+              "rawName": "西拿摩司",
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locationId": "place-36",
+      "name": "微笑岩",
+      "nameJa": "笑み岩",
+      "rawName": "笑面岩",
+      "type": "vandhal",
+      "items": [
+        {
+          "name": "绝风宝珠",
+          "nameJa": "絶風の宝珠",
+          "rawName": "绝风宝珠",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "恩利耶特",
+              "nameJa": "エンリエット",
+              "rawName": "恩黎艾特",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "混合药",
+          "nameJa": "調合薬",
+          "rawName": "混合药",
+          "stock": 3,
+          "price": null,
+          "exchange": [
+            {
+              "name": "利纳利亚",
+              "nameJa": "リナリア",
+              "rawName": "姬金鱼草",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "礼品箱",
+          "nameJa": "祝品箱",
+          "rawName": "礼品箱",
+          "stock": 5,
+          "price": null,
+          "exchange": [
+            {
+              "name": "沙漠黍",
+              "nameJa": "サバクキビ",
+              "rawName": "沙漠黍",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "高级蔬菜箱",
+          "nameJa": "高級野菜箱",
+          "rawName": "高级蔬菜箱",
+          "stock": 3,
+          "price": null,
+          "exchange": [
+            {
+              "name": "龙舌兰",
+              "nameJa": "アガヴェ",
+              "rawName": "龙舌兰",
+              "quantity": 3
+            },
+            {
+              "name": "索尔吉",
+              "nameJa": "ソルギ",
+              "rawName": "梭露季",
+              "quantity": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locationId": "fw-travel-6",
+      "name": "加拉曼提斯盐湖",
+      "nameJa": null,
+      "rawName": "加拉曼提斯盐湖",
+      "type": "travel",
+      "items": [
+        {
+          "name": "青铜护手",
+          "nameJa": "青銅の籠手",
+          "rawName": "青铜手甲",
+          "stock": 3,
+          "price": 400,
+          "exchange": []
+        },
+        {
+          "name": "铁护手",
+          "nameJa": "鉄の籠手",
+          "rawName": "铁手甲",
+          "stock": 1,
+          "price": 1200,
+          "exchange": []
+        },
+        {
+          "name": "达米纳护手",
+          "nameJa": "ダ・ミナの籠手",
+          "rawName": "达·米纳手甲",
+          "stock": 1,
+          "price": 3200,
+          "exchange": []
+        },
+        {
+          "name": "反击护手",
+          "nameJa": "反撃の籠手",
+          "rawName": "反击手甲",
+          "stock": 1,
+          "price": 1920,
+          "exchange": []
+        }
+      ]
+    },
+    {
+      "locationId": "place-31",
+      "name": "戈拉草原",
+      "nameJa": "ゴーラ草原帯",
+      "rawName": "戈拉草原带",
+      "type": "vandhal",
+      "items": [
+        {
+          "name": "达米纳盾",
+          "nameJa": "ダ・ミナの盾",
+          "rawName": "达·米纳盾",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "利纳利亚",
+              "nameJa": "リナリア",
+              "rawName": "姬金鱼草",
+              "quantity": 30
+            },
+            {
+              "name": "津吉",
+              "nameJa": "ギンジ",
+              "rawName": "津吉",
+              "quantity": 30
+            }
+          ]
+        },
+        {
+          "name": "混合药",
+          "nameJa": "調合薬",
+          "rawName": "混合药",
+          "stock": 3,
+          "price": null,
+          "exchange": [
+            {
+              "name": "利加内特",
+              "nameJa": "リガネット",
+              "rawName": "利加涅特",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "祝胜宝珠",
+          "nameJa": "祝勝の宝珠",
+          "rawName": "祝胜宝珠",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "青银吉",
+              "nameJa": "アオギンジ",
+              "rawName": "青津吉",
+              "quantity": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locationId": "place-37",
+      "name": "佐托湖",
+      "nameJa": "ゾトー湖",
+      "rawName": "佐托湖",
+      "type": "vandhal",
+      "items": [
+        {
+          "name": "达米纳护手",
+          "nameJa": "ダ・ミナの籠手",
+          "rawName": "达·米纳手甲",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "阿尔马梅特",
+              "nameJa": "アルマメット",
+              "rawName": "亚尔玛梅托",
+              "quantity": 1
+            },
+            {
+              "name": "罗卡",
+              "nameJa": "ロカ",
+              "rawName": "洛卡",
+              "quantity": 20
+            }
+          ]
+        },
+        {
+          "name": "猎人戒指",
+          "nameJa": "狩人の指輪",
+          "rawName": "猎人戒指",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "特内巴豆",
+              "nameJa": "テネバトウ",
+              "rawName": "特涅芭豆",
+              "quantity": 5
+            },
+            {
+              "name": "津吉",
+              "nameJa": "ギンジ",
+              "rawName": "津吉",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "必圣宝珠",
+          "nameJa": "必聖の宝珠",
+          "rawName": "必圣宝珠",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "赤金拜",
+              "nameJa": "アカキンバイ",
+              "rawName": "赤金拜",
+              "quantity": 1
+            },
+            {
+              "name": "红烁",
+              "nameJa": "レッドフリッカ",
+              "rawName": "红烁",
+              "quantity": 3
+            },
+            {
+              "name": "罗卡",
+              "nameJa": "ロカ",
+              "rawName": "洛卡",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "海星石",
+          "nameJa": "海星石",
+          "rawName": "海星石",
+          "stock": "∞",
+          "price": null,
+          "exchange": [
+            {
+              "name": "利纳利亚",
+              "nameJa": "リナリア",
+              "rawName": "姬金鱼草",
+              "quantity": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locationId": "place-34",
+      "name": "桑塔纳桥",
+      "nameJa": "サンタナ橋",
+      "rawName": "桑塔纳桥",
+      "type": "vandhal",
+      "items": [
+        {
+          "name": "伤药",
+          "nameJa": "傷薬",
+          "rawName": "伤药",
+          "stock": 3,
+          "price": null,
+          "exchange": [
+            {
+              "name": "塔尔特虾虎鱼",
+              "nameJa": "タルトゴビー",
+              "rawName": "塔尔特虾虎鱼",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "混合药",
+          "nameJa": "調合薬",
+          "rawName": "混合药",
+          "stock": 3,
+          "price": null,
+          "exchange": [
+            {
+              "name": "金鳟鱼",
+              "nameJa": "ゴールドトラウト",
+              "rawName": "金鳟",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "朴素武具箱",
+          "nameJa": "質素な武具箱",
+          "rawName": "简朴武具箱",
+          "stock": 3,
+          "price": null,
+          "exchange": [
+            {
+              "name": "柯夏鲁雀鳝",
+              "nameJa": "コーシャルーガー",
+              "rawName": "柯夏鲁雀鳝",
+              "quantity": 3
+            },
+            {
+              "name": "霸尔狗鱼",
+              "nameJa": "バアルパイク",
+              "rawName": "霸尔狗鱼",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "优质武具箱",
+          "nameJa": "良質な武具箱",
+          "rawName": "优良武具箱",
+          "stock": 2,
+          "price": null,
+          "exchange": [
+            {
+              "name": "塔尔特虾虎鱼",
+              "nameJa": "タルトゴビー",
+              "rawName": "塔尔特虾虎鱼",
+              "quantity": 8
+            },
+            {
+              "name": "霸尔狗鱼",
+              "nameJa": "バアルパイク",
+              "rawName": "霸尔狗鱼",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "解毒药",
+          "nameJa": "毒消し",
+          "rawName": "解毒剂",
+          "stock": 3,
+          "price": null,
+          "exchange": [
+            {
+              "name": "白鳟",
+              "nameJa": "ホワイトトラウト",
+              "rawName": "白鳟",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "青银吉",
+          "nameJa": "アオギンジ",
+          "rawName": "青津吉",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "金鳟鱼",
+              "nameJa": "ゴールドトラウト",
+              "rawName": "金鳟",
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locationId": "place-32",
+      "name": "菲娜岩礁",
+      "nameJa": "フィーナの岩礁",
+      "rawName": "菲那礁岩",
+      "type": "vandhal",
+      "items": [
+        {
+          "name": "达米纳枪",
+          "nameJa": "ダ・ミナの槍",
+          "rawName": "达·米纳枪",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "除虫菊",
+              "nameJa": "ピレスギク",
+              "rawName": "驱虫菊",
+              "quantity": 1
+            },
+            {
+              "name": "巴库",
+              "nameJa": "バク",
+              "rawName": "巴谷",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "避魔盾",
+          "nameJa": "魔除けの盾",
+          "rawName": "除魔盾",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "巴库",
+              "nameJa": "バク",
+              "rawName": "巴谷",
+              "quantity": 5
+            },
+            {
+              "name": "特内巴豆",
+              "nameJa": "テネバトウ",
+              "rawName": "特涅芭豆",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "追击宝珠",
+          "nameJa": "追撃の宝珠",
+          "rawName": "追击宝珠",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "除虫菊",
+              "nameJa": "ピレスギク",
+              "rawName": "驱虫菊",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "混合药",
+          "nameJa": "調合薬",
+          "rawName": "混合药",
+          "stock": 3,
+          "price": null,
+          "exchange": [
+            {
+              "name": "白杉",
+              "nameJa": "ハクサン",
+              "rawName": "哈库桑",
+              "quantity": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locationId": "fw-travel-11",
+      "name": "乌兹纳岭",
+      "nameJa": null,
+      "rawName": "乌兹纳岭",
+      "type": "travel",
+      "items": [
+        {
+          "name": "必杀剑",
+          "nameJa": "キルソード",
+          "rawName": "必杀剑",
+          "stock": 1,
+          "price": 1920,
+          "exchange": []
+        },
+        {
+          "name": "弗利萨刀",
+          "nameJa": "フリッサ",
+          "rawName": "伏力萨",
+          "stock": 1,
+          "price": 1920,
+          "exchange": []
+        },
+        {
+          "name": "风之弓",
+          "nameJa": "風の弓",
+          "rawName": "风弓",
+          "stock": 1,
+          "price": 2560,
+          "exchange": []
+        },
+        {
+          "name": "书箱",
+          "nameJa": "書箱",
+          "rawName": "书箱",
+          "stock": 3,
+          "price": 640,
+          "exchange": []
+        },
+        {
+          "name": "礼品箱",
+          "nameJa": "祝品箱",
+          "rawName": "礼品箱",
+          "stock": 2,
+          "price": 240,
+          "exchange": []
+        }
+      ]
+    },
+    {
+      "locationId": "place-33",
+      "name": "黑翼之谷",
+      "nameJa": "黒翼の谷",
+      "rawName": "黑翼之谷",
+      "type": "vandhal",
+      "items": [
+        {
+          "name": "达米纳弓",
+          "nameJa": "ダ・ミナの弓",
+          "rawName": "达·米纳弓",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "尼内亚卡",
+              "nameJa": "ニネイアッカ",
+              "rawName": "尼内亚卡",
+              "quantity": 1
+            },
+            {
+              "name": "菱花",
+              "nameJa": "ヒシバナ",
+              "rawName": "菱花",
+              "quantity": 20
+            }
+          ]
+        },
+        {
+          "name": "可怜面具",
+          "nameJa": "可憐の仮面",
+          "rawName": "迷人面具",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "椰枣",
+              "nameJa": "デーツ",
+              "rawName": "椰枣",
+              "quantity": 5
+            },
+            {
+              "name": "塞姆薯",
+              "nameJa": "セムイモ",
+              "rawName": "塞姆芋",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "魅惑面具",
+          "nameJa": "魅了の仮面",
+          "rawName": "魅惑面具",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "巴库",
+              "nameJa": "バク",
+              "rawName": "巴谷",
+              "quantity": 5
+            },
+            {
+              "name": "菱花",
+              "nameJa": "ヒシバナ",
+              "rawName": "菱花",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "狂放面具",
+          "nameJa": "酔狂の仮面",
+          "rawName": "疯狂面具",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "白杉",
+              "nameJa": "ハクサン",
+              "rawName": "哈库桑",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "加护之露",
+          "nameJa": "加護の露",
+          "rawName": "加护之露",
+          "stock": 3,
+          "price": null,
+          "exchange": [
+            {
+              "name": "利纳利亚",
+              "nameJa": "リナリア",
+              "rawName": "姬金鱼草",
+              "quantity": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locationId": "fw-travel-13",
+      "name": "卡尔门塔站",
+      "nameJa": null,
+      "rawName": "卡尔门塔站",
+      "type": "travel",
+      "items": [
+        {
+          "name": "青铜弓",
+          "nameJa": "青銅の弓",
+          "rawName": "青铜弓",
+          "stock": 1,
+          "price": 200,
+          "exchange": []
+        },
+        {
+          "name": "铁弓",
+          "nameJa": "鉄の弓",
+          "rawName": "铁弓",
+          "stock": 1,
+          "price": 960,
+          "exchange": []
+        },
+        {
+          "name": "猎兽弓",
+          "nameJa": "獣狩りの弓",
+          "rawName": "猎兽弓",
+          "stock": 1,
+          "price": 2400,
+          "exchange": []
+        }
+      ]
+    },
+    {
+      "locationId": "fw-travel-14",
+      "name": "地平线交汇点",
+      "nameJa": null,
+      "rawName": "地平线交汇点",
+      "type": "travel",
+      "items": [
+        {
+          "name": "必杀剑",
+          "nameJa": "キルソード",
+          "rawName": "必杀剑",
+          "stock": 1,
+          "price": 1920,
+          "exchange": []
+        },
+        {
+          "name": "弗利萨刀",
+          "nameJa": "フリッサ",
+          "rawName": "伏力萨",
+          "stock": 1,
+          "price": 1920,
+          "exchange": []
+        },
+        {
+          "name": "风之弓",
+          "nameJa": "風の弓",
+          "rawName": "风弓",
+          "stock": 1,
+          "price": 2560,
+          "exchange": []
+        },
+        {
+          "name": "书箱",
+          "nameJa": "書箱",
+          "rawName": "书箱",
+          "stock": 3,
+          "price": 640,
+          "exchange": []
+        },
+        {
+          "name": "礼品箱",
+          "nameJa": "祝品箱",
+          "rawName": "礼品箱",
+          "stock": 2,
+          "price": 240,
+          "exchange": []
+        }
+      ]
+    },
+    {
+      "locationId": "place-35",
+      "name": "佩鲁萨海角",
+      "nameJa": "ペルーサ岬",
+      "rawName": "佩鲁萨海岬",
+      "type": "vandhal",
+      "items": [
+        {
+          "name": "风来宝珠",
+          "nameJa": "風来の宝珠",
+          "rawName": "风来宝珠",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "融鱼",
+              "nameJa": "メルトフィッシュ",
+              "rawName": "融鱼",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "精灵宝珠",
+          "nameJa": "精霊の宝珠",
+          "rawName": "精灵宝珠",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "月鱼",
+              "nameJa": "ムーンフィッシュ",
+              "rawName": "月鱼",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "优质武具箱",
+          "nameJa": "良質な武具箱",
+          "rawName": "优良武具箱",
+          "stock": 3,
+          "price": null,
+          "exchange": [
+            {
+              "name": "桑之果",
+              "nameJa": "サンノミ",
+              "rawName": "太阳果",
+              "quantity": 5
+            },
+            {
+              "name": "巴库",
+              "nameJa": "バク",
+              "rawName": "巴谷",
+              "quantity": 5
+            },
+            {
+              "name": "一之果",
+              "nameJa": "イチノミ",
+              "rawName": "壹果",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "夏尔米尔",
+          "nameJa": "シャルミール",
+          "rawName": "夏露密鲁",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "诺亚果",
+              "nameJa": "ノアノミ",
+              "rawName": "挪亚果",
+              "quantity": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locationId": "fw-travel-16",
+      "name": "索丹的魔桥关",
+      "nameJa": null,
+      "rawName": "索丹的魔桥关",
+      "type": "travel",
+      "items": [
+        {
+          "name": "特芙果",
+          "nameJa": "テフノミ",
+          "rawName": "特芙果",
+          "stock": 5,
+          "price": 30,
+          "exchange": []
+        },
+        {
+          "name": "卡达姆",
+          "nameJa": "カダム",
+          "rawName": "咖哒姆",
+          "stock": 5,
+          "price": 50,
+          "exchange": []
+        },
+        {
+          "name": "光星",
+          "nameJa": "ヒカリボシ",
+          "rawName": "光之星",
+          "stock": 1,
+          "price": 300,
+          "exchange": []
+        },
+        {
+          "name": "奥布罗马",
+          "nameJa": "オブロマ",
+          "rawName": "奥卜洛玛",
+          "stock": 5,
+          "price": 50,
+          "exchange": []
+        },
+        {
+          "name": "恩利耶特",
+          "nameJa": "エンリエット",
+          "rawName": "恩黎艾特",
+          "stock": 1,
+          "price": 1000,
+          "exchange": []
+        },
+        {
+          "name": "金芭蕉",
+          "nameJa": "キンバショウ",
+          "rawName": "金芭蕉",
+          "stock": 1,
+          "price": 100,
+          "exchange": []
+        },
+        {
+          "name": "奥多蒙朱",
+          "nameJa": "オドモンジュ",
+          "rawName": "欧多梦竺",
+          "stock": 1,
+          "price": 600,
+          "exchange": []
+        },
+        {
+          "name": "安泽莉卡",
+          "nameJa": "アンゼリカ",
+          "rawName": "白芷",
+          "stock": 1,
+          "price": 1500,
+          "exchange": []
+        }
+      ]
+    },
+    {
+      "locationId": "place-10",
+      "name": "莱伊·欧港",
+      "nameJa": "ライ・オーの港",
+      "rawName": "莱伊·欧港",
+      "type": "vandhal",
+      "items": [
+        {
+          "name": "挑战宝珠",
+          "nameJa": "挑戦の宝珠",
+          "rawName": "挑战宝珠",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "光星",
+              "nameJa": "ヒカリボシ",
+              "rawName": "光之星",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "剑杀护符",
+          "nameJa": "剣殺しの護符",
+          "rawName": "破剑者护符",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "巴库",
+              "nameJa": "バク",
+              "rawName": "巴谷",
+              "quantity": 10
+            },
+            {
+              "name": "赞格",
+              "nameJa": "ザンゲ",
+              "rawName": "赞格",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "枪杀护符",
+          "nameJa": "槍殺しの護符",
+          "rawName": "破枪者护符",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "蓬果",
+              "nameJa": "ポンゴ",
+              "rawName": "蓬葛",
+              "quantity": 10
+            },
+            {
+              "name": "菱花",
+              "nameJa": "ヒシバナ",
+              "rawName": "菱花",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "斧杀护符",
+          "nameJa": "斧殺しの護符",
+          "rawName": "破斧者护符",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "桑之果",
+              "nameJa": "サンノミ",
+              "rawName": "太阳果",
+              "quantity": 10
+            },
+            {
+              "name": "米拉尼拉",
+              "nameJa": "ミラニラ",
+              "rawName": "秘菈尼拉",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "朴素武具箱",
+          "nameJa": "質素な武具箱",
+          "rawName": "简朴武具箱",
+          "stock": 5,
+          "price": null,
+          "exchange": [
+            {
+              "name": "拉顿泥鳅",
+              "nameJa": "ラドンローチ",
+              "rawName": "拉冬泥鳅",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "优质武具箱",
+          "nameJa": "良質な武具箱",
+          "rawName": "优良武具箱",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "拉顿狗鱼",
+              "nameJa": "ラドンパイク",
+              "rawName": "拉冬狗鱼",
+              "quantity": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locationId": "place-13",
+      "name": "海都阿莱克托",
+      "nameJa": "海都アレクトー",
+      "rawName": "海都阿雷库托",
+      "type": "vandhal",
+      "items": [
+        {
+          "name": "达·米纳斧",
+          "nameJa": "ダ・ミナの斧",
+          "rawName": "达·米纳斧",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "奥多蒙朱",
+              "nameJa": "オドモンジュ",
+              "rawName": "欧多梦竺",
+              "quantity": 3
+            },
+            {
+              "name": "卡达姆",
+              "nameJa": "カダム",
+              "rawName": "咖哒姆",
+              "quantity": 20
+            }
+          ]
+        },
+        {
+          "name": "巨人戒指",
+          "nameJa": "巨人の指輪",
+          "rawName": "巨人戒指",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "辉光鱼",
+              "nameJa": "カガヤキウオ",
+              "rawName": "辉光鱼",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "疾风戒指",
+          "nameJa": "疾風の指輪",
+          "rawName": "疾风戒指",
+          "stock": 1,
+          "price": null,
+          "exchange": [
+            {
+              "name": "梦之路标",
+              "nameJa": "ユメノシルベ",
+              "rawName": "梦之标",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "混合药",
+          "nameJa": "調合薬",
+          "rawName": "混合药",
+          "stock": 3,
+          "price": null,
+          "exchange": [
+            {
+              "name": "卡达姆",
+              "nameJa": "カダム",
+              "rawName": "咖哒姆",
+              "quantity": 3
+            },
+            {
+              "name": "奥布罗马",
+              "nameJa": "オブロマ",
+              "rawName": "奥卜洛玛",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "肉箱",
+          "nameJa": "肉箱",
+          "rawName": "肉箱",
+          "stock": 5,
+          "price": null,
+          "exchange": [
+            {
+              "name": "特芙果",
+              "nameJa": "テフノミ",
+              "rawName": "特芙果",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "鱼箱",
+          "nameJa": "魚箱",
+          "rawName": "鱼箱",
+          "stock": 5,
+          "price": null,
+          "exchange": [
+            {
+              "name": "利纳利亚",
+              "nameJa": "リナリア",
+              "rawName": "姬金鱼草",
+              "quantity": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locationId": "fw-travel-19",
+      "name": "星诞花园",
+      "nameJa": null,
+      "rawName": "星诞花园",
+      "type": "travel",
+      "items": [
+        {
+          "name": "特芙果",
+          "nameJa": "テフノミ",
+          "rawName": "特芙果",
+          "stock": 5,
+          "price": 30,
+          "exchange": []
+        },
+        {
+          "name": "卡达姆",
+          "nameJa": "カダム",
+          "rawName": "咖哒姆",
+          "stock": 5,
+          "price": 50,
+          "exchange": []
+        },
+        {
+          "name": "光星",
+          "nameJa": "ヒカリボシ",
+          "rawName": "光之星",
+          "stock": 1,
+          "price": 300,
+          "exchange": []
+        },
+        {
+          "name": "奥布罗马",
+          "nameJa": "オブロマ",
+          "rawName": "奥卜洛玛",
+          "stock": 5,
+          "price": 50,
+          "exchange": []
+        },
+        {
+          "name": "恩利耶特",
+          "nameJa": "エンリエット",
+          "rawName": "恩黎艾特",
+          "stock": 1,
+          "price": 1000,
+          "exchange": []
+        },
+        {
+          "name": "金芭蕉",
+          "nameJa": "キンバショウ",
+          "rawName": "金芭蕉",
+          "stock": 1,
+          "price": 100,
+          "exchange": []
+        },
+        {
+          "name": "奥多蒙朱",
+          "nameJa": "オドモンジュ",
+          "rawName": "欧多梦竺",
+          "stock": 1,
+          "price": 600,
+          "exchange": []
+        },
+        {
+          "name": "安泽莉卡",
+          "nameJa": "アンゼリカ",
+          "rawName": "白芷",
+          "stock": 1,
+          "price": 1500,
+          "exchange": []
+        }
+      ]
+    },
+    {
+      "locationId": "fw-travel-20",
+      "name": "猎首岩",
+      "nameJa": null,
+      "rawName": "猎首岩",
+      "type": "travel",
+      "items": [
+        {
+          "name": "投枪",
+          "nameJa": "手槍",
+          "rawName": "标枪",
+          "stock": 3,
+          "price": 1200,
+          "exchange": []
+        },
+        {
+          "name": "短枪",
+          "nameJa": "ショートスピア",
+          "rawName": "短枪",
+          "stock": 1,
+          "price": 1920,
+          "exchange": []
+        },
+        {
+          "name": "偃月刀",
+          "nameJa": "偃月刀",
+          "rawName": "偃月刀",
+          "stock": 1,
+          "price": 2560,
+          "exchange": []
+        },
+        {
+          "name": "安宁之露",
+          "nameJa": "安寧の露",
+          "rawName": "安宁之露",
+          "stock": 1,
+          "price": 2000,
+          "exchange": []
+        },
+        {
+          "name": "加护之露",
+          "nameJa": "加護の露",
+          "rawName": "加护之露",
+          "stock": 1,
+          "price": 2000,
+          "exchange": []
+        }
+      ]
+    },
+    {
+      "locationId": "place-1",
+      "name": "帝都达格席翁",
+      "nameJa": "帝都ダグシオン",
+      "rawName": "帝都鞑古席翁",
+      "type": "vandhal",
+      "items": [
+        {
+          "name": "铁剑",
+          "nameJa": "鉄の剣",
+          "rawName": "铁剑",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "利纳利亚",
+              "nameJa": "リナリア",
+              "rawName": "姬金鱼草",
+              "quantity": 6
+            }
+          ]
+        },
+        {
+          "name": "弗利萨刀",
+          "nameJa": "フリッサ",
+          "rawName": "伏力萨",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "诺亚果",
+              "nameJa": "ノアノミ",
+              "rawName": "挪亚果",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "雷剑",
+          "nameJa": "サンダーソード",
+          "rawName": "雷电剑",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "桑之果",
+              "nameJa": "サンノミ",
+              "rawName": "太阳果",
+              "quantity": 10
+            },
+            {
+              "name": "尤纳梅",
+              "nameJa": "ユナメイ",
+              "rawName": "尤那魅",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "净化之剑",
+          "nameJa": "清めの剣",
+          "rawName": "净化剑",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "拉顿狗鱼",
+              "nameJa": "ラドンパイク",
+              "rawName": "拉冬狗鱼",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "铁枪",
+          "nameJa": "鉄の槍",
+          "rawName": "铁枪",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "津吉",
+              "nameJa": "ギンジ",
+              "rawName": "津吉",
+              "quantity": 6
+            }
+          ]
+        },
+        {
+          "name": "投枪",
+          "nameJa": "手槍",
+          "rawName": "标枪",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "一之果",
+              "nameJa": "イチノミ",
+              "rawName": "壹果",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "铁斧",
+          "nameJa": "鉄の斧",
+          "rawName": "铁斧",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "巴库",
+              "nameJa": "バク",
+              "rawName": "巴谷",
+              "quantity": 6
+            }
+          ]
+        },
+        {
+          "name": "手斧",
+          "nameJa": "手斧",
+          "rawName": "手斧",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "蓬果",
+              "nameJa": "ポンゴ",
+              "rawName": "蓬葛",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "战锤",
+          "nameJa": "ハンマー",
+          "rawName": "战锤",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "罗卡",
+              "nameJa": "ロカ",
+              "rawName": "洛卡",
+              "quantity": 2
+            },
+            {
+              "name": "夏尔米尔",
+              "nameJa": "シャルミール",
+              "rawName": "夏露密鲁",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "铁弓",
+          "nameJa": "鉄の弓",
+          "rawName": "铁弓",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "菱花",
+              "nameJa": "ヒシバナ",
+              "rawName": "菱花",
+              "quantity": 6
+            }
+          ]
+        },
+        {
+          "name": "长弓",
+          "nameJa": "ロングボウ",
+          "rawName": "长弓",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "津吉",
+              "nameJa": "ギンジ",
+              "rawName": "津吉",
+              "quantity": 10
+            },
+            {
+              "name": "卡达姆",
+              "nameJa": "カダム",
+              "rawName": "咖哒姆",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "猎马弓",
+          "nameJa": "馬殺しの弓",
+          "rawName": "屠马弓",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "恩利耶特",
+              "nameJa": "エンリエット",
+              "rawName": "恩黎艾特",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "铁护手",
+          "nameJa": "鉄の籠手",
+          "rawName": "铁手甲",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "梅拉拉",
+              "nameJa": "メララ",
+              "rawName": "霉拉拉",
+              "quantity": 6
+            }
+          ]
+        },
+        {
+          "name": "对魔铁甲",
+          "nameJa": "対魔の鉄甲",
+          "rawName": "对魔铁甲",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "罗卡",
+              "nameJa": "ロカ",
+              "rawName": "洛卡",
+              "quantity": 5
+            },
+            {
+              "name": "椰枣",
+              "nameJa": "デーツ",
+              "rawName": "椰枣",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "铁盾",
+          "nameJa": "鉄の盾",
+          "rawName": "铁盾",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "桑之果",
+              "nameJa": "サンノミ",
+              "rawName": "太阳果",
+              "quantity": 6
+            }
+          ]
+        },
+        {
+          "name": "避魔盾",
+          "nameJa": "魔除けの盾",
+          "rawName": "除魔盾",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "沙漠黍",
+              "nameJa": "サバクキビ",
+              "rawName": "沙漠黍",
+              "quantity": 5
+            },
+            {
+              "name": "塞姆薯",
+              "nameJa": "セムイモ",
+              "rawName": "塞姆芋",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "封魔盾",
+          "nameJa": "魔封じの盾",
+          "rawName": "封魔盾",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "利纳利亚",
+              "nameJa": "リナリア",
+              "rawName": "姬金鱼草",
+              "quantity": 10
+            },
+            {
+              "name": "诺亚果",
+              "nameJa": "ノアノミ",
+              "rawName": "挪亚果",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "魔道之杖",
+          "nameJa": "魔道の杖",
+          "rawName": "魔道之杖",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "夏尔米尔",
+              "nameJa": "シャルミール",
+              "rawName": "夏露密鲁",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "治愈之杖",
+          "nameJa": "癒しの杖",
+          "rawName": "治愈之杖",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "梅拉拉",
+              "nameJa": "メララ",
+              "rawName": "霉拉拉",
+              "quantity": 5
+            },
+            {
+              "name": "龙舌兰",
+              "nameJa": "アガヴェ",
+              "rawName": "龙舌兰",
+              "quantity": 5
+            },
+            {
+              "name": "克雷斯托尔",
+              "nameJa": "クレストル",
+              "rawName": "库勒司妥露",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "射手戒指",
+          "nameJa": "射手の指輪",
+          "rawName": "射手戒指",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "约帕",
+              "nameJa": "ジョッパ",
+              "rawName": "约帕",
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "name": "猎人戒指",
+          "nameJa": "狩人の指輪",
+          "rawName": "猎人戒指",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "特芙果",
+              "nameJa": "テフノミ",
+              "rawName": "特芙果",
+              "quantity": 10
+            },
+            {
+              "name": "特内巴豆",
+              "nameJa": "テネバトウ",
+              "rawName": "特涅芭豆",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "猎毒宝珠",
+          "nameJa": "毒狩の宝珠",
+          "rawName": "猎毒宝珠",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "罗卡",
+              "nameJa": "ロカ",
+              "rawName": "洛卡",
+              "quantity": 2
+            },
+            {
+              "name": "阿尔马梅特",
+              "nameJa": "アルマメット",
+              "rawName": "亚尔玛梅托",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "轰炎宝珠",
+          "nameJa": "轟炎の宝珠",
+          "rawName": "轰炎宝珠",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "梅拉拉",
+              "nameJa": "メララ",
+              "rawName": "霉拉拉",
+              "quantity": 5
+            },
+            {
+              "name": "龙舌兰",
+              "nameJa": "アガヴェ",
+              "rawName": "龙舌兰",
+              "quantity": 5
+            },
+            {
+              "name": "奥多蒙朱",
+              "nameJa": "オドモンジュ",
+              "rawName": "欧多梦竺",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "剑杀护符",
+          "nameJa": "剣殺しの護符",
+          "rawName": "破剑者护符",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "罗卡",
+              "nameJa": "ロカ",
+              "rawName": "洛卡",
+              "quantity": 2
+            },
+            {
+              "name": "尼内亚卡",
+              "nameJa": "ニネイアッカ",
+              "rawName": "尼内亚卡",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "枪杀护符",
+          "nameJa": "槍殺しの護符",
+          "rawName": "破枪者护符",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "罗卡",
+              "nameJa": "ロカ",
+              "rawName": "洛卡",
+              "quantity": 5
+            },
+            {
+              "name": "赞格",
+              "nameJa": "ザンゲ",
+              "rawName": "赞格",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "斧杀护符",
+          "nameJa": "斧殺しの護符",
+          "rawName": "破斧者护符",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "梅拉拉",
+              "nameJa": "メララ",
+              "rawName": "霉拉拉",
+              "quantity": 5
+            },
+            {
+              "name": "利加内特",
+              "nameJa": "リガネット",
+              "rawName": "利加涅特",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "弓杀护符",
+          "nameJa": "弓殺しの護符",
+          "rawName": "破弓者护符",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "梅拉拉",
+              "nameJa": "メララ",
+              "rawName": "霉拉拉",
+              "quantity": 5
+            },
+            {
+              "name": "青银吉",
+              "nameJa": "アオギンジ",
+              "rawName": "青津吉",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "伤药",
+          "nameJa": "傷薬",
+          "rawName": "伤药",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "利纳利亚",
+              "nameJa": "リナリア",
+              "rawName": "姬金鱼草",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "混合药",
+          "nameJa": "調合薬",
+          "rawName": "混合药",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "诺亚果",
+              "nameJa": "ノアノミ",
+              "rawName": "挪亚果",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "连携石",
+          "nameJa": "連携の石",
+          "rawName": "连携石",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "利纳利亚",
+              "nameJa": "リナリア",
+              "rawName": "姬金鱼草",
+              "quantity": 1
+            },
+            {
+              "name": "津吉",
+              "nameJa": "ギンジ",
+              "rawName": "津吉",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "朴素武具箱",
+          "nameJa": "質素な武具箱",
+          "rawName": "简朴武具箱",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "塔尔特虾虎鱼",
+              "nameJa": "タルトゴビー",
+              "rawName": "塔尔特虾虎鱼",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "朴素武具箱",
+          "nameJa": "質素な武具箱",
+          "rawName": "简朴武具箱",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "津吉",
+              "nameJa": "ギンジ",
+              "rawName": "津吉",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "优质武具箱",
+          "nameJa": "良質な武具箱",
+          "rawName": "优良武具箱",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "巴库",
+              "nameJa": "バク",
+              "rawName": "巴谷",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "优质武具箱",
+          "nameJa": "良質な武具箱",
+          "rawName": "优良武具箱",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "利纳利亚",
+              "nameJa": "リナリア",
+              "rawName": "姬金鱼草",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "高级武具箱",
+          "nameJa": "高級な武具箱",
+          "rawName": "高级武具箱",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "白鳟",
+              "nameJa": "ホワイトトラウト",
+              "rawName": "白鳟",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "高级武具箱",
+          "nameJa": "高級な武具箱",
+          "rawName": "高级武具箱",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "特内巴豆",
+              "nameJa": "テネバトウ",
+              "rawName": "特涅芭豆",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "达·米纳武具箱",
+          "nameJa": "ダ・ミナの武具箱",
+          "rawName": "达·米纳武具箱",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "红烁",
+              "nameJa": "レッドフリッカ",
+              "rawName": "红烁",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "达·米纳武具箱",
+          "nameJa": "ダ・ミナの武具箱",
+          "rawName": "达·米纳武具箱",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "阿尔马梅特",
+              "nameJa": "アルマメット",
+              "rawName": "亚尔玛梅托",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "档案 Β",
+          "nameJa": "アーカイヴΒ",
+          "rawName": "档案B",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "炼狱草",
+              "nameJa": "煉獄草",
+              "rawName": "炼狱草",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "name": "档案 Γ",
+          "nameJa": "アーカイヴΓ",
+          "rawName": "档案Γ",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "蓬果",
+              "nameJa": "ポンゴ",
+              "rawName": "蓬葛",
+              "quantity": 10
+            },
+            {
+              "name": "佳兰",
+              "nameJa": "グルマオサ",
+              "rawName": "佳兰",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "连携大珠",
+          "nameJa": "連携の大玉",
+          "rawName": "连携大玉",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "利加内特",
+              "nameJa": "リガネット",
+              "rawName": "利加涅特",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "风来宝珠",
+          "nameJa": "風来の宝珠",
+          "rawName": "风来宝珠",
+          "stock": null,
+          "price": null,
+          "exchange": [
+            {
+              "name": "奥利巴",
+              "nameJa": "オリバ",
+              "rawName": "甘榄",
+              "quantity": 3
+            },
+            {
+              "name": "红烁",
+              "nameJa": "レッドフリッカ",
+              "rawName": "红烁",
+              "quantity": 5
+            }
+          ]
+        }
+      ],
+      "context": "帝都兑换表；来源未注明章节及库存"
+    }
+  ]
+}

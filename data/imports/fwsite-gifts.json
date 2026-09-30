@@ -1,0 +1,4325 @@
+{
+  "sourceId": "fwsite-misc",
+  "url": "https://fire-emblem-fw.site/misc.html",
+  "fetchedAt": "2026-10-01",
+  "upstreamDataUrl": "https://fire-emblem-fw.site/data/v/misc.2f364832.json",
+  "characters": [
+    {
+      "characterId": "character-2",
+      "sourceName": "凯伊",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g0",
+      "upstreamSource": "game8",
+      "loves": [],
+      "likes": [
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "尖锐的鱼钩",
+          "nameJa": "鋭い釣り針",
+          "rawName": "尖锐的鱼钩"
+        }
+      ]
+    },
+    {
+      "characterId": "character-3",
+      "sourceName": "迪托利希",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g1",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "朴素烤点心",
+          "nameJa": "素朴な焼き菓子",
+          "rawName": "朴素的烤点心"
+        }
+      ],
+      "likes": [
+        {
+          "name": "巨鱼眼球",
+          "nameJa": "巨大魚の目玉",
+          "rawName": "巨型鱼的眼珠"
+        },
+        {
+          "name": "蓝玫瑰花束",
+          "nameJa": "蒼い薔薇の花束",
+          "rawName": "蓝蔷薇花束"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "桌游定式集",
+          "nameJa": "盤上遊戯の定跡集",
+          "rawName": "桌上游戏定式集"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "银吉雪露必",
+          "nameJa": "ギンジ入りセルビ",
+          "rawName": "加了津吉的雪露必"
+        },
+        {
+          "name": "蜂蜜奶",
+          "nameJa": "蜂蜜入りの乳",
+          "rawName": "加了蜂蜜的奶"
+        },
+        {
+          "name": "蜂蜜烤点心",
+          "nameJa": "蜂蜜入り焼き菓子",
+          "rawName": "蜂蜜烤点心"
+        },
+        {
+          "name": "护关节长手套",
+          "nameJa": "関節保護用長手袋",
+          "rawName": "关节保护用长手套"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "精灵守护人偶",
+          "nameJa": "精霊の護人形",
+          "rawName": "精灵护身人偶"
+        },
+        {
+          "name": "纯白雪露必",
+          "nameJa": "純白のセルビ",
+          "rawName": "纯白的雪露必"
+        },
+        {
+          "name": "精灵桌游",
+          "nameJa": "精霊の盤上遊戯",
+          "rawName": "精灵桌上游戏"
+        },
+        {
+          "name": "训练石柱",
+          "nameJa": "鍛錬用の石柱",
+          "rawName": "锻炼用石柱"
+        },
+        {
+          "name": "武术训练重物",
+          "nameJa": "武術訓練用の重り",
+          "rawName": "武术训练用重物"
+        }
+      ]
+    },
+    {
+      "characterId": "character-4",
+      "sourceName": "赛奥朵拉",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g2",
+      "upstreamSource": "game8",
+      "loves": [],
+      "likes": [
+        {
+          "name": "达格萨胡须草",
+          "nameJa": "ダグザヒゲシバ",
+          "rawName": "鞑古扎鼠尾粟"
+        },
+        {
+          "name": "东方漆黑丝绸",
+          "nameJa": "東方の漆黒絹",
+          "rawName": "东方漆黑绢"
+        },
+        {
+          "name": "马匹保养工具",
+          "nameJa": "馬のお手入れ道具",
+          "rawName": "马匹保养工具"
+        }
+      ]
+    },
+    {
+      "characterId": "character-5",
+      "sourceName": "蕾达",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g3",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "东方漆黑丝绸",
+          "nameJa": "東方の漆黒絹",
+          "rawName": "东方漆黑绢"
+        },
+        {
+          "name": "翡翠赤烧",
+          "nameJa": "翡翠色のゴーシュ",
+          "rawName": "翡翠色赤烧"
+        },
+        {
+          "name": "东方耳饰",
+          "nameJa": "東方の耳飾り",
+          "rawName": "东方耳饰"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        },
+        {
+          "name": "火山赤烧",
+          "nameJa": "火の山のゴーシュ",
+          "rawName": "火之山赤烧"
+        }
+      ],
+      "likes": [
+        {
+          "name": "香醇的苍烧",
+          "nameJa": "芳醇なソウシュ",
+          "rawName": "香醇的苍烧"
+        },
+        {
+          "name": "兽肉与沙虫珍馐",
+          "nameJa": "獣肉と砂虫の珍味",
+          "rawName": "兽肉与沙虫的珍馐"
+        },
+        {
+          "name": "达格萨胡须草",
+          "nameJa": "ダグザヒゲシバ",
+          "rawName": "鞑古扎鼠尾粟"
+        },
+        {
+          "name": "过于华丽的手环",
+          "nameJa": "派手すぎる腕輪",
+          "rawName": "过于华丽的手环"
+        },
+        {
+          "name": "马匹保养工具",
+          "nameJa": "馬のお手入れ道具",
+          "rawName": "马匹保养工具"
+        },
+        {
+          "name": "巨鱼眼球",
+          "nameJa": "巨大魚の目玉",
+          "rawName": "巨型鱼的眼珠"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "苍空苍烧",
+          "nameJa": "蒼空のソウシュ",
+          "rawName": "苍空苍烧"
+        },
+        {
+          "name": "简单魔术道具",
+          "nameJa": "簡単な手品道具",
+          "rawName": "简易魔术道具"
+        },
+        {
+          "name": "陈酿赤烧",
+          "nameJa": "熟成ゴーシュ",
+          "rawName": "陈酿赤烧"
+        },
+        {
+          "name": "陈酿苍烧",
+          "nameJa": "熟成ソウシュ",
+          "rawName": "陈酿苍烧"
+        },
+        {
+          "name": "浅色画材",
+          "nameJa": "淡い色の画材",
+          "rawName": "浅色绘画材料"
+        },
+        {
+          "name": "朴素赤烧",
+          "nameJa": "素朴なゴーシュ",
+          "rawName": "朴素赤烧"
+        },
+        {
+          "name": "秘传赤烧",
+          "nameJa": "秘伝のゴーシュ",
+          "rawName": "秘传赤烧"
+        },
+        {
+          "name": "南方赤烧",
+          "nameJa": "南方のゴーシュ",
+          "rawName": "南方赤烧"
+        },
+        {
+          "name": "太阳赤烧",
+          "nameJa": "太陽のゴーシュ",
+          "rawName": "太阳赤烧"
+        },
+        {
+          "name": "训练装饰臂环",
+          "nameJa": "鍛錬用の装飾腕輪",
+          "rawName": "锻炼用装饰手环"
+        },
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        }
+      ]
+    },
+    {
+      "characterId": "character-6",
+      "sourceName": "媞雅拉",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g4",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "贸易入门",
+          "nameJa": "貿易取引入門",
+          "rawName": "商贸入门"
+        },
+        {
+          "name": "熟成干制塞尔维",
+          "nameJa": "熟成干しセルビ",
+          "rawName": "熟成雪露必干"
+        },
+        {
+          "name": "淡雪露必",
+          "nameJa": "薄いセルビ",
+          "rawName": "淡雪露必"
+        },
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "蓝玫瑰花束",
+          "nameJa": "蒼い薔薇の花束",
+          "rawName": "蓝蔷薇花束"
+        }
+      ],
+      "likes": [
+        {
+          "name": "阿勒克托的鱼酱",
+          "nameJa": "アレクトーガルム",
+          "rawName": "阿雷库托鱼酱"
+        },
+        {
+          "name": "女骑士与求婚者",
+          "nameJa": "女騎士と求婚者",
+          "rawName": "女骑士与求婚者"
+        },
+        {
+          "name": "银吉雪露必",
+          "nameJa": "ギンジ入りセルビ",
+          "rawName": "加了津吉的雪露必"
+        },
+        {
+          "name": "药草料理大全",
+          "nameJa": "薬草料理大全",
+          "rawName": "药草料理大全"
+        },
+        {
+          "name": "家庭料理大全",
+          "nameJa": "家庭料理大全",
+          "rawName": "家庭料理大全"
+        },
+        {
+          "name": "贾梅尔奶",
+          "nameJa": "ジャーメルの乳",
+          "rawName": "迦梅尔奶"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "醋渍球根",
+          "nameJa": "球根の酢漬け",
+          "rawName": "醋渍球根"
+        },
+        {
+          "name": "爽口的鱼酱",
+          "nameJa": "淡麗なガルム",
+          "rawName": "爽口的鱼酱"
+        },
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "浓雪露必",
+          "nameJa": "濃いセルビ",
+          "rawName": "浓雪露必"
+        },
+        {
+          "name": "浓香调味料",
+          "nameJa": "味わい深い調味料",
+          "rawName": "风味浓郁的调味料"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        },
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        },
+        {
+          "name": "牦牛奶",
+          "nameJa": "ヤクの乳",
+          "rawName": "亚库的奶"
+        }
+      ]
+    },
+    {
+      "characterId": "character-7",
+      "sourceName": "皮特鲁",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g5",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "萨拉米斯点心",
+          "nameJa": "サラミスの菓子",
+          "rawName": "萨拉弥斯的点心"
+        },
+        {
+          "name": "浓雪露必",
+          "nameJa": "濃いセルビ",
+          "rawName": "浓雪露必"
+        }
+      ],
+      "likes": [
+        {
+          "name": "稀有香辛料",
+          "nameJa": "珍しい香辛料",
+          "rawName": "稀有的香料"
+        },
+        {
+          "name": "达格萨胡须草",
+          "nameJa": "ダグザヒゲシバ",
+          "rawName": "鞑古扎鼠尾粟"
+        },
+        {
+          "name": "香烤点心",
+          "nameJa": "香ばしい焼き菓子",
+          "rawName": "香喷喷的烤点心"
+        },
+        {
+          "name": "银吉雪露必",
+          "nameJa": "ギンジ入りセルビ",
+          "rawName": "加了津吉的雪露必"
+        },
+        {
+          "name": "贾梅尔奶",
+          "nameJa": "ジャーメルの乳",
+          "rawName": "迦梅尔奶"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "熟成干制塞尔维",
+          "nameJa": "熟成干しセルビ",
+          "rawName": "熟成雪露必干"
+        },
+        {
+          "name": "微甜烤点心",
+          "nameJa": "少し甘い焼き菓子",
+          "rawName": "微甜的烤点心"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "朴素烤点心",
+          "nameJa": "素朴な焼き菓子",
+          "rawName": "朴素的烤点心"
+        },
+        {
+          "name": "淡雪露必",
+          "nameJa": "薄いセルビ",
+          "rawName": "淡雪露必"
+        },
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        },
+        {
+          "name": "牦牛奶",
+          "nameJa": "ヤクの乳",
+          "rawName": "亚库的奶"
+        }
+      ]
+    },
+    {
+      "characterId": "character-8",
+      "sourceName": "乌尔坦德",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g6",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        },
+        {
+          "name": "两把鱼刀",
+          "nameJa": "二振りの魚包丁",
+          "rawName": "两把鱼刀"
+        },
+        {
+          "name": "秘传赤烧",
+          "nameJa": "秘伝のゴーシュ",
+          "rawName": "秘传赤烧"
+        }
+      ],
+      "likes": [
+        {
+          "name": "精灵桌游",
+          "nameJa": "精霊の盤上遊戯",
+          "rawName": "精灵桌上游戏"
+        },
+        {
+          "name": "蓝玫瑰花束",
+          "nameJa": "蒼い薔薇の花束",
+          "rawName": "蓝蔷薇花束"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "女骑士与求婚者",
+          "nameJa": "女騎士と求婚者",
+          "rawName": "女骑士与求婚者"
+        },
+        {
+          "name": "野外烹饪工具",
+          "nameJa": "野外調理道具",
+          "rawName": "野外用厨具"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        }
+      ]
+    },
+    {
+      "characterId": "character-9",
+      "sourceName": "法毕欧",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g7",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "朴素烤点心",
+          "nameJa": "素朴な焼き菓子",
+          "rawName": "朴素的烤点心"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        },
+        {
+          "name": "火山赤烧",
+          "nameJa": "火の山のゴーシュ",
+          "rawName": "火之山赤烧"
+        }
+      ],
+      "likes": [
+        {
+          "name": "香醇的苍烧",
+          "nameJa": "芳醇なソウシュ",
+          "rawName": "香醇的苍烧"
+        },
+        {
+          "name": "兽肉与沙虫珍馐",
+          "nameJa": "獣肉と砂虫の珍味",
+          "rawName": "兽肉与沙虫的珍馐"
+        },
+        {
+          "name": "达格萨胡须草",
+          "nameJa": "ダグザヒゲシバ",
+          "rawName": "鞑古扎鼠尾粟"
+        },
+        {
+          "name": "东方漆黑丝绸",
+          "nameJa": "東方の漆黒絹",
+          "rawName": "东方漆黑绢"
+        },
+        {
+          "name": "巨鱼眼球",
+          "nameJa": "巨大魚の目玉",
+          "rawName": "巨型鱼的眼珠"
+        },
+        {
+          "name": "翡翠赤烧",
+          "nameJa": "翡翠色のゴーシュ",
+          "rawName": "翡翠色赤烧"
+        },
+        {
+          "name": "苍空苍烧",
+          "nameJa": "蒼空のソウシュ",
+          "rawName": "苍空苍烧"
+        },
+        {
+          "name": "陈酿赤烧",
+          "nameJa": "熟成ゴーシュ",
+          "rawName": "陈酿赤烧"
+        },
+        {
+          "name": "陈酿苍烧",
+          "nameJa": "熟成ソウシュ",
+          "rawName": "陈酿苍烧"
+        },
+        {
+          "name": "奥古斯特芙",
+          "nameJa": "オーガスのテフ",
+          "rawName": "欧加斯特芙"
+        },
+        {
+          "name": "浅色画材",
+          "nameJa": "淡い色の画材",
+          "rawName": "浅色绘画材料"
+        },
+        {
+          "name": "盆栽蔬菜",
+          "nameJa": "野菜の鉢植え",
+          "rawName": "蔬菜盆栽"
+        },
+        {
+          "name": "朴素赤烧",
+          "nameJa": "素朴なゴーシュ",
+          "rawName": "朴素赤烧"
+        },
+        {
+          "name": "秘传赤烧",
+          "nameJa": "秘伝のゴーシュ",
+          "rawName": "秘传赤烧"
+        },
+        {
+          "name": "南方香醇特芙",
+          "nameJa": "南方の薫るテフ",
+          "rawName": "南方风味特芙"
+        },
+        {
+          "name": "南方赤烧",
+          "nameJa": "南方のゴーシュ",
+          "rawName": "南方赤烧"
+        },
+        {
+          "name": "太阳赤烧",
+          "nameJa": "太陽のゴーシュ",
+          "rawName": "太阳赤烧"
+        },
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        }
+      ]
+    },
+    {
+      "characterId": "character-10",
+      "sourceName": "艾丝梅拉尔达",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g8",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "萨拉米斯点心",
+          "nameJa": "サラミスの菓子",
+          "rawName": "萨拉弥斯的点心"
+        },
+        {
+          "name": "淡雪露必",
+          "nameJa": "薄いセルビ",
+          "rawName": "淡雪露必"
+        },
+        {
+          "name": "弓保养工具",
+          "nameJa": "弓の手入れ道具",
+          "rawName": "弓箭保养工具"
+        },
+        {
+          "name": "有弹性的钓竿",
+          "nameJa": "しなやかな釣り竿",
+          "rawName": "有弹性的钓竿"
+        },
+        {
+          "name": "尖锐的鱼钩",
+          "nameJa": "鋭い釣り針",
+          "rawName": "尖锐的鱼钩"
+        },
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "尤法斯肖像画",
+          "nameJa": "ユ・ファスの肖像",
+          "rawName": "幽·法丝的肖像"
+        },
+        {
+          "name": "东方耳饰",
+          "nameJa": "東方の耳飾り",
+          "rawName": "东方耳饰"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        }
+      ],
+      "likes": [
+        {
+          "name": "阿勒克托的鱼酱",
+          "nameJa": "アレクトーガルム",
+          "rawName": "阿雷库托鱼酱"
+        },
+        {
+          "name": "达格萨胡须草",
+          "nameJa": "ダグザヒゲシバ",
+          "rawName": "鞑古扎鼠尾粟"
+        },
+        {
+          "name": "香烤点心",
+          "nameJa": "香ばしい焼き菓子",
+          "rawName": "香喷喷的烤点心"
+        },
+        {
+          "name": "过于华丽的手环",
+          "nameJa": "派手すぎる腕輪",
+          "rawName": "过于华丽的手环"
+        },
+        {
+          "name": "药草料理大全",
+          "nameJa": "薬草料理大全",
+          "rawName": "药草料理大全"
+        },
+        {
+          "name": "家庭料理大全",
+          "nameJa": "家庭料理大全",
+          "rawName": "家庭料理大全"
+        },
+        {
+          "name": "马匹保养工具",
+          "nameJa": "馬のお手入れ道具",
+          "rawName": "马匹保养工具"
+        },
+        {
+          "name": "巨鱼眼球",
+          "nameJa": "巨大魚の目玉",
+          "rawName": "巨型鱼的眼珠"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "微甜烤点心",
+          "nameJa": "少し甘い焼き菓子",
+          "rawName": "微甜的烤点心"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "朴素烤点心",
+          "nameJa": "素朴な焼き菓子",
+          "rawName": "朴素的烤点心"
+        },
+        {
+          "name": "爽口的鱼酱",
+          "nameJa": "淡麗なガルム",
+          "rawName": "爽口的鱼酱"
+        },
+        {
+          "name": "浓香调味料",
+          "nameJa": "味わい深い調味料",
+          "rawName": "风味浓郁的调味料"
+        },
+        {
+          "name": "训练装饰臂环",
+          "nameJa": "鍛錬用の装飾腕輪",
+          "rawName": "锻炼用装饰手环"
+        },
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        }
+      ]
+    },
+    {
+      "characterId": "character-11",
+      "sourceName": "米迦艾拉",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g9",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "朴素烤点心",
+          "nameJa": "素朴な焼き菓子",
+          "rawName": "朴素的烤点心"
+        },
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        },
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        },
+        {
+          "name": "火山赤烧",
+          "nameJa": "火の山のゴーシュ",
+          "rawName": "火之山赤烧"
+        }
+      ],
+      "likes": [
+        {
+          "name": "阿勒克托的鱼酱",
+          "nameJa": "アレクトーガルム",
+          "rawName": "阿雷库托鱼酱"
+        },
+        {
+          "name": "香醇的苍烧",
+          "nameJa": "芳醇なソウシュ",
+          "rawName": "香醇的苍烧"
+        },
+        {
+          "name": "药草料理大全",
+          "nameJa": "薬草料理大全",
+          "rawName": "药草料理大全"
+        },
+        {
+          "name": "家庭料理大全",
+          "nameJa": "家庭料理大全",
+          "rawName": "家庭料理大全"
+        },
+        {
+          "name": "巨鱼眼球",
+          "nameJa": "巨大魚の目玉",
+          "rawName": "巨型鱼的眼珠"
+        },
+        {
+          "name": "翡翠赤烧",
+          "nameJa": "翡翠色のゴーシュ",
+          "rawName": "翡翠色赤烧"
+        },
+        {
+          "name": "苍空苍烧",
+          "nameJa": "蒼空のソウシュ",
+          "rawName": "苍空苍烧"
+        },
+        {
+          "name": "陈酿赤烧",
+          "nameJa": "熟成ゴーシュ",
+          "rawName": "陈酿赤烧"
+        },
+        {
+          "name": "陈酿苍烧",
+          "nameJa": "熟成ソウシュ",
+          "rawName": "陈酿苍烧"
+        },
+        {
+          "name": "奥古斯特芙",
+          "nameJa": "オーガスのテフ",
+          "rawName": "欧加斯特芙"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "稀有香辛料",
+          "nameJa": "珍しい香辛料",
+          "rawName": "稀有的香料"
+        },
+        {
+          "name": "朴素赤烧",
+          "nameJa": "素朴なゴーシュ",
+          "rawName": "朴素赤烧"
+        },
+        {
+          "name": "秘传赤烧",
+          "nameJa": "秘伝のゴーシュ",
+          "rawName": "秘传赤烧"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "南方香醇特芙",
+          "nameJa": "南方の薫るテフ",
+          "rawName": "南方风味特芙"
+        },
+        {
+          "name": "南方赤烧",
+          "nameJa": "南方のゴーシュ",
+          "rawName": "南方赤烧"
+        },
+        {
+          "name": "浓香调味料",
+          "nameJa": "味わい深い調味料",
+          "rawName": "风味浓郁的调味料"
+        },
+        {
+          "name": "太阳赤烧",
+          "nameJa": "太陽のゴーシュ",
+          "rawName": "太阳赤烧"
+        },
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        },
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        }
+      ]
+    },
+    {
+      "characterId": "character-12",
+      "sourceName": "波拿帕尔特",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g10",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "贸易入门",
+          "nameJa": "貿易取引入門",
+          "rawName": "商贸入门"
+        },
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "火山赤烧",
+          "nameJa": "火の山のゴーシュ",
+          "rawName": "火之山赤烧"
+        }
+      ],
+      "likes": [
+        {
+          "name": "仪式用锋利长枪",
+          "nameJa": "儀礼用の鋭い槍",
+          "rawName": "锋利的礼仪用枪"
+        },
+        {
+          "name": "东方漆黑丝绸",
+          "nameJa": "東方の漆黒絹",
+          "rawName": "东方漆黑绢"
+        },
+        {
+          "name": "翡翠赤烧",
+          "nameJa": "翡翠色のゴーシュ",
+          "rawName": "翡翠色赤烧"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "稀有香辛料",
+          "nameJa": "珍しい香辛料",
+          "rawName": "稀有的香料"
+        },
+        {
+          "name": "秘传赤烧",
+          "nameJa": "秘伝のゴーシュ",
+          "rawName": "秘传赤烧"
+        },
+        {
+          "name": "浓香调味料",
+          "nameJa": "味わい深い調味料",
+          "rawName": "风味浓郁的调味料"
+        },
+        {
+          "name": "太阳赤烧",
+          "nameJa": "太陽のゴーシュ",
+          "rawName": "太阳赤烧"
+        },
+        {
+          "name": "斗技场故事抄本",
+          "nameJa": "闘技場物語の写本",
+          "rawName": "斗技场物语的抄本"
+        },
+        {
+          "name": "但丁戏剧全集",
+          "nameJa": "ダンテ戯曲全集",
+          "rawName": "丹提戏曲全集"
+        },
+        {
+          "name": "异邦厚书",
+          "nameJa": "異邦の分厚い書物",
+          "rawName": "厚重的异国书籍★"
+        },
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        }
+      ]
+    },
+    {
+      "characterId": "character-13",
+      "sourceName": "托比亚斯",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "太阳赤烧",
+          "nameJa": "太陽のゴーシュ",
+          "rawName": "太阳赤烧"
+        },
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        },
+        {
+          "name": "火山赤烧",
+          "nameJa": "火の山のゴーシュ",
+          "rawName": "火之山赤烧"
+        }
+      ],
+      "likes": [
+        {
+          "name": "阿勒克托的鱼酱",
+          "nameJa": "アレクトーガルム",
+          "rawName": "阿雷库托鱼酱"
+        },
+        {
+          "name": "达格萨胡须草",
+          "nameJa": "ダグザヒゲシバ",
+          "rawName": "鞑古扎鼠尾粟"
+        },
+        {
+          "name": "东方漆黑丝绸",
+          "nameJa": "東方の漆黒絹",
+          "rawName": "东方漆黑绢"
+        },
+        {
+          "name": "药草料理大全",
+          "nameJa": "薬草料理大全",
+          "rawName": "药草料理大全"
+        },
+        {
+          "name": "家庭料理大全",
+          "nameJa": "家庭料理大全",
+          "rawName": "家庭料理大全"
+        },
+        {
+          "name": "马匹保养工具",
+          "nameJa": "馬のお手入れ道具",
+          "rawName": "马匹保养工具"
+        },
+        {
+          "name": "巨鱼眼球",
+          "nameJa": "巨大魚の目玉",
+          "rawName": "巨型鱼的眼珠"
+        },
+        {
+          "name": "翡翠赤烧",
+          "nameJa": "翡翠色のゴーシュ",
+          "rawName": "翡翠色赤烧"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "陈酿赤烧",
+          "nameJa": "熟成ゴーシュ",
+          "rawName": "陈酿赤烧"
+        },
+        {
+          "name": "陈酿苍烧",
+          "nameJa": "熟成ソウシュ",
+          "rawName": "陈酿苍烧"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "朴素赤烧",
+          "nameJa": "素朴なゴーシュ",
+          "rawName": "朴素赤烧"
+        },
+        {
+          "name": "秘传赤烧",
+          "nameJa": "秘伝のゴーシュ",
+          "rawName": "秘传赤烧"
+        },
+        {
+          "name": "尖锐的鱼钩",
+          "nameJa": "鋭い釣り針",
+          "rawName": "尖锐的鱼钩"
+        },
+        {
+          "name": "爽口的鱼酱",
+          "nameJa": "淡麗なガルム",
+          "rawName": "爽口的鱼酱"
+        },
+        {
+          "name": "南方赤烧",
+          "nameJa": "南方のゴーシュ",
+          "rawName": "南方赤烧"
+        },
+        {
+          "name": "浓香调味料",
+          "nameJa": "味わい深い調味料",
+          "rawName": "风味浓郁的调味料"
+        },
+        {
+          "name": "耐用皮背囊",
+          "nameJa": "丈夫な背負い革袋",
+          "rawName": "耐用的皮革背包"
+        },
+        {
+          "name": "训练装饰臂环",
+          "nameJa": "鍛錬用の装飾腕輪",
+          "rawName": "锻炼用装饰手环"
+        },
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        },
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        },
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        }
+      ]
+    },
+    {
+      "characterId": "character-14",
+      "sourceName": "莉利安",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g12",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "东方耳饰",
+          "nameJa": "東方の耳飾り",
+          "rawName": "东方耳饰"
+        },
+        {
+          "name": "世界名诗集",
+          "nameJa": "世界の名詩集",
+          "rawName": "世界名诗集"
+        },
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        }
+      ],
+      "likes": [
+        {
+          "name": "过于华丽的手环",
+          "nameJa": "派手すぎる腕輪",
+          "rawName": "过于华丽的手环"
+        },
+        {
+          "name": "药草料理大全",
+          "nameJa": "薬草料理大全",
+          "rawName": "药草料理大全"
+        },
+        {
+          "name": "家庭料理大全",
+          "nameJa": "家庭料理大全",
+          "rawName": "家庭料理大全"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "浓香调味料",
+          "nameJa": "味わい深い調味料",
+          "rawName": "风味浓郁的调味料"
+        },
+        {
+          "name": "贸易入门",
+          "nameJa": "貿易取引入門",
+          "rawName": "商贸入门"
+        },
+        {
+          "name": "训练装饰臂环",
+          "nameJa": "鍛錬用の装飾腕輪",
+          "rawName": "锻炼用装饰手环"
+        },
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        },
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        }
+      ]
+    },
+    {
+      "characterId": "character-15",
+      "sourceName": "莱桑达",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g13",
+      "upstreamSource": "game8",
+      "loves": [],
+      "likes": [
+        {
+          "name": "达格萨胡须草",
+          "nameJa": "ダグザヒゲシバ",
+          "rawName": "鞑古扎鼠尾粟"
+        },
+        {
+          "name": "马匹保养工具",
+          "nameJa": "馬のお手入れ道具",
+          "rawName": "马匹保养工具"
+        },
+        {
+          "name": "马鬃饰品",
+          "nameJa": "鬣飾り",
+          "rawName": "鬃毛饰品"
+        },
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        }
+      ]
+    },
+    {
+      "characterId": "character-16",
+      "sourceName": "巴卡尼亚",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g14",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "陈酿赤烧",
+          "nameJa": "熟成ゴーシュ",
+          "rawName": "陈酿赤烧"
+        },
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "两把鱼刀",
+          "nameJa": "二振りの魚包丁",
+          "rawName": "两把鱼刀"
+        }
+      ],
+      "likes": [
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "苍空苍烧",
+          "nameJa": "蒼空のソウシュ",
+          "rawName": "苍空苍烧"
+        },
+        {
+          "name": "陈酿苍烧",
+          "nameJa": "熟成ソウシュ",
+          "rawName": "陈酿苍烧"
+        },
+        {
+          "name": "尼萨产的鱼酱",
+          "nameJa": "ニーザ産ガルム",
+          "rawName": "尼札产的鱼酱"
+        },
+        {
+          "name": "野外烹饪工具",
+          "nameJa": "野外調理道具",
+          "rawName": "野外用厨具"
+        },
+        {
+          "name": "稀有香辛料",
+          "nameJa": "珍しい香辛料",
+          "rawName": "稀有的香料"
+        },
+        {
+          "name": "朴素赤烧",
+          "nameJa": "素朴なゴーシュ",
+          "rawName": "朴素赤烧"
+        },
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        },
+        {
+          "name": "火山赤烧",
+          "nameJa": "火の山のゴーシュ",
+          "rawName": "火之山赤烧"
+        },
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        },
+        {
+          "name": "新酿苍烧",
+          "nameJa": "若いソウシュ",
+          "rawName": "新酿苍烧"
+        }
+      ]
+    },
+    {
+      "characterId": "character-17",
+      "sourceName": "西洛可",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g15",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "香烤点心",
+          "nameJa": "香ばしい焼き菓子",
+          "rawName": "香喷喷的烤点心"
+        },
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        },
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "火山赤烧",
+          "nameJa": "火の山のゴーシュ",
+          "rawName": "火之山赤烧"
+        }
+      ],
+      "likes": [
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "尤法斯肖像画",
+          "nameJa": "ユ・ファスの肖像",
+          "rawName": "幽·法丝的肖像"
+        },
+        {
+          "name": "女骑士与求婚者",
+          "nameJa": "女騎士と求婚者",
+          "rawName": "女骑士与求婚者"
+        },
+        {
+          "name": "护关节长手套",
+          "nameJa": "関節保護用長手袋",
+          "rawName": "关节保护用长手套"
+        },
+        {
+          "name": "苍空苍烧",
+          "nameJa": "蒼空のソウシュ",
+          "rawName": "苍空苍烧"
+        },
+        {
+          "name": "陈酿赤烧",
+          "nameJa": "熟成ゴーシュ",
+          "rawName": "陈酿赤烧"
+        },
+        {
+          "name": "陈酿苍烧",
+          "nameJa": "熟成ソウシュ",
+          "rawName": "陈酿苍烧"
+        },
+        {
+          "name": "浅色画材",
+          "nameJa": "淡い色の画材",
+          "rawName": "浅色绘画材料"
+        },
+        {
+          "name": "朴素赤烧",
+          "nameJa": "素朴なゴーシュ",
+          "rawName": "朴素赤烧"
+        },
+        {
+          "name": "新酿苍烧",
+          "nameJa": "若いソウシュ",
+          "rawName": "新酿苍烧"
+        }
+      ]
+    },
+    {
+      "characterId": "character-18",
+      "sourceName": "奥琳琵娅",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g16",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "东方漆黑丝绸",
+          "nameJa": "東方の漆黒絹",
+          "rawName": "东方漆黑绢"
+        },
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "东方耳饰",
+          "nameJa": "東方の耳飾り",
+          "rawName": "东方耳饰"
+        },
+        {
+          "name": "奥古斯特芙",
+          "nameJa": "オーガスのテフ",
+          "rawName": "欧加斯特芙"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        }
+      ],
+      "likes": [
+        {
+          "name": "尤法斯肖像画",
+          "nameJa": "ユ・ファスの肖像",
+          "rawName": "幽·法丝的肖像"
+        },
+        {
+          "name": "过于华丽的手环",
+          "nameJa": "派手すぎる腕輪",
+          "rawName": "过于华丽的手环"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "南方香醇特芙",
+          "nameJa": "南方の薫るテフ",
+          "rawName": "南方风味特芙"
+        }
+      ]
+    },
+    {
+      "characterId": "character-19",
+      "sourceName": "穆",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g17",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "萨拉米斯点心",
+          "nameJa": "サラミスの菓子",
+          "rawName": "萨拉弥斯的点心"
+        },
+        {
+          "name": "莫尔菲斯红茶",
+          "nameJa": "モルフィスの紅茶",
+          "rawName": "摩尔菲斯红茶"
+        },
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "尤法斯肖像画",
+          "nameJa": "ユ・ファスの肖像",
+          "rawName": "幽·法丝的肖像"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "淡雪露必",
+          "nameJa": "薄いセルビ",
+          "rawName": "淡雪露必"
+        }
+      ],
+      "likes": [
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "蜂蜜烤点心",
+          "nameJa": "蜂蜜入り焼き菓子",
+          "rawName": "蜂蜜烤点心"
+        },
+        {
+          "name": "贾梅尔奶",
+          "nameJa": "ジャーメルの乳",
+          "rawName": "迦梅尔奶"
+        },
+        {
+          "name": "野外烹饪工具",
+          "nameJa": "野外調理道具",
+          "rawName": "野外用厨具"
+        },
+        {
+          "name": "瓶装腌蔬菜",
+          "nameJa": "野菜の瓶漬け",
+          "rawName": "瓶装腌菜"
+        },
+        {
+          "name": "纯白雪露必",
+          "nameJa": "純白のセルビ",
+          "rawName": "纯白的雪露必"
+        },
+        {
+          "name": "牦牛奶",
+          "nameJa": "ヤクの乳",
+          "rawName": "亚库的奶"
+        }
+      ]
+    },
+    {
+      "characterId": "character-20",
+      "sourceName": "贝特兰",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g18",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "阿勒克托的鱼酱",
+          "nameJa": "アレクトーガルム",
+          "rawName": "阿雷库托鱼酱"
+        }
+      ],
+      "likes": []
+    },
+    {
+      "characterId": "character-21",
+      "sourceName": "谭利穆恩",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g19",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "朴素烤点心",
+          "nameJa": "素朴な焼き菓子",
+          "rawName": "朴素的烤点心"
+        },
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        },
+        {
+          "name": "稀有香辛料",
+          "nameJa": "珍しい香辛料",
+          "rawName": "稀有的香料"
+        },
+        {
+          "name": "南方赤烧",
+          "nameJa": "南方のゴーシュ",
+          "rawName": "南方赤烧"
+        }
+      ],
+      "likes": []
+    },
+    {
+      "characterId": "character-22",
+      "sourceName": "欧露赫露",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g20",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "朴素烤点心",
+          "nameJa": "素朴な焼き菓子",
+          "rawName": "朴素的烤点心"
+        },
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "萨拉米斯点心",
+          "nameJa": "サラミスの菓子",
+          "rawName": "萨拉弥斯的点心"
+        },
+        {
+          "name": "蓝玫瑰花束",
+          "nameJa": "蒼い薔薇の花束",
+          "rawName": "蓝蔷薇花束"
+        }
+      ],
+      "likes": []
+    },
+    {
+      "characterId": "character-23",
+      "sourceName": "爱娜特莉亚",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g21",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "简单魔术道具",
+          "nameJa": "簡単な手品道具",
+          "rawName": "简易魔术道具"
+        }
+      ],
+      "likes": []
+    },
+    {
+      "characterId": "character-24",
+      "sourceName": "盛托利翁",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g22",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "陈酿赤烧",
+          "nameJa": "熟成ゴーシュ",
+          "rawName": "陈酿赤烧"
+        },
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        }
+      ],
+      "likes": [
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        },
+        {
+          "name": "锋利雕刻刀",
+          "nameJa": "よく切れる彫刻刀",
+          "rawName": "锋利的雕刻刀"
+        }
+      ]
+    },
+    {
+      "characterId": "character-25",
+      "sourceName": "特洛伊亚",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g23",
+      "upstreamSource": "gamewith",
+      "loves": [
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        }
+      ],
+      "likes": []
+    },
+    {
+      "characterId": "character-26",
+      "sourceName": "红花",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g24",
+      "upstreamSource": "gamewith",
+      "loves": [
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        }
+      ],
+      "likes": []
+    },
+    {
+      "characterId": "character-27",
+      "sourceName": "盖茨",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g25",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "特芙烤点心",
+          "nameJa": "テフ入り焼き菓子",
+          "rawName": "加了特芙的烤点心"
+        }
+      ],
+      "likes": [
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "马匹保养工具",
+          "nameJa": "馬のお手入れ道具",
+          "rawName": "马匹保养工具"
+        },
+        {
+          "name": "护关节长手套",
+          "nameJa": "関節保護用長手袋",
+          "rawName": "关节保护用长手套"
+        },
+        {
+          "name": "奥古斯特芙",
+          "nameJa": "オーガスのテフ",
+          "rawName": "欧加斯特芙"
+        },
+        {
+          "name": "训练石柱",
+          "nameJa": "鍛錬用の石柱",
+          "rawName": "锻炼用石柱"
+        },
+        {
+          "name": "武术训练重物",
+          "nameJa": "武術訓練用の重り",
+          "rawName": "武术训练用重物"
+        }
+      ]
+    },
+    {
+      "characterId": "character-28",
+      "sourceName": "乌修拉",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g26",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        }
+      ],
+      "likes": [
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "女骑士与求婚者",
+          "nameJa": "女騎士と求婚者",
+          "rawName": "女骑士与求婚者"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "马鬃饰品",
+          "nameJa": "鬣飾り",
+          "rawName": "鬃毛饰品"
+        },
+        {
+          "name": "浅色画材",
+          "nameJa": "淡い色の画材",
+          "rawName": "浅色绘画材料"
+        }
+      ]
+    },
+    {
+      "characterId": "character-29",
+      "sourceName": "迪雅各",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g27",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        },
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        }
+      ],
+      "likes": [
+        {
+          "name": "药草料理大全",
+          "nameJa": "薬草料理大全",
+          "rawName": "药草料理大全"
+        },
+        {
+          "name": "稀有香辛料",
+          "nameJa": "珍しい香辛料",
+          "rawName": "稀有的香料"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "护关节长手套",
+          "nameJa": "関節保護用長手袋",
+          "rawName": "关节保护用长手套"
+        },
+        {
+          "name": "精灵守护人偶",
+          "nameJa": "精霊の護人形",
+          "rawName": "精灵护身人偶"
+        },
+        {
+          "name": "训练石柱",
+          "nameJa": "鍛錬用の石柱",
+          "rawName": "锻炼用石柱"
+        },
+        {
+          "name": "武术训练重物",
+          "nameJa": "武術訓練用の重り",
+          "rawName": "武术训练用重物"
+        }
+      ]
+    },
+    {
+      "characterId": "character-30",
+      "sourceName": "沙兰",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g28",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "烈性赤烧",
+          "nameJa": "刺激的なゴーシュ",
+          "rawName": "味道刺激的赤烧"
+        },
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "蓝玫瑰花束",
+          "nameJa": "蒼い薔薇の花束",
+          "rawName": "蓝蔷薇花束"
+        },
+        {
+          "name": "稀有香辛料",
+          "nameJa": "珍しい香辛料",
+          "rawName": "稀有的香料"
+        }
+      ],
+      "likes": [
+        {
+          "name": "百药之滴",
+          "nameJa": "百薬の雫",
+          "rawName": "百药之萃"
+        },
+        {
+          "name": "尼萨产的鱼酱",
+          "nameJa": "ニーザ産ガルム",
+          "rawName": "尼札产的鱼酱"
+        },
+        {
+          "name": "野外烹饪工具",
+          "nameJa": "野外調理道具",
+          "rawName": "野外用厨具"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        }
+      ]
+    },
+    {
+      "characterId": "character-31",
+      "sourceName": "丹提",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g29",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "贸易入门",
+          "nameJa": "貿易取引入門",
+          "rawName": "商贸入门"
+        },
+        {
+          "name": "庶民百景",
+          "nameJa": "庶民百景",
+          "rawName": "庶民百景"
+        }
+      ],
+      "likes": [
+        {
+          "name": "贾梅尔奶",
+          "nameJa": "ジャーメルの乳",
+          "rawName": "迦梅尔奶"
+        },
+        {
+          "name": "耐用皮背囊",
+          "nameJa": "丈夫な背負い革袋",
+          "rawName": "耐用的皮革背包"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "芙朵拉红茶",
+          "nameJa": "フォドラの紅茶",
+          "rawName": "芙朵拉红茶"
+        },
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "简单魔术道具",
+          "nameJa": "簡単な手品道具",
+          "rawName": "简易魔术道具"
+        },
+        {
+          "name": "浅色画材",
+          "nameJa": "淡い色の画材",
+          "rawName": "浅色绘画材料"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "但丁戏剧全集",
+          "nameJa": "ダンテ戯曲全集",
+          "rawName": "丹提戏曲全集"
+        }
+      ],
+      "seriesNote": "书系（推测：已确认非常喜欢 庶民百景）"
+    },
+    {
+      "characterId": "character-32",
+      "sourceName": "希蒙",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g30",
+      "upstreamSource": "game8",
+      "loves": [],
+      "likes": [
+        {
+          "name": "巨鱼眼球",
+          "nameJa": "巨大魚の目玉",
+          "rawName": "巨型鱼的眼珠"
+        },
+        {
+          "name": "尖锐的鱼钩",
+          "nameJa": "鋭い釣り針",
+          "rawName": "尖锐的鱼钩"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "两把鱼刀",
+          "nameJa": "二振りの魚包丁",
+          "rawName": "两把鱼刀"
+        },
+        {
+          "name": "精灵守护人偶",
+          "nameJa": "精霊の護人形",
+          "rawName": "精灵护身人偶"
+        }
+      ]
+    },
+    {
+      "characterId": "character-33",
+      "sourceName": "妮涅",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g31",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        }
+      ],
+      "likes": [
+        {
+          "name": "稀有香辛料",
+          "nameJa": "珍しい香辛料",
+          "rawName": "稀有的香料"
+        },
+        {
+          "name": "浅色画材",
+          "nameJa": "淡い色の画材",
+          "rawName": "浅色绘画材料"
+        },
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "东方漆黑丝绸",
+          "nameJa": "東方の漆黒絹",
+          "rawName": "东方漆黑绢"
+        }
+      ]
+    },
+    {
+      "characterId": "character-34",
+      "sourceName": "哪吒",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g32",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "醋渍球根",
+          "nameJa": "球根の酢漬け",
+          "rawName": "醋渍球根"
+        },
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        }
+      ],
+      "likes": [
+        {
+          "name": "稀有香辛料",
+          "nameJa": "珍しい香辛料",
+          "rawName": "稀有的香料"
+        },
+        {
+          "name": "蓝玫瑰花束",
+          "nameJa": "蒼い薔薇の花束",
+          "rawName": "蓝蔷薇花束"
+        },
+        {
+          "name": "耐用皮背囊",
+          "nameJa": "丈夫な背負い革袋",
+          "rawName": "耐用的皮革背包"
+        },
+        {
+          "name": "训练装饰臂环",
+          "nameJa": "鍛錬用の装飾腕輪",
+          "rawName": "锻炼用装饰手环"
+        },
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        }
+      ]
+    },
+    {
+      "characterId": "character-35",
+      "sourceName": "古扎岚",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "陈酿赤烧",
+          "nameJa": "熟成ゴーシュ",
+          "rawName": "陈酿赤烧"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        },
+        {
+          "name": "火山赤烧",
+          "nameJa": "火の山のゴーシュ",
+          "rawName": "火之山赤烧"
+        }
+      ],
+      "likes": [
+        {
+          "name": "蓝玫瑰花束",
+          "nameJa": "蒼い薔薇の花束",
+          "rawName": "蓝蔷薇花束"
+        },
+        {
+          "name": "香醇的苍烧",
+          "nameJa": "芳醇なソウシュ",
+          "rawName": "香醇的苍烧"
+        },
+        {
+          "name": "巨鱼眼球",
+          "nameJa": "巨大魚の目玉",
+          "rawName": "巨型鱼的眼珠"
+        },
+        {
+          "name": "翡翠赤烧",
+          "nameJa": "翡翠色のゴーシュ",
+          "rawName": "翡翠色赤烧"
+        },
+        {
+          "name": "苍空苍烧",
+          "nameJa": "蒼空のソウシュ",
+          "rawName": "苍空苍烧"
+        },
+        {
+          "name": "陈酿苍烧",
+          "nameJa": "熟成ソウシュ",
+          "rawName": "陈酿苍烧"
+        },
+        {
+          "name": "奥古斯特芙",
+          "nameJa": "オーガスのテフ",
+          "rawName": "欧加斯特芙"
+        },
+        {
+          "name": "朴素赤烧",
+          "nameJa": "素朴なゴーシュ",
+          "rawName": "朴素赤烧"
+        },
+        {
+          "name": "秘传赤烧",
+          "nameJa": "秘伝のゴーシュ",
+          "rawName": "秘传赤烧"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "南方香醇特芙",
+          "nameJa": "南方の薫るテフ",
+          "rawName": "南方风味特芙"
+        },
+        {
+          "name": "南方赤烧",
+          "nameJa": "南方のゴーシュ",
+          "rawName": "南方赤烧"
+        },
+        {
+          "name": "浓香调味料",
+          "nameJa": "味わい深い調味料",
+          "rawName": "风味浓郁的调味料"
+        },
+        {
+          "name": "太阳赤烧",
+          "nameJa": "太陽のゴーシュ",
+          "rawName": "太阳赤烧"
+        },
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        },
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        },
+        {
+          "name": "新酿苍烧",
+          "nameJa": "若いソウシュ",
+          "rawName": "新酿苍烧"
+        }
+      ]
+    },
+    {
+      "characterId": "character-36",
+      "sourceName": "努蒂奴",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g34",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "萨拉米斯点心",
+          "nameJa": "サラミスの菓子",
+          "rawName": "萨拉弥斯的点心"
+        },
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        }
+      ],
+      "likes": [
+        {
+          "name": "尖锐的鱼钩",
+          "nameJa": "鋭い釣り針",
+          "rawName": "尖锐的鱼钩"
+        },
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        },
+        {
+          "name": "女骑士与求婚者",
+          "nameJa": "女騎士と求婚者",
+          "rawName": "女骑士与求婚者"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "耐用皮背囊",
+          "nameJa": "丈夫な背負い革袋",
+          "rawName": "耐用的皮革背包"
+        },
+        {
+          "name": "训练装饰臂环",
+          "nameJa": "鍛錬用の装飾腕輪",
+          "rawName": "锻炼用装饰手环"
+        },
+        {
+          "name": "武术训练重物",
+          "nameJa": "武術訓練用の重り",
+          "rawName": "武术训练用重物"
+        },
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        }
+      ]
+    },
+    {
+      "characterId": "character-37",
+      "sourceName": "伊欧",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g35",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "达格萨胡须草",
+          "nameJa": "ダグザヒゲシバ",
+          "rawName": "鞑古扎鼠尾粟"
+        }
+      ],
+      "likes": [
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "桌游定式集",
+          "nameJa": "盤上遊戯の定跡集",
+          "rawName": "桌上游戏定式集"
+        },
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "马匹保养工具",
+          "nameJa": "馬のお手入れ道具",
+          "rawName": "马匹保养工具"
+        },
+        {
+          "name": "护关节长手套",
+          "nameJa": "関節保護用長手袋",
+          "rawName": "关节保护用长手套"
+        },
+        {
+          "name": "马鬃饰品",
+          "nameJa": "鬣飾り",
+          "rawName": "鬃毛饰品"
+        },
+        {
+          "name": "精灵守护人偶",
+          "nameJa": "精霊の護人形",
+          "rawName": "精灵护身人偶"
+        },
+        {
+          "name": "精灵桌游",
+          "nameJa": "精霊の盤上遊戯",
+          "rawName": "精灵桌上游戏"
+        },
+        {
+          "name": "耐用皮背囊",
+          "nameJa": "丈夫な背負い革袋",
+          "rawName": "耐用的皮革背包"
+        },
+        {
+          "name": "训练石柱",
+          "nameJa": "鍛錬用の石柱",
+          "rawName": "锻炼用石柱"
+        },
+        {
+          "name": "武术训练重物",
+          "nameJa": "武術訓練用の重り",
+          "rawName": "武术训练用重物"
+        }
+      ]
+    },
+    {
+      "characterId": "character-38",
+      "sourceName": "卡塔妮雅",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g36",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "天露水",
+          "nameJa": "天露水",
+          "rawName": "天露水"
+        },
+        {
+          "name": "东方漆黑丝绸",
+          "nameJa": "東方の漆黒絹",
+          "rawName": "东方漆黑绢"
+        },
+        {
+          "name": "东方耳饰",
+          "nameJa": "東方の耳飾り",
+          "rawName": "东方耳饰"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        },
+        {
+          "name": "达格萨胡须草",
+          "nameJa": "ダグザヒゲシバ",
+          "rawName": "鞑古扎鼠尾粟"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        }
+      ],
+      "likes": [
+        {
+          "name": "过于华丽的手环",
+          "nameJa": "派手すぎる腕輪",
+          "rawName": "过于华丽的手环"
+        },
+        {
+          "name": "马匹保养工具",
+          "nameJa": "馬のお手入れ道具",
+          "rawName": "马匹保养工具"
+        },
+        {
+          "name": "简单魔术道具",
+          "nameJa": "簡単な手品道具",
+          "rawName": "简易魔术道具"
+        },
+        {
+          "name": "奥古斯特芙",
+          "nameJa": "オーガスのテフ",
+          "rawName": "欧加斯特芙"
+        },
+        {
+          "name": "浅色画材",
+          "nameJa": "淡い色の画材",
+          "rawName": "浅色绘画材料"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "南方香醇特芙",
+          "nameJa": "南方の薫るテフ",
+          "rawName": "南方风味特芙"
+        }
+      ],
+      "seriesNote": "马系（推测：已确认非常喜欢 鞑古扎鼠尾粟）"
+    },
+    {
+      "characterId": "character-39",
+      "sourceName": "班迪兹",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g37",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "东方漆黑丝绸",
+          "nameJa": "東方の漆黒絹",
+          "rawName": "东方漆黑绢"
+        },
+        {
+          "name": "东方耳饰",
+          "nameJa": "東方の耳飾り",
+          "rawName": "东方耳饰"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        }
+      ],
+      "likes": [
+        {
+          "name": "马匹保养工具",
+          "nameJa": "馬のお手入れ道具",
+          "rawName": "马匹保养工具"
+        },
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "女骑士与求婚者",
+          "nameJa": "女騎士と求婚者",
+          "rawName": "女骑士与求婚者"
+        },
+        {
+          "name": "过于华丽的手环",
+          "nameJa": "派手すぎる腕輪",
+          "rawName": "过于华丽的手环"
+        },
+        {
+          "name": "奥古斯特芙",
+          "nameJa": "オーガスのテフ",
+          "rawName": "欧加斯特芙"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "南方香醇特芙",
+          "nameJa": "南方の薫るテフ",
+          "rawName": "南方风味特芙"
+        },
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        }
+      ]
+    },
+    {
+      "characterId": "character-40",
+      "sourceName": "亚历珊德拉",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g38",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "东方耳饰",
+          "nameJa": "東方の耳飾り",
+          "rawName": "东方耳饰"
+        },
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        }
+      ],
+      "likes": [
+        {
+          "name": "阿勒克托的鱼酱",
+          "nameJa": "アレクトーガルム",
+          "rawName": "阿雷库托鱼酱"
+        },
+        {
+          "name": "达格萨胡须草",
+          "nameJa": "ダグザヒゲシバ",
+          "rawName": "鞑古扎鼠尾粟"
+        },
+        {
+          "name": "过于华丽的手环",
+          "nameJa": "派手すぎる腕輪",
+          "rawName": "过于华丽的手环"
+        },
+        {
+          "name": "药草料理大全",
+          "nameJa": "薬草料理大全",
+          "rawName": "药草料理大全"
+        },
+        {
+          "name": "家庭料理大全",
+          "nameJa": "家庭料理大全",
+          "rawName": "家庭料理大全"
+        },
+        {
+          "name": "马匹保养工具",
+          "nameJa": "馬のお手入れ道具",
+          "rawName": "马匹保养工具"
+        },
+        {
+          "name": "马鬃饰品",
+          "nameJa": "鬣飾り",
+          "rawName": "鬃毛饰品"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "爽口的鱼酱",
+          "nameJa": "淡麗なガルム",
+          "rawName": "爽口的鱼酱"
+        },
+        {
+          "name": "浓香调味料",
+          "nameJa": "味わい深い調味料",
+          "rawName": "风味浓郁的调味料"
+        },
+        {
+          "name": "耐用皮背囊",
+          "nameJa": "丈夫な背負い革袋",
+          "rawName": "耐用的皮革背包"
+        },
+        {
+          "name": "训练装饰臂环",
+          "nameJa": "鍛錬用の装飾腕輪",
+          "rawName": "锻炼用装饰手环"
+        },
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        },
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        }
+      ]
+    },
+    {
+      "characterId": "character-41",
+      "sourceName": "诺克裘拉",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g39",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        }
+      ],
+      "likes": [
+        {
+          "name": "蓝玫瑰花束",
+          "nameJa": "蒼い薔薇の花束",
+          "rawName": "蓝蔷薇花束"
+        },
+        {
+          "name": "巨鱼眼球",
+          "nameJa": "巨大魚の目玉",
+          "rawName": "巨型鱼的眼珠"
+        },
+        {
+          "name": "精灵守护人偶",
+          "nameJa": "精霊の護人形",
+          "rawName": "精灵护身人偶"
+        },
+        {
+          "name": "耐用皮背囊",
+          "nameJa": "丈夫な背負い革袋",
+          "rawName": "耐用的皮革背包"
+        },
+        {
+          "name": "训练装饰臂环",
+          "nameJa": "鍛錬用の装飾腕輪",
+          "rawName": "锻炼用装饰手环"
+        },
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        }
+      ]
+    },
+    {
+      "characterId": "character-42",
+      "sourceName": "杨界",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "世界名诗集",
+          "nameJa": "世界の名詩集",
+          "rawName": "世界名诗集"
+        },
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        },
+        {
+          "name": "火山赤烧",
+          "nameJa": "火の山のゴーシュ",
+          "rawName": "火之山赤烧"
+        }
+      ],
+      "likes": [
+        {
+          "name": "蓝玫瑰花束",
+          "nameJa": "蒼い薔薇の花束",
+          "rawName": "蓝蔷薇花束"
+        },
+        {
+          "name": "香醇的苍烧",
+          "nameJa": "芳醇なソウシュ",
+          "rawName": "香醇的苍烧"
+        },
+        {
+          "name": "有弹性的钓竿",
+          "nameJa": "しなやかな釣り竿",
+          "rawName": "有弹性的钓竿"
+        },
+        {
+          "name": "药草料理大全",
+          "nameJa": "薬草料理大全",
+          "rawName": "药草料理大全"
+        },
+        {
+          "name": "家庭料理大全",
+          "nameJa": "家庭料理大全",
+          "rawName": "家庭料理大全"
+        },
+        {
+          "name": "巨鱼眼球",
+          "nameJa": "巨大魚の目玉",
+          "rawName": "巨型鱼的眼珠"
+        },
+        {
+          "name": "翡翠赤烧",
+          "nameJa": "翡翠色のゴーシュ",
+          "rawName": "翡翠色赤烧"
+        },
+        {
+          "name": "苍空苍烧",
+          "nameJa": "蒼空のソウシュ",
+          "rawName": "苍空苍烧"
+        },
+        {
+          "name": "陈酿赤烧",
+          "nameJa": "熟成ゴーシュ",
+          "rawName": "陈酿赤烧"
+        },
+        {
+          "name": "陈酿苍烧",
+          "nameJa": "熟成ソウシュ",
+          "rawName": "陈酿苍烧"
+        },
+        {
+          "name": "奥古斯特芙",
+          "nameJa": "オーガスのテフ",
+          "rawName": "欧加斯特芙"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "朴素赤烧",
+          "nameJa": "素朴なゴーシュ",
+          "rawName": "朴素赤烧"
+        },
+        {
+          "name": "秘传赤烧",
+          "nameJa": "秘伝のゴーシュ",
+          "rawName": "秘传赤烧"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "尖锐的鱼钩",
+          "nameJa": "鋭い釣り針",
+          "rawName": "尖锐的鱼钩"
+        },
+        {
+          "name": "南方香醇特芙",
+          "nameJa": "南方の薫るテフ",
+          "rawName": "南方风味特芙"
+        },
+        {
+          "name": "南方赤烧",
+          "nameJa": "南方のゴーシュ",
+          "rawName": "南方赤烧"
+        },
+        {
+          "name": "太阳赤烧",
+          "nameJa": "太陽のゴーシュ",
+          "rawName": "太阳赤烧"
+        },
+        {
+          "name": "但丁戏剧全集",
+          "nameJa": "ダンテ戯曲全集",
+          "rawName": "丹提戏曲全集"
+        },
+        {
+          "name": "贸易入门",
+          "nameJa": "貿易取引入門",
+          "rawName": "商贸入门"
+        },
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        },
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        }
+      ]
+    },
+    {
+      "characterId": "character-43",
+      "sourceName": "索绯雅",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "蜂蜜奶",
+          "nameJa": "蜂蜜入りの乳",
+          "rawName": "加了蜂蜜的奶"
+        },
+        {
+          "name": "蓝玫瑰花束",
+          "nameJa": "蒼い薔薇の花束",
+          "rawName": "蓝蔷薇花束"
+        },
+        {
+          "name": "两把鱼刀",
+          "nameJa": "二振りの魚包丁",
+          "rawName": "两把鱼刀"
+        },
+        {
+          "name": "火山赤烧",
+          "nameJa": "火の山のゴーシュ",
+          "rawName": "火之山赤烧"
+        }
+      ],
+      "likes": [
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "银吉雪露必",
+          "nameJa": "ギンジ入りセルビ",
+          "rawName": "加了津吉的雪露必"
+        },
+        {
+          "name": "蜂蜜烤点心",
+          "nameJa": "蜂蜜入り焼き菓子",
+          "rawName": "蜂蜜烤点心"
+        },
+        {
+          "name": "贾梅尔奶",
+          "nameJa": "ジャーメルの乳",
+          "rawName": "迦梅尔奶"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "简单魔术道具",
+          "nameJa": "簡単な手品道具",
+          "rawName": "简易魔术道具"
+        },
+        {
+          "name": "尼萨产的鱼酱",
+          "nameJa": "ニーザ産ガルム",
+          "rawName": "尼札产的鱼酱"
+        },
+        {
+          "name": "野外烹饪工具",
+          "nameJa": "野外調理道具",
+          "rawName": "野外用厨具"
+        },
+        {
+          "name": "浅色画材",
+          "nameJa": "淡い色の画材",
+          "rawName": "浅色绘画材料"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "瓶装腌蔬菜",
+          "nameJa": "野菜の瓶漬け",
+          "rawName": "瓶装腌菜"
+        },
+        {
+          "name": "精灵守护人偶",
+          "nameJa": "精霊の護人形",
+          "rawName": "精灵护身人偶"
+        },
+        {
+          "name": "纯白雪露必",
+          "nameJa": "純白のセルビ",
+          "rawName": "纯白的雪露必"
+        },
+        {
+          "name": "尖锐的鱼钩",
+          "nameJa": "鋭い釣り針",
+          "rawName": "尖锐的鱼钩"
+        },
+        {
+          "name": "牦牛奶",
+          "nameJa": "ヤクの乳",
+          "rawName": "亚库的奶"
+        }
+      ]
+    },
+    {
+      "characterId": "character-44",
+      "sourceName": "努佐",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g42",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "两把鱼刀",
+          "nameJa": "二振りの魚包丁",
+          "rawName": "两把鱼刀"
+        }
+      ],
+      "likes": [
+        {
+          "name": "尖锐的鱼钩",
+          "nameJa": "鋭い釣り針",
+          "rawName": "尖锐的鱼钩"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "护关节长手套",
+          "nameJa": "関節保護用長手袋",
+          "rawName": "关节保护用长手套"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "尼萨产的鱼酱",
+          "nameJa": "ニーザ産ガルム",
+          "rawName": "尼札产的鱼酱"
+        },
+        {
+          "name": "野外烹饪工具",
+          "nameJa": "野外調理道具",
+          "rawName": "野外用厨具"
+        },
+        {
+          "name": "瓶装腌蔬菜",
+          "nameJa": "野菜の瓶漬け",
+          "rawName": "瓶装腌菜"
+        },
+        {
+          "name": "精灵守护人偶",
+          "nameJa": "精霊の護人形",
+          "rawName": "精灵护身人偶"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "耐用皮背囊",
+          "nameJa": "丈夫な背負い革袋",
+          "rawName": "耐用的皮革背包"
+        },
+        {
+          "name": "训练装饰臂环",
+          "nameJa": "鍛錬用の装飾腕輪",
+          "rawName": "锻炼用装饰手环"
+        },
+        {
+          "name": "训练石柱",
+          "nameJa": "鍛錬用の石柱",
+          "rawName": "锻炼用石柱"
+        },
+        {
+          "name": "武术训练重物",
+          "nameJa": "武術訓練用の重り",
+          "rawName": "武术训练用重物"
+        }
+      ]
+    },
+    {
+      "characterId": "character-45",
+      "sourceName": "马吉迪",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g43",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "陈酿赤烧",
+          "nameJa": "熟成ゴーシュ",
+          "rawName": "陈酿赤烧"
+        },
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "两把鱼刀",
+          "nameJa": "二振りの魚包丁",
+          "rawName": "两把鱼刀"
+        }
+      ],
+      "likes": [
+        {
+          "name": "护关节长手套",
+          "nameJa": "関節保護用長手袋",
+          "rawName": "关节保护用长手套"
+        },
+        {
+          "name": "苍空苍烧",
+          "nameJa": "蒼空のソウシュ",
+          "rawName": "苍空苍烧"
+        },
+        {
+          "name": "陈酿苍烧",
+          "nameJa": "熟成ソウシュ",
+          "rawName": "陈酿苍烧"
+        },
+        {
+          "name": "朴素赤烧",
+          "nameJa": "素朴なゴーシュ",
+          "rawName": "朴素赤烧"
+        },
+        {
+          "name": "训练石柱",
+          "nameJa": "鍛錬用の石柱",
+          "rawName": "锻炼用石柱"
+        },
+        {
+          "name": "武术训练重物",
+          "nameJa": "武術訓練用の重り",
+          "rawName": "武术训练用重物"
+        },
+        {
+          "name": "火山赤烧",
+          "nameJa": "火の山のゴーシュ",
+          "rawName": "火之山赤烧"
+        },
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        },
+        {
+          "name": "新酿苍烧",
+          "nameJa": "若いソウシュ",
+          "rawName": "新酿苍烧"
+        }
+      ]
+    },
+    {
+      "characterId": "character-46",
+      "sourceName": "札可捏",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g44",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "秘传赤烧",
+          "nameJa": "秘伝のゴーシュ",
+          "rawName": "秘传赤烧"
+        }
+      ],
+      "likes": [
+        {
+          "name": "药草料理大全",
+          "nameJa": "薬草料理大全",
+          "rawName": "药草料理大全"
+        },
+        {
+          "name": "东方耳饰",
+          "nameJa": "東方の耳飾り",
+          "rawName": "东方耳饰"
+        },
+        {
+          "name": "过于华丽的手环",
+          "nameJa": "派手すぎる腕輪",
+          "rawName": "过于华丽的手环"
+        },
+        {
+          "name": "醋渍球根",
+          "nameJa": "球根の酢漬け",
+          "rawName": "醋渍球根"
+        },
+        {
+          "name": "盆栽蔬菜",
+          "nameJa": "野菜の鉢植え",
+          "rawName": "蔬菜盆栽"
+        },
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        },
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        }
+      ]
+    },
+    {
+      "characterId": "character-47",
+      "sourceName": "哥莱亚斯",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g45",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "朴素烤点心",
+          "nameJa": "素朴な焼き菓子",
+          "rawName": "朴素的烤点心"
+        },
+        {
+          "name": "陈酿苍烧",
+          "nameJa": "熟成ソウシュ",
+          "rawName": "陈酿苍烧"
+        },
+        {
+          "name": "陈酿赤烧",
+          "nameJa": "熟成ゴーシュ",
+          "rawName": "陈酿赤烧"
+        },
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "火山赤烧",
+          "nameJa": "火の山のゴーシュ",
+          "rawName": "火之山赤烧"
+        }
+      ],
+      "likes": [
+        {
+          "name": "蓝玫瑰花束",
+          "nameJa": "蒼い薔薇の花束",
+          "rawName": "蓝蔷薇花束"
+        },
+        {
+          "name": "香醇的苍烧",
+          "nameJa": "芳醇なソウシュ",
+          "rawName": "香醇的苍烧"
+        },
+        {
+          "name": "翡翠赤烧",
+          "nameJa": "翡翠色のゴーシュ",
+          "rawName": "翡翠色赤烧"
+        },
+        {
+          "name": "苍空苍烧",
+          "nameJa": "蒼空のソウシュ",
+          "rawName": "苍空苍烧"
+        },
+        {
+          "name": "朴素赤烧",
+          "nameJa": "素朴なゴーシュ",
+          "rawName": "朴素赤烧"
+        },
+        {
+          "name": "秘传赤烧",
+          "nameJa": "秘伝のゴーシュ",
+          "rawName": "秘传赤烧"
+        },
+        {
+          "name": "南方赤烧",
+          "nameJa": "南方のゴーシュ",
+          "rawName": "南方赤烧"
+        },
+        {
+          "name": "耐用皮背囊",
+          "nameJa": "丈夫な背負い革袋",
+          "rawName": "耐用的皮革背包"
+        },
+        {
+          "name": "太阳赤烧",
+          "nameJa": "太陽のゴーシュ",
+          "rawName": "太阳赤烧"
+        },
+        {
+          "name": "训练装饰臂环",
+          "nameJa": "鍛錬用の装飾腕輪",
+          "rawName": "锻炼用装饰手环"
+        },
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        },
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        }
+      ]
+    },
+    {
+      "characterId": "character-48",
+      "sourceName": "杰斯塔",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g46",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "两把鱼刀",
+          "nameJa": "二振りの魚包丁",
+          "rawName": "两把鱼刀"
+        },
+        {
+          "name": "仪式用锋利长枪",
+          "nameJa": "儀礼用の鋭い槍",
+          "rawName": "锋利的礼仪用枪"
+        },
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        }
+      ],
+      "likes": [
+        {
+          "name": "桌游定式集",
+          "nameJa": "盤上遊戯の定跡集",
+          "rawName": "桌上游戏定式集"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "护关节长手套",
+          "nameJa": "関節保護用長手袋",
+          "rawName": "关节保护用长手套"
+        },
+        {
+          "name": "精灵桌游",
+          "nameJa": "精霊の盤上遊戯",
+          "rawName": "精灵桌上游戏"
+        }
+      ]
+    },
+    {
+      "characterId": "character-49",
+      "sourceName": "露露蒂雅",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g47",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "世界名诗集",
+          "nameJa": "世界の名詩集",
+          "rawName": "世界名诗集"
+        },
+        {
+          "name": "东方漆黑丝绸",
+          "nameJa": "東方の漆黒絹",
+          "rawName": "东方漆黑绢"
+        },
+        {
+          "name": "东方耳饰",
+          "nameJa": "東方の耳飾り",
+          "rawName": "东方耳饰"
+        },
+        {
+          "name": "女骑士与求婚者",
+          "nameJa": "女騎士と求婚者",
+          "rawName": "女骑士与求婚者"
+        },
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        }
+      ],
+      "likes": [
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        },
+        {
+          "name": "过于华丽的手环",
+          "nameJa": "派手すぎる腕輪",
+          "rawName": "过于华丽的手环"
+        },
+        {
+          "name": "药草料理大全",
+          "nameJa": "薬草料理大全",
+          "rawName": "药草料理大全"
+        },
+        {
+          "name": "家庭料理大全",
+          "nameJa": "家庭料理大全",
+          "rawName": "家庭料理大全"
+        },
+        {
+          "name": "简单魔术道具",
+          "nameJa": "簡単な手品道具",
+          "rawName": "简易魔术道具"
+        },
+        {
+          "name": "奥古斯特芙",
+          "nameJa": "オーガスのテフ",
+          "rawName": "欧加斯特芙"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "尖锐的鱼钩",
+          "nameJa": "鋭い釣り針",
+          "rawName": "尖锐的鱼钩"
+        },
+        {
+          "name": "南方香醇特芙",
+          "nameJa": "南方の薫るテフ",
+          "rawName": "南方风味特芙"
+        },
+        {
+          "name": "耐用皮背囊",
+          "nameJa": "丈夫な背負い革袋",
+          "rawName": "耐用的皮革背包"
+        },
+        {
+          "name": "贸易入门",
+          "nameJa": "貿易取引入門",
+          "rawName": "商贸入门"
+        },
+        {
+          "name": "训练装饰臂环",
+          "nameJa": "鍛錬用の装飾腕輪",
+          "rawName": "锻炼用装饰手环"
+        },
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        }
+      ]
+    },
+    {
+      "characterId": "character-50",
+      "sourceName": "绯亚娜",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g48",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "稀有香辛料",
+          "nameJa": "珍しい香辛料",
+          "rawName": "稀有的香料"
+        },
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "蓝玫瑰花束",
+          "nameJa": "蒼い薔薇の花束",
+          "rawName": "蓝蔷薇花束"
+        },
+        {
+          "name": "火山赤烧",
+          "nameJa": "火の山のゴーシュ",
+          "rawName": "火之山赤烧"
+        }
+      ],
+      "likes": [
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "护关节长手套",
+          "nameJa": "関節保護用長手袋",
+          "rawName": "关节保护用长手套"
+        },
+        {
+          "name": "南方香醇特芙",
+          "nameJa": "南方の薫るテフ",
+          "rawName": "南方风味特芙"
+        }
+      ]
+    },
+    {
+      "characterId": "character-51",
+      "sourceName": "大刀",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g49",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "淡雪露必",
+          "nameJa": "薄いセルビ",
+          "rawName": "淡雪露必"
+        },
+        {
+          "name": "贾梅尔奶",
+          "nameJa": "ジャーメルの乳",
+          "rawName": "迦梅尔奶"
+        },
+        {
+          "name": "世界名诗集",
+          "nameJa": "世界の名詩集",
+          "rawName": "世界名诗集"
+        },
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        }
+      ],
+      "likes": [
+        {
+          "name": "秘传赤烧",
+          "nameJa": "秘伝のゴーシュ",
+          "rawName": "秘传赤烧"
+        },
+        {
+          "name": "蓝玫瑰花束",
+          "nameJa": "蒼い薔薇の花束",
+          "rawName": "蓝蔷薇花束"
+        },
+        {
+          "name": "稀有香辛料",
+          "nameJa": "珍しい香辛料",
+          "rawName": "稀有的香料"
+        },
+        {
+          "name": "香烤点心",
+          "nameJa": "香ばしい焼き菓子",
+          "rawName": "香喷喷的烤点心"
+        },
+        {
+          "name": "银吉雪露必",
+          "nameJa": "ギンジ入りセルビ",
+          "rawName": "加了津吉的雪露必"
+        },
+        {
+          "name": "蜂蜜奶",
+          "nameJa": "蜂蜜入りの乳",
+          "rawName": "加了蜂蜜的奶"
+        },
+        {
+          "name": "蜂蜜烤点心",
+          "nameJa": "蜂蜜入り焼き菓子",
+          "rawName": "蜂蜜烤点心"
+        },
+        {
+          "name": "巨鱼眼球",
+          "nameJa": "巨大魚の目玉",
+          "rawName": "巨型鱼的眼珠"
+        },
+        {
+          "name": "熟成干制塞尔维",
+          "nameJa": "熟成干しセルビ",
+          "rawName": "熟成雪露必干"
+        },
+        {
+          "name": "微甜烤点心",
+          "nameJa": "少し甘い焼き菓子",
+          "rawName": "微甜的烤点心"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "盆栽蔬菜",
+          "nameJa": "野菜の鉢植え",
+          "rawName": "蔬菜盆栽"
+        },
+        {
+          "name": "萨拉米斯点心",
+          "nameJa": "サラミスの菓子",
+          "rawName": "萨拉弥斯的点心"
+        },
+        {
+          "name": "朴素烤点心",
+          "nameJa": "素朴な焼き菓子",
+          "rawName": "朴素的烤点心"
+        },
+        {
+          "name": "浓雪露必",
+          "nameJa": "濃いセルビ",
+          "rawName": "浓雪露必"
+        },
+        {
+          "name": "牦牛奶",
+          "nameJa": "ヤクの乳",
+          "rawName": "亚库的奶"
+        }
+      ]
+    },
+    {
+      "characterId": "character-52",
+      "sourceName": "哈尔温",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g50",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "萨拉米斯点心",
+          "nameJa": "サラミスの菓子",
+          "rawName": "萨拉弥斯的点心"
+        },
+        {
+          "name": "盆栽蔬菜",
+          "nameJa": "野菜の鉢植え",
+          "rawName": "蔬菜盆栽"
+        },
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "稀有香辛料",
+          "nameJa": "珍しい香辛料",
+          "rawName": "稀有的香料"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "东方漆黑丝绸",
+          "nameJa": "東方の漆黒絹",
+          "rawName": "东方漆黑绢"
+        },
+        {
+          "name": "东方耳饰",
+          "nameJa": "東方の耳飾り",
+          "rawName": "东方耳饰"
+        }
+      ],
+      "likes": [
+        {
+          "name": "南方赤烧",
+          "nameJa": "南方のゴーシュ",
+          "rawName": "南方赤烧"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "过于华丽的手环",
+          "nameJa": "派手すぎる腕輪",
+          "rawName": "过于华丽的手环"
+        },
+        {
+          "name": "翡翠色豹像",
+          "nameJa": "翡翠色の豹の像",
+          "rawName": "翡翠豹像"
+        },
+        {
+          "name": "简单魔术道具",
+          "nameJa": "簡単な手品道具",
+          "rawName": "简易魔术道具"
+        },
+        {
+          "name": "朴素烤点心",
+          "nameJa": "素朴な焼き菓子",
+          "rawName": "朴素的烤点心"
+        },
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        }
+      ]
+    },
+    {
+      "characterId": "character-53",
+      "sourceName": "西提司",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g51",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "教职员事件簿",
+          "nameJa": "教職員事件簿",
+          "rawName": "教职员事件簿"
+        },
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "尖锐的鱼钩",
+          "nameJa": "鋭い釣り針",
+          "rawName": "尖锐的鱼钩"
+        },
+        {
+          "name": "世界名诗集",
+          "nameJa": "世界の名詩集",
+          "rawName": "世界名诗集"
+        },
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        }
+      ],
+      "likes": [
+        {
+          "name": "乡村简朴料理集",
+          "nameJa": "村の素朴な料理集",
+          "rawName": "乡村简朴料理集"
+        },
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        },
+        {
+          "name": "有弹性的钓竿",
+          "nameJa": "しなやかな釣り竿",
+          "rawName": "有弹性的钓竿"
+        },
+        {
+          "name": "药草料理大全",
+          "nameJa": "薬草料理大全",
+          "rawName": "药草料理大全"
+        },
+        {
+          "name": "家庭料理大全",
+          "nameJa": "家庭料理大全",
+          "rawName": "家庭料理大全"
+        },
+        {
+          "name": "巨鱼眼球",
+          "nameJa": "巨大魚の目玉",
+          "rawName": "巨型鱼的眼珠"
+        },
+        {
+          "name": "奥古斯特芙",
+          "nameJa": "オーガスのテフ",
+          "rawName": "欧加斯特芙"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "南方香醇特芙",
+          "nameJa": "南方の薫るテフ",
+          "rawName": "南方风味特芙"
+        },
+        {
+          "name": "耐用皮背囊",
+          "nameJa": "丈夫な背負い革袋",
+          "rawName": "耐用的皮革背包"
+        },
+        {
+          "name": "贸易入门",
+          "nameJa": "貿易取引入門",
+          "rawName": "商贸入门"
+        }
+      ]
+    },
+    {
+      "characterId": "character-54",
+      "sourceName": "罗蕾塔",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g52",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "萨拉米斯点心",
+          "nameJa": "サラミスの菓子",
+          "rawName": "萨拉弥斯的点心"
+        },
+        {
+          "name": "蜂蜜烤点心",
+          "nameJa": "蜂蜜入り焼き菓子",
+          "rawName": "蜂蜜烤点心"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        }
+      ],
+      "likes": [
+        {
+          "name": "蓝玫瑰花束",
+          "nameJa": "蒼い薔薇の花束",
+          "rawName": "蓝蔷薇花束"
+        },
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "蜂蜜奶",
+          "nameJa": "蜂蜜入りの乳",
+          "rawName": "加了蜂蜜的奶"
+        },
+        {
+          "name": "护关节长手套",
+          "nameJa": "関節保護用長手袋",
+          "rawName": "关节保护用长手套"
+        },
+        {
+          "name": "微甜烤点心",
+          "nameJa": "少し甘い焼き菓子",
+          "rawName": "微甜的烤点心"
+        },
+        {
+          "name": "纯白雪露必",
+          "nameJa": "純白のセルビ",
+          "rawName": "纯白的雪露必"
+        },
+        {
+          "name": "训练石柱",
+          "nameJa": "鍛錬用の石柱",
+          "rawName": "锻炼用石柱"
+        },
+        {
+          "name": "武术训练重物",
+          "nameJa": "武術訓練用の重り",
+          "rawName": "武术训练用重物"
+        }
+      ]
+    },
+    {
+      "characterId": "character-57",
+      "sourceName": "嘉丝敏",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g53",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "萨拉米斯点心",
+          "nameJa": "サラミスの菓子",
+          "rawName": "萨拉弥斯的点心"
+        },
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        },
+        {
+          "name": "鱼酱",
+          "nameJa": "ガルム",
+          "rawName": "鱼酱"
+        },
+        {
+          "name": "稀有香辛料",
+          "nameJa": "珍しい香辛料",
+          "rawName": "稀有的香料"
+        }
+      ],
+      "likes": [
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "两把鱼刀",
+          "nameJa": "二振りの魚包丁",
+          "rawName": "两把鱼刀"
+        },
+        {
+          "name": "蜂蜜烤点心",
+          "nameJa": "蜂蜜入り焼き菓子",
+          "rawName": "蜂蜜烤点心"
+        },
+        {
+          "name": "贾梅尔奶",
+          "nameJa": "ジャーメルの乳",
+          "rawName": "迦梅尔奶"
+        },
+        {
+          "name": "护关节长手套",
+          "nameJa": "関節保護用長手袋",
+          "rawName": "关节保护用长手套"
+        },
+        {
+          "name": "简单魔术道具",
+          "nameJa": "簡単な手品道具",
+          "rawName": "简易魔术道具"
+        },
+        {
+          "name": "尼萨产的鱼酱",
+          "nameJa": "ニーザ産ガルム",
+          "rawName": "尼札产的鱼酱"
+        },
+        {
+          "name": "野外烹饪工具",
+          "nameJa": "野外調理道具",
+          "rawName": "野外用厨具"
+        },
+        {
+          "name": "浅色画材",
+          "nameJa": "淡い色の画材",
+          "rawName": "浅色绘画材料"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "精灵守护人偶",
+          "nameJa": "精霊の護人形",
+          "rawName": "精灵护身人偶"
+        },
+        {
+          "name": "纯白雪露必",
+          "nameJa": "純白のセルビ",
+          "rawName": "纯白的雪露必"
+        },
+        {
+          "name": "耐用皮背囊",
+          "nameJa": "丈夫な背負い革袋",
+          "rawName": "耐用的皮革背包"
+        },
+        {
+          "name": "训练石柱",
+          "nameJa": "鍛錬用の石柱",
+          "rawName": "锻炼用石柱"
+        },
+        {
+          "name": "武术训练重物",
+          "nameJa": "武術訓練用の重り",
+          "rawName": "武术训练用重物"
+        }
+      ]
+    },
+    {
+      "characterId": "character-58",
+      "sourceName": "奇洛伊卡",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g54",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "陈酿赤烧",
+          "nameJa": "熟成ゴーシュ",
+          "rawName": "陈酿赤烧"
+        },
+        {
+          "name": "有弹性的钓竿",
+          "nameJa": "しなやかな釣り竿",
+          "rawName": "有弹性的钓竿"
+        },
+        {
+          "name": "稀有香辛料",
+          "nameJa": "珍しい香辛料",
+          "rawName": "稀有的香料"
+        },
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "火山赤烧",
+          "nameJa": "火の山のゴーシュ",
+          "rawName": "火之山赤烧"
+        }
+      ],
+      "likes": [
+        {
+          "name": "护关节长手套",
+          "nameJa": "関節保護用長手袋",
+          "rawName": "关节保护用长手套"
+        },
+        {
+          "name": "苍空苍烧",
+          "nameJa": "蒼空のソウシュ",
+          "rawName": "苍空苍烧"
+        },
+        {
+          "name": "陈酿苍烧",
+          "nameJa": "熟成ソウシュ",
+          "rawName": "陈酿苍烧"
+        },
+        {
+          "name": "朴素赤烧",
+          "nameJa": "素朴なゴーシュ",
+          "rawName": "朴素赤烧"
+        },
+        {
+          "name": "大粒特芙",
+          "nameJa": "大粒のテフ",
+          "rawName": "大粒特芙"
+        },
+        {
+          "name": "尖锐的鱼钩",
+          "nameJa": "鋭い釣り針",
+          "rawName": "尖锐的鱼钩"
+        },
+        {
+          "name": "南方香醇特芙",
+          "nameJa": "南方の薫るテフ",
+          "rawName": "南方风味特芙"
+        },
+        {
+          "name": "训练石柱",
+          "nameJa": "鍛錬用の石柱",
+          "rawName": "锻炼用石柱"
+        },
+        {
+          "name": "武术训练重物",
+          "nameJa": "武術訓練用の重り",
+          "rawName": "武术训练用重物"
+        },
+        {
+          "name": "新酿赤烧",
+          "nameJa": "若いゴーシュ",
+          "rawName": "新酿赤烧"
+        },
+        {
+          "name": "新酿苍烧",
+          "nameJa": "若いソウシュ",
+          "rawName": "新酿苍烧"
+        }
+      ]
+    },
+    {
+      "characterId": "character-59",
+      "sourceName": "易尼奥尼",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g55",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "军略书抄本",
+          "nameJa": "軍略書の写本",
+          "rawName": "军略书的抄本"
+        },
+        {
+          "name": "游历老者口述录",
+          "nameJa": "旅の老師の口伝録",
+          "rawName": "旅行老人的语录"
+        }
+      ],
+      "likes": [
+        {
+          "name": "东方漆黑丝绸",
+          "nameJa": "東方の漆黒絹",
+          "rawName": "东方漆黑绢"
+        },
+        {
+          "name": "巨鱼眼球",
+          "nameJa": "巨大魚の目玉",
+          "rawName": "巨型鱼的眼珠"
+        },
+        {
+          "name": "尖锐的鱼钩",
+          "nameJa": "鋭い釣り針",
+          "rawName": "尖锐的鱼钩"
+        },
+        {
+          "name": "耐用皮背囊",
+          "nameJa": "丈夫な背負い革袋",
+          "rawName": "耐用的皮革背包"
+        },
+        {
+          "name": "训练装饰臂环",
+          "nameJa": "鍛錬用の装飾腕輪",
+          "rawName": "锻炼用装饰手环"
+        },
+        {
+          "name": "裂风箭羽",
+          "nameJa": "風裂きの矢羽根",
+          "rawName": "风裂箭羽"
+        }
+      ]
+    },
+    {
+      "characterId": "character-60",
+      "sourceName": "佩佩",
+      "sourceUrl": "https://fire-emblem-fw.site/misc.html#g56",
+      "upstreamSource": "game8",
+      "loves": [
+        {
+          "name": "朴素烤点心",
+          "nameJa": "素朴な焼き菓子",
+          "rawName": "朴素的烤点心"
+        },
+        {
+          "name": "小粒特芙",
+          "nameJa": "小粒のテフ",
+          "rawName": "小粒特芙"
+        },
+        {
+          "name": "特芙烤点心",
+          "nameJa": "テフ入り焼き菓子",
+          "rawName": "加了特芙的烤点心"
+        },
+        {
+          "name": "箭镞形宝石",
+          "nameJa": "矢じりの形の宝石",
+          "rawName": "箭头形的宝石"
+        }
+      ],
+      "likes": [
+        {
+          "name": "芙朵拉红茶",
+          "nameJa": "フォドラの紅茶",
+          "rawName": "芙朵拉红茶"
+        },
+        {
+          "name": "桌游定式集",
+          "nameJa": "盤上遊戯の定跡集",
+          "rawName": "桌上游戏定式集"
+        },
+        {
+          "name": "深红赤烧",
+          "nameJa": "真紅のゴーシュ",
+          "rawName": "鲜红赤烧"
+        },
+        {
+          "name": "护关节长手套",
+          "nameJa": "関節保護用長手袋",
+          "rawName": "关节保护用长手套"
+        },
+        {
+          "name": "小猫摆件",
+          "nameJa": "子猫の置物",
+          "rawName": "小猫摆设"
+        },
+        {
+          "name": "简单魔术道具",
+          "nameJa": "簡単な手品道具",
+          "rawName": "简易魔术道具"
+        },
+        {
+          "name": "野外烹饪工具",
+          "nameJa": "野外調理道具",
+          "rawName": "野外用厨具"
+        },
+        {
+          "name": "浅色画材",
+          "nameJa": "淡い色の画材",
+          "rawName": "浅色绘画材料"
+        },
+        {
+          "name": "营养点心食谱",
+          "nameJa": "栄養満点お菓子本",
+          "rawName": "营养满分点心书"
+        },
+        {
+          "name": "精灵守护人偶",
+          "nameJa": "精霊の護人形",
+          "rawName": "精灵护身人偶"
+        },
+        {
+          "name": "尖锐的鱼钩",
+          "nameJa": "鋭い釣り針",
+          "rawName": "尖锐的鱼钩"
+        },
+        {
+          "name": "精灵桌游",
+          "nameJa": "精霊の盤上遊戯",
+          "rawName": "精灵桌上游戏"
+        },
+        {
+          "name": "耐用皮背囊",
+          "nameJa": "丈夫な背負い革袋",
+          "rawName": "耐用的皮革背包"
+        },
+        {
+          "name": "但丁戏剧全集",
+          "nameJa": "ダンテ戯曲全集",
+          "rawName": "丹提戏曲全集"
+        },
+        {
+          "name": "训练石柱",
+          "nameJa": "鍛錬用の石柱",
+          "rawName": "锻炼用石柱"
+        },
+        {
+          "name": "武术训练重物",
+          "nameJa": "武術訓練用の重り",
+          "rawName": "武术训练用重物"
+        }
+      ]
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "characters": 63,
-  "documentedCharacters": 60,
-  "locations": 37,
-  "shopRecords": 566,
-  "knownStockRecords": 489,
-  "unknownStockRecords": 77,
-  "sourcePages": 144,
+  "documentedCharacters": 61,
+  "locations": 46,
+  "shopRecords": 616,
+  "knownStockRecords": 535,
+  "unknownStockRecords": 81,
+  "sourcePages": 151,
   "checks": [
     "JSON structure and references",
     "Cai gift sample",

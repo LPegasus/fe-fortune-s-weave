@@ -1,4 +1,5 @@
 from research import *
+from normalize_names import ALIASES, normalize_name, normalize_payloads
 DATA=ROOT/'data'; DATA.mkdir(exist_ok=True)
 sources=[]
 def source(id,lang,title,url,note=''):
@@ -12,14 +13,13 @@ cn=json.loads((CACHE/'cn_pages.json').read_text(encoding='utf-8'))
 translations={}
 chars=[]
 for c in cn:
-    source('cn-'+str(c['page']),'zh','游民星空 · '+c['text'].splitlines()[0].split('：')[-1].replace('厄休拉','乌修拉').replace('西蒙','希蒙').replace('奈丁','努蒂奴').replace('洛蕾塔','罗蕾塔').replace('妮娜','妮涅'),c['url'],'中文译名及偏好对照。该文引用 GameWith，不计为独立实测。')
+    source('cn-'+str(c['page']),'zh','游民星空 · '+normalize_name('characters',c['text'].splitlines()[0].split('：')[-1]),c['url'],'中文译名及偏好对照。该文引用 GameWith，不计为独立实测。')
     lines=c['text'].splitlines()
     head=next(x for x in lines if '·' in x)
     left,jp=[x.strip() for x in head.split('·',1)]
     match=re.match(r'(.+?)\s+([A-Za-z].*)',left)
     zh,en=match.groups()
-    # Character name corrected by the user.
-    zh={'厄休拉':'乌修拉','西蒙':'希蒙','奈丁':'努蒂奴','洛蕾塔':'罗蕾塔','妮娜':'妮涅'}.get(zh,zh)
+    zh=normalize_name('characters',zh,jp,en)
     for a,b in re.findall(r'([^（）、：\n]+)（([^（）]+)）',c['text']):
         a=re.sub(r'^(非常喜欢|喜欢|训练装备|英文攻略补充)\s*','',a).strip()
         if re.search(r'[ぁ-ヿ]',b) or b in ['天露水','南洋冒険奇譚']:
@@ -227,25 +227,32 @@ if portrait_file.exists():
         if character['id'] in portraits: character['portrait']=portraits[character['id']]
     source('gamewith-portraits','ja','GameWith · 人物头像图鉴','https://gamewith.jp/fefw/573109','人物头像按姓名匹配并本地缓存；图片归 Nintendo / INTELLIGENT SYSTEMS 所有。')
 
-# Apply user-tested corrections after importing public sources.
+# Apply user corrections and additions after importing public sources.
 correction_file=DATA/'gift-corrections.json'
 if correction_file.exists():
     for correction in json.loads(correction_file.read_text(encoding='utf-8-sig')):
         character=next(c for c in chars if c['id']==correction['characterId'])
-        matches=[i for key in ['loves','likes'] for i in character[key] if i['nameJa']==correction['itemNameJa']]
-        if not matches: raise ValueError('Correction gift missing: '+correction['itemNameJa'])
-        item=matches[0]
+        field='nameJa' if correction.get('itemNameJa') else 'name'
+        value=correction['itemNameJa'] if field=='nameJa' else correction['itemName']
+        matches=[i for key in ['loves','likes'] for i in character[key] if i.get(field)==value]
+        if not matches and 'item' not in correction: raise ValueError('Correction gift missing: '+value)
+        item=matches[0] if matches else correction['item'].copy()
         item['preferenceCorrection']=correction.copy()
         for key in ['loves','likes']:
-            character[key]=[i for i in character[key] if i['nameJa']!=correction['itemNameJa']]
+            character[key]=[i for i in character[key] if i.get(field)!=value]
         character[correction['to']].append(item)
+        character['status']='documented' if character['loves'] or character['likes'] else 'unknown'
         if correction['note'] not in character.setdefault('notes',[]): character['notes'].append(correction['note'])
 
 gifts={**meta,'characters':chars}
 shops={**meta,'locations':locations,'englishExchangeObservations':english}
+from merge_fwsite import merge_gifts, merge_shops
+merge_gifts(gifts,sources)
+merge_shops(shops,sources)
+normalize_payloads(gifts=gifts,shops=shops,sources=sources)
 for filename,value in [('gifts.json',gifts),('shops.json',shops),('sources.json',sources)]:
     (DATA/filename).write_text(json.dumps(value,ensure_ascii=False,indent=2),encoding='utf-8')
-payload=dict(gifts=gifts,shops=shops,sources=sources)
+payload=dict(gifts=gifts,shops=shops,sources=sources,nameAliases=ALIASES)
 (ROOT/'data.js').write_text('window.GUIDE_DATA = '+json.dumps(payload,ensure_ascii=False)+';\n',encoding='utf-8')
 untranslated=sorted({i['nameJa'] for loc in locations for s in loc['shops'] for i in s['items'] if i['name']==i['nameJa']}|{i['nameJa'] for c in chars for key in ['loves','likes'] for i in c[key] if i['name']==i['nameJa']})
 (CACHE/'untranslated.json').write_text(json.dumps(untranslated,ensure_ascii=False,indent=2),encoding='utf-8')

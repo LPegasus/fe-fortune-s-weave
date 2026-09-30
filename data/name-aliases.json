@@ -1,0 +1,3139 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-10-01",
+  "description": "统一中文名称与跨站别名。用户确认名称优先；导入别名按日文原名对齐，来源原文保留在导入快照。",
+  "characters": [
+    {
+      "id": "character-28",
+      "canonicalName": "乌修拉",
+      "nameJa": "ウーシュラ",
+      "nameEn": "Ursula",
+      "aliases": [
+        "厄休拉"
+      ]
+    },
+    {
+      "id": "character-32",
+      "canonicalName": "希蒙",
+      "nameJa": "シモン",
+      "nameEn": "Simon",
+      "aliases": [
+        "西蒙"
+      ]
+    },
+    {
+      "id": "character-36",
+      "canonicalName": "努蒂奴",
+      "nameJa": "ヌディーヌ",
+      "nameEn": "Nydine",
+      "aliases": [
+        "奈丁"
+      ]
+    },
+    {
+      "id": "character-54",
+      "canonicalName": "罗蕾塔",
+      "nameJa": "ロレッタ",
+      "nameEn": "Loretta",
+      "aliases": [
+        "洛蕾塔"
+      ]
+    },
+    {
+      "id": "character-33",
+      "canonicalName": "妮涅",
+      "nameJa": "ニネ",
+      "nameEn": "Ninae",
+      "aliases": [
+        "妮娜"
+      ]
+    },
+    {
+      "id": "character-11",
+      "canonicalName": "米迦艾拉",
+      "nameJa": "ミカエラ",
+      "nameEn": "Mikaela",
+      "aliases": [
+        "米凯伊拉"
+      ]
+    },
+    {
+      "id": "character-53",
+      "canonicalName": "西提司",
+      "nameJa": "セテス",
+      "nameEn": "Seteth",
+      "aliases": [
+        "赛特斯"
+      ]
+    },
+    {
+      "id": "character-48",
+      "canonicalName": "杰斯塔",
+      "nameJa": "ジェスター",
+      "nameEn": "Jester",
+      "aliases": [
+        "杰斯特"
+      ]
+    },
+    {
+      "id": "character-18",
+      "canonicalName": "奥琳琵娅",
+      "nameJa": "オリンピア",
+      "nameEn": "Olympia",
+      "aliases": [
+        "奥林匹亚"
+      ]
+    },
+    {
+      "id": "character-31",
+      "canonicalName": "丹提",
+      "nameJa": "ダンテ",
+      "nameEn": "Dante",
+      "aliases": [
+        "但丁"
+      ]
+    },
+    {
+      "id": "character-14",
+      "canonicalName": "莉利安",
+      "nameJa": "リリアン",
+      "nameEn": "Lilian",
+      "aliases": [
+        "莉莲"
+      ]
+    },
+    {
+      "id": "character-49",
+      "canonicalName": "露露蒂雅",
+      "nameJa": "ルルディヤー",
+      "nameEn": "Ludia",
+      "aliases": [
+        "露迪亚"
+      ]
+    },
+    {
+      "id": "character-1",
+      "canonicalName": "救世主（伊修玛尔）",
+      "nameJa": "救世主",
+      "nameEn": "Savior (Ishmaar)",
+      "aliases": [
+        "救世主"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-6",
+      "canonicalName": "蒂亚拉",
+      "nameJa": "ティアラ",
+      "nameEn": "Tialla",
+      "aliases": [
+        "媞雅拉"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-7",
+      "canonicalName": "彼得",
+      "nameJa": "ピーテル",
+      "nameEn": "Peter",
+      "aliases": [
+        "皮特鲁"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-9",
+      "canonicalName": "法比奥",
+      "nameJa": "ファビオ",
+      "nameEn": "Fabio",
+      "aliases": [
+        "法毕欧"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-10",
+      "canonicalName": "埃斯梅拉达",
+      "nameJa": "エスメラルダ",
+      "nameEn": "Esmeralda",
+      "aliases": [
+        "艾丝梅拉尔达"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-12",
+      "canonicalName": "博纳旺蒂尔",
+      "nameJa": "ボナパルテ",
+      "nameEn": "Bonaventure",
+      "aliases": [
+        "波拿帕尔特"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-15",
+      "canonicalName": "莱桑德",
+      "nameJa": "ライサンダー",
+      "nameEn": "Lysander",
+      "aliases": [
+        "莱桑达"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-16",
+      "canonicalName": "布卡尔",
+      "nameJa": "バッカニア",
+      "nameEn": "Buccar",
+      "aliases": [
+        "巴卡尼亚"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-17",
+      "canonicalName": "西罗科",
+      "nameJa": "シロッコ",
+      "nameEn": "Sirocco",
+      "aliases": [
+        "西洛可"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-20",
+      "canonicalName": "贝特朗",
+      "nameJa": "ベルトラン",
+      "nameEn": "Bertrand",
+      "aliases": [
+        "贝特兰"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-22",
+      "canonicalName": "欧露赫露（奥谢尔）",
+      "nameJa": "オルヘル",
+      "nameEn": "Orchel",
+      "aliases": [
+        "欧露赫露"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-23",
+      "canonicalName": "阿纳托利亚（爱娜特莉亚）",
+      "nameJa": "アナトリア",
+      "nameEn": "Anatolia",
+      "aliases": [
+        "爱娜特莉亚"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-24",
+      "canonicalName": "森图里奥",
+      "nameJa": "セントリオン",
+      "nameEn": "Centurio",
+      "aliases": [
+        "盛托利翁"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-25",
+      "canonicalName": "特洛伊",
+      "nameJa": "トロイア",
+      "nameEn": "Troy",
+      "aliases": [
+        "特洛伊亚"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-29",
+      "canonicalName": "迭戈",
+      "nameJa": "ディエゴ",
+      "nameEn": "Diego",
+      "aliases": [
+        "迪雅各"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-38",
+      "canonicalName": "卡塔妮娅",
+      "nameJa": "カターニャ",
+      "nameEn": "Catania",
+      "aliases": [
+        "卡塔妮雅"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-39",
+      "canonicalName": "本迪茨",
+      "nameJa": "ベンディッツ",
+      "nameEn": "Benditz",
+      "aliases": [
+        "班迪兹"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-40",
+      "canonicalName": "亚历桑德拉",
+      "nameJa": "アレキサンドラ",
+      "nameEn": "Alexandra",
+      "aliases": [
+        "亚历珊德拉"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-41",
+      "canonicalName": "诺库图拉（诺克裘拉）",
+      "nameJa": "ノクチュラ",
+      "nameEn": "Noctula",
+      "aliases": [
+        "诺克裘拉"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-45",
+      "canonicalName": "马吉德",
+      "nameJa": "マジーデ",
+      "nameEn": "Majide",
+      "aliases": [
+        "马吉迪"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-46",
+      "canonicalName": "扎尔科内",
+      "nameJa": "ザーコネ",
+      "nameEn": "Zarcone",
+      "aliases": [
+        "札可捏"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-47",
+      "canonicalName": "歌利亚",
+      "nameJa": "ゴライアス",
+      "nameEn": "Goliath",
+      "aliases": [
+        "哥莱亚斯"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-50",
+      "canonicalName": "菲安娜",
+      "nameJa": "フィアナ",
+      "nameEn": "Fianna",
+      "aliases": [
+        "绯亚娜"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-56",
+      "canonicalName": "克里克",
+      "nameJa": "キリーク",
+      "nameEn": "Creek",
+      "aliases": [
+        "齐利科"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-57",
+      "canonicalName": "贾斯敏",
+      "nameJa": "ジャスミン",
+      "nameEn": "Jasmine",
+      "aliases": [
+        "嘉丝敏"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-58",
+      "canonicalName": "基洛克",
+      "nameJa": "キロイカ",
+      "nameEn": "Kiroc",
+      "aliases": [
+        "奇洛伊卡"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-59",
+      "canonicalName": "伊尼奥妮",
+      "nameJa": "イニオニ",
+      "nameEn": "Inyoni",
+      "aliases": [
+        "易尼奥尼"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-61",
+      "canonicalName": "阿斯旺",
+      "nameJa": "アスワン",
+      "nameEn": "Aswan",
+      "aliases": [
+        "亚丝望"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-62",
+      "canonicalName": "塔霍妮娅",
+      "nameJa": "タホウニア",
+      "nameEn": "Tahonia",
+      "aliases": [
+        "塔霍尼雅"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    },
+    {
+      "id": "character-63",
+      "canonicalName": "克拉普卡",
+      "nameJa": "クラプカ",
+      "nameEn": "Klapka",
+      "aliases": [
+        "库拉普卡"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-characters"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "canonicalName": "小粒特芙",
+      "nameJa": "小粒のテフ",
+      "aliases": [
+        "小粒特芙咖啡"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "大粒特芙",
+      "nameJa": "大粒のテフ",
+      "aliases": [
+        "大粒特芙咖啡"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "轻快苍烧",
+      "nameJa": "軽妙なソウシュ",
+      "aliases": [
+        "轻快苏修发酵酒"
+      ]
+    },
+    {
+      "canonicalName": "太阳赤烧",
+      "nameJa": "太陽のゴーシュ",
+      "aliases": [
+        "太阳戈修发酵酒"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "新酿赤烧",
+      "nameJa": "若いゴーシュ",
+      "aliases": [
+        "新酿戈修发酵酒"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "陈酿赤烧",
+      "nameJa": "熟成ゴーシュ",
+      "aliases": [
+        "陈酿戈修发酵酒"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "翡翠赤烧",
+      "nameJa": "翡翠色のゴーシュ",
+      "aliases": [
+        "翡翠戈修发酵酒",
+        "翡翠色赤烧"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "烈性赤烧",
+      "nameJa": "刺激的なゴーシュ",
+      "aliases": [
+        "烈性戈修发酵酒",
+        "味道刺激的赤烧"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "朴素赤烧",
+      "nameJa": "素朴なゴーシュ",
+      "aliases": [
+        "朴素戈修发酵酒"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "秘传赤烧",
+      "nameJa": "秘伝のゴーシュ",
+      "aliases": [
+        "秘传戈修发酵酒"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "南方赤烧",
+      "nameJa": "南方のゴーシュ",
+      "aliases": [
+        "南方戈修发酵酒"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "火山赤烧",
+      "nameJa": "火の山のゴーシュ",
+      "aliases": [
+        "火山戈修发酵酒",
+        "火之山赤烧"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "深红赤烧",
+      "nameJa": "真紅のゴーシュ",
+      "aliases": [
+        "深红戈修发酵酒",
+        "鲜红赤烧"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "新酿苍烧",
+      "nameJa": "若いソウシュ",
+      "aliases": [
+        "新酿苏修发酵酒"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "陈酿苍烧",
+      "nameJa": "熟成ソウシュ",
+      "aliases": [
+        "陈酿苏修发酵酒"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "香醇的苍烧",
+      "nameJa": "芳醇なソウシュ",
+      "aliases": [
+        "醇香苏修发酵酒",
+        "醇香苍烧"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "奥古斯特芙",
+      "nameJa": "オーガスのテフ",
+      "aliases": [
+        "奥古斯特芙咖啡",
+        "欧加斯特芙"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "南方香醇特芙",
+      "nameJa": "南方の薫るテフ",
+      "aliases": [
+        "南方香醇特芙咖啡",
+        "南方风味特芙"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "特芙烤点心",
+      "nameJa": "テフ入り焼き菓子",
+      "aliases": [
+        "特芙咖啡烤点心",
+        "加了特芙的烤点心"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "世界名诗集",
+      "nameJa": "世界の名詩集",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "东方漆黑丝绸",
+      "nameJa": "東方の漆黒絹",
+      "aliases": [
+        "东方漆黑绢"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "东方耳饰",
+      "nameJa": "東方の耳飾り",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "两把鱼刀",
+      "nameJa": "二振りの魚包丁",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "但丁戏剧全集",
+      "nameJa": "ダンテ戯曲全集",
+      "aliases": [
+        "丹提戏曲全集"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "乡村简朴料理集",
+      "nameJa": "村の素朴な料理集",
+      "aliases": [
+        "乡村家常食谱"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "牦牛奶",
+      "nameJa": "ヤクの乳",
+      "aliases": [
+        "亚库的奶"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "护关节长手套",
+      "nameJa": "関節保護用長手袋",
+      "aliases": [
+        "关节保护用长手套"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "兽肉与沙虫珍馐",
+      "nameJa": "獣肉と砂虫の珍味",
+      "aliases": [
+        "兽肉与沙虫的珍馐"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "军略书抄本",
+      "nameJa": "軍略書の写本",
+      "aliases": [
+        "军略书的抄本"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "银吉雪露必",
+      "nameJa": "ギンジ入りセルビ",
+      "aliases": [
+        "加了津吉的雪露必",
+        "银吉塞尔维饮品"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "蜂蜜奶",
+      "nameJa": "蜂蜜入りの乳",
+      "aliases": [
+        "加了蜂蜜的奶"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "异邦厚书",
+      "nameJa": "異邦の分厚い書物",
+      "aliases": [
+        "厚重的异国书籍"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "贸易入门",
+      "nameJa": "貿易取引入門",
+      "aliases": [
+        "商贸入门"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "天露水",
+      "nameJa": "天露水",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "女骑士与求婚者",
+      "nameJa": "女騎士と求婚者",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "家庭料理大全",
+      "nameJa": "家庭料理大全",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "小猫摆件",
+      "nameJa": "子猫の置物",
+      "aliases": [
+        "小猫摆设"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "尖锐的鱼钩",
+      "nameJa": "鋭い釣り針",
+      "aliases": [
+        "锋利鱼钩"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "尼萨产的鱼酱",
+      "nameJa": "ニーザ産ガルム",
+      "aliases": [
+        "尼札产的鱼酱",
+        "尼萨产加尔姆"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "巨鱼眼球",
+      "nameJa": "巨大魚の目玉",
+      "aliases": [
+        "巨型鱼的眼珠"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "尤法斯肖像画",
+      "nameJa": "ユ・ファスの肖像",
+      "aliases": [
+        "幽·法丝的肖像"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "庶民百景",
+      "nameJa": "庶民百景",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "弓保养工具",
+      "nameJa": "弓の手入れ道具",
+      "aliases": [
+        "弓箭保养工具"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "微甜烤点心",
+      "nameJa": "少し甘い焼き菓子",
+      "aliases": [
+        "微甜的烤点心"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "莫尔菲斯红茶",
+      "nameJa": "モルフィスの紅茶",
+      "aliases": [
+        "摩尔菲斯红茶"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "教职员事件簿",
+      "nameJa": "教職員事件簿",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "斗技场故事抄本",
+      "nameJa": "闘技場物語の写本",
+      "aliases": [
+        "斗技场物语的抄本"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "游历老者口述录",
+      "nameJa": "旅の老師の口伝録",
+      "aliases": [
+        "旅行老人的语录"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "有弹性的钓竿",
+      "nameJa": "しなやかな釣り竿",
+      "aliases": [
+        "柔韧鱼竿"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "朴素烤点心",
+      "nameJa": "素朴な焼き菓子",
+      "aliases": [
+        "朴素的烤点心"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "桌游定式集",
+      "nameJa": "盤上遊戯の定跡集",
+      "aliases": [
+        "桌上游戏定式集"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "武术训练重物",
+      "nameJa": "武術訓練用の重り",
+      "aliases": [
+        "武术训练用重物"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "浅色画材",
+      "nameJa": "淡い色の画材",
+      "aliases": [
+        "浅色绘画材料"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "浓雪露必",
+      "nameJa": "濃いセルビ",
+      "aliases": [
+        "浓塞尔维饮品"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "淡雪露必",
+      "nameJa": "薄いセルビ",
+      "aliases": [
+        "淡塞尔维饮品"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "熟成干制塞尔维",
+      "nameJa": "熟成干しセルビ",
+      "aliases": [
+        "熟成雪露必干"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "爽口的鱼酱",
+      "nameJa": "淡麗なガルム",
+      "aliases": [
+        "清淡加尔姆"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "瓶装腌蔬菜",
+      "nameJa": "野菜の瓶漬け",
+      "aliases": [
+        "瓶装腌菜"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "百药之滴",
+      "nameJa": "百薬の雫",
+      "aliases": [
+        "百药之萃"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "稀有香辛料",
+      "nameJa": "珍しい香辛料",
+      "aliases": [
+        "稀有的香料"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "简单魔术道具",
+      "nameJa": "簡単な手品道具",
+      "aliases": [
+        "简易魔术道具"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "箭镞形宝石",
+      "nameJa": "矢じりの形の宝石",
+      "aliases": [
+        "箭头形的宝石"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "精灵守护人偶",
+      "nameJa": "精霊の護人形",
+      "aliases": [
+        "精灵护身人偶"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "精灵桌游",
+      "nameJa": "精霊の盤上遊戯",
+      "aliases": [
+        "精灵桌上游戏"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "纯白雪露必",
+      "nameJa": "純白のセルビ",
+      "aliases": [
+        "纯白的雪露必",
+        "纯白塞尔维饮品"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "翡翠色豹像",
+      "nameJa": "翡翠色の豹の像",
+      "aliases": [
+        "翡翠豹像"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "耐用皮背囊",
+      "nameJa": "丈夫な背負い革袋",
+      "aliases": [
+        "耐用的皮革背包"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "芙朵拉红茶",
+      "nameJa": "フォドラの紅茶",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "苍空苍烧",
+      "nameJa": "蒼空のソウシュ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "药草料理大全",
+      "nameJa": "薬草料理大全",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "营养点心食谱",
+      "nameJa": "栄養満点お菓子本",
+      "aliases": [
+        "营养满分点心书"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "萨拉米斯点心",
+      "nameJa": "サラミスの菓子",
+      "aliases": [
+        "萨拉弥斯的点心"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "蓝玫瑰花束",
+      "nameJa": "蒼い薔薇の花束",
+      "aliases": [
+        "蓝蔷薇花束"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "盆栽蔬菜",
+      "nameJa": "野菜の鉢植え",
+      "aliases": [
+        "蔬菜盆栽"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "蜂蜜烤点心",
+      "nameJa": "蜂蜜入り焼き菓子",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "过于华丽的手环",
+      "nameJa": "派手すぎる腕輪",
+      "aliases": [
+        "华丽手镯"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "贾梅尔奶",
+      "nameJa": "ジャーメルの乳",
+      "aliases": [
+        "迦梅尔奶"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "醋渍球根",
+      "nameJa": "球根の酢漬け",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "野外烹饪工具",
+      "nameJa": "野外調理道具",
+      "aliases": [
+        "野外用厨具"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "仪式用锋利长枪",
+      "nameJa": "儀礼用の鋭い槍",
+      "aliases": [
+        "锋利的礼仪用枪"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "锋利雕刻刀",
+      "nameJa": "よく切れる彫刻刀",
+      "aliases": [
+        "锋利的雕刻刀"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "训练石柱",
+      "nameJa": "鍛錬用の石柱",
+      "aliases": [
+        "锻炼用石柱"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "训练装饰臂环",
+      "nameJa": "鍛錬用の装飾腕輪",
+      "aliases": [
+        "锻炼用装饰手环"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "阿勒克托的鱼酱",
+      "nameJa": "アレクトーガルム",
+      "aliases": [
+        "阿雷库托鱼酱",
+        "阿勒克托加尔姆"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "达格萨胡须草",
+      "nameJa": "ダグザヒゲシバ",
+      "aliases": [
+        "鞑古扎鼠尾粟"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "浓香调味料",
+      "nameJa": "味わい深い調味料",
+      "aliases": [
+        "风味浓郁的调味料"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "裂风箭羽",
+      "nameJa": "風裂きの矢羽根",
+      "aliases": [
+        "风裂箭羽"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "香烤点心",
+      "nameJa": "香ばしい焼き菓子",
+      "aliases": [
+        "香喷喷的烤点心"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "马匹保养工具",
+      "nameJa": "馬のお手入れ道具",
+      "aliases": [
+        "马匹护理工具"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "马鬃饰品",
+      "nameJa": "鬣飾り",
+      "aliases": [
+        "鬃毛饰品",
+        "髭飾り"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "鱼酱",
+      "nameJa": "ガルム",
+      "aliases": [
+        "加尔姆"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-misc",
+        "game8-gift-alignment"
+      ]
+    },
+    {
+      "canonicalName": "粉碎斧",
+      "nameJa": "スマッシュアクス",
+      "aliases": [
+        "猛击斧"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "对魔铁甲",
+      "nameJa": "対魔の鉄甲",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "黑魔术指南书",
+      "nameJa": "黒魔術指南書",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "白魔术指南书",
+      "nameJa": "白魔術指南書",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "噬毒宝珠",
+      "nameJa": "毒喰の宝珠",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "龙舌兰",
+      "nameJa": "アガヴェ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "猎毒宝珠",
+      "nameJa": "毒狩の宝珠",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "索尔吉",
+      "nameJa": "ソルギ",
+      "aliases": [
+        "梭露季"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "优质武具箱",
+      "nameJa": "良質な武具箱",
+      "aliases": [
+        "优良武具箱"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "克雷斯托尔",
+      "nameJa": "クレストル",
+      "aliases": [
+        "库勒司妥露"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "阿帕奇亚",
+      "nameJa": "アパチア",
+      "aliases": [
+        "阿帕提芽"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "书箱",
+      "nameJa": "書箱",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "佐托贡",
+      "nameJa": "ゾトーゴン",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "矿石箱",
+      "nameJa": "鉱石箱",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "椰枣",
+      "nameJa": "デーツ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "青铜护手",
+      "nameJa": "青銅の籠手",
+      "aliases": [
+        "青铜手甲"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "铁护手",
+      "nameJa": "鉄の籠手",
+      "aliases": [
+        "铁手甲"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "达米纳护手",
+      "nameJa": "ダ・ミナの籠手",
+      "aliases": [
+        "达·米纳手甲"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "反击护手",
+      "nameJa": "反撃の籠手",
+      "aliases": [
+        "反击手甲"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "达米纳剑",
+      "nameJa": "ダ・ミナの剣",
+      "aliases": [
+        "达·米纳剑"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "夏库托",
+      "nameJa": "シャクトウ",
+      "aliases": [
+        "夏克豆"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "治愈之杖",
+      "nameJa": "癒しの杖",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "达格赞迪",
+      "nameJa": "ダグザンディ",
+      "aliases": [
+        "鞑古扎恩涤"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "迅雷宝珠",
+      "nameJa": "迅雷の宝珠",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "约帕",
+      "nameJa": "ジョッパ",
+      "aliases": [
+        "乔帕"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "轰炎宝珠",
+      "nameJa": "轟炎の宝珠",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "炼狱草",
+      "nameJa": "煉獄草",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "翠岚宝珠",
+      "nameJa": "翠嵐の宝珠",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "金芭蕉",
+      "nameJa": "キンバショウ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "西纳摩斯",
+      "nameJa": "シナモス",
+      "aliases": [
+        "西拿摩司"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "绝风宝珠",
+      "nameJa": "絶風の宝珠",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "恩利耶特",
+      "nameJa": "エンリエット",
+      "aliases": [
+        "恩黎艾特"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "混合药",
+      "nameJa": "調合薬",
+      "aliases": [
+        "调合药"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "利纳利亚",
+      "nameJa": "リナリア",
+      "aliases": [
+        "姬金鱼草"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "礼品箱",
+      "nameJa": "祝品箱",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "沙漠黍",
+      "nameJa": "サバクキビ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "高级蔬菜箱",
+      "nameJa": "高級野菜箱",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "达米纳盾",
+      "nameJa": "ダ・ミナの盾",
+      "aliases": [
+        "达·米纳盾"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "津吉",
+      "nameJa": "ギンジ",
+      "aliases": [
+        "银吉"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "利加内特",
+      "nameJa": "リガネット",
+      "aliases": [
+        "利加涅特"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "祝胜宝珠",
+      "nameJa": "祝勝の宝珠",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "青银吉",
+      "nameJa": "アオギンジ",
+      "aliases": [
+        "青津吉"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "阿尔马梅特",
+      "nameJa": "アルマメット",
+      "aliases": [
+        "亚尔玛梅托"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "罗卡",
+      "nameJa": "ロカ",
+      "aliases": [
+        "洛卡"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "猎人戒指",
+      "nameJa": "狩人の指輪",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "特内巴豆",
+      "nameJa": "テネバトウ",
+      "aliases": [
+        "特涅芭豆"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "必圣宝珠",
+      "nameJa": "必聖の宝珠",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "金拜",
+      "nameJa": "キンバイ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "红烁",
+      "nameJa": "レッドフリッカ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "海星石",
+      "nameJa": "海星石",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "伤药",
+      "nameJa": "傷薬",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "塔尔特虾虎鱼",
+      "nameJa": "タルトゴビー",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "金鳟鱼",
+      "nameJa": "ゴールドトラウト",
+      "aliases": [
+        "金鳟"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "朴素武具箱",
+      "nameJa": "質素な武具箱",
+      "aliases": [
+        "简朴武具箱"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "柯夏鲁雀鳝",
+      "nameJa": "コーシャルーガー",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "霸尔狗鱼",
+      "nameJa": "バアルパイク",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "解毒药",
+      "nameJa": "毒消し",
+      "aliases": [
+        "解毒剂"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "白鳟",
+      "nameJa": "ホワイトトラウト",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "达米纳枪",
+      "nameJa": "ダ・ミナの槍",
+      "aliases": [
+        "达·米纳枪"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "除虫菊",
+      "nameJa": "ピレスギク",
+      "aliases": [
+        "驱虫菊"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "巴库",
+      "nameJa": "バク",
+      "aliases": [
+        "巴谷"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "避魔盾",
+      "nameJa": "魔除けの盾",
+      "aliases": [
+        "除魔盾"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "追击宝珠",
+      "nameJa": "追撃の宝珠",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "白杉",
+      "nameJa": "ハクサン",
+      "aliases": [
+        "哈库桑"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "必杀剑",
+      "nameJa": "キルソード",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "弗利萨刀",
+      "nameJa": "フリッサ",
+      "aliases": [
+        "伏力萨"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "风之弓",
+      "nameJa": "風の弓",
+      "aliases": [
+        "风弓"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "达米纳弓",
+      "nameJa": "ダ・ミナの弓",
+      "aliases": [
+        "达·米纳弓"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "尼诺卡",
+      "nameJa": "ニノッカ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "菱花",
+      "nameJa": "ヒシバナ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "魅惑面具",
+      "nameJa": "魅了の仮面",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "塞姆薯",
+      "nameJa": "セムイモ",
+      "aliases": [
+        "塞姆芋"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "狂放面具",
+      "nameJa": "酔狂の仮面",
+      "aliases": [
+        "疯狂面具"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "加护之露",
+      "nameJa": "加護の露",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "青铜弓",
+      "nameJa": "青銅の弓",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "铁弓",
+      "nameJa": "鉄の弓",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "猎兽弓",
+      "nameJa": "獣狩りの弓",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "风来宝珠",
+      "nameJa": "風来の宝珠",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "融鱼",
+      "nameJa": "メルトフィッシュ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "精灵宝珠",
+      "nameJa": "精霊の宝珠",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "月鱼",
+      "nameJa": "ムーンフィッシュ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "桑之果",
+      "nameJa": "サンノミ",
+      "aliases": [
+        "太阳果"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "一之果",
+      "nameJa": "イチノミ",
+      "aliases": [
+        "壹果"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "夏尔米尔",
+      "nameJa": "シャルミール",
+      "aliases": [
+        "夏露密鲁"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "诺亚果",
+      "nameJa": "ノアノミ",
+      "aliases": [
+        "挪亚果"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "特芙果",
+      "nameJa": "テフノミ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "卡达姆",
+      "nameJa": "カダム",
+      "aliases": [
+        "咖哒姆"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "光星",
+      "nameJa": "ヒカリボシ",
+      "aliases": [
+        "光之星"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "奥布罗马",
+      "nameJa": "オブロマ",
+      "aliases": [
+        "奥卜洛玛"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "奥多蒙朱",
+      "nameJa": "オドモンジュ",
+      "aliases": [
+        "欧多梦竺"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "安泽莉卡",
+      "nameJa": "アンゼリカ",
+      "aliases": [
+        "白芷"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "挑战宝珠",
+      "nameJa": "挑戦の宝珠",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "剑杀护符",
+      "nameJa": "剣殺しの護符",
+      "aliases": [
+        "破剑者护符"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "赞格",
+      "nameJa": "ザンゲ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "枪杀护符",
+      "nameJa": "槍殺しの護符",
+      "aliases": [
+        "破枪者护符"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "蓬果",
+      "nameJa": "ポンゴ",
+      "aliases": [
+        "蓬葛"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "斧杀护符",
+      "nameJa": "斧殺しの護符",
+      "aliases": [
+        "破斧者护符"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "米拉尼拉",
+      "nameJa": "ミラニラ",
+      "aliases": [
+        "秘菈尼拉"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "拉顿泥鳅",
+      "nameJa": "ラドンローチ",
+      "aliases": [
+        "拉冬泥鳅"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "拉顿狗鱼",
+      "nameJa": "ラドンパイク",
+      "aliases": [
+        "拉冬狗鱼"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "达·米纳斧",
+      "nameJa": "ダ・ミナの斧",
+      "aliases": [
+        "达米纳斧"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "巨人戒指",
+      "nameJa": "巨人の指輪",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "辉光鱼",
+      "nameJa": "カガヤキウオ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "疾风戒指",
+      "nameJa": "疾風の指輪",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "梦之路标",
+      "nameJa": "ユメノシルベ",
+      "aliases": [
+        "梦之标"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "肉箱",
+      "nameJa": "肉箱",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "鱼箱",
+      "nameJa": "魚箱",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "投枪",
+      "nameJa": "手槍",
+      "aliases": [
+        "标枪"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "短枪",
+      "nameJa": "ショートスピア",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "偃月刀",
+      "nameJa": "偃月刀",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "安宁之露",
+      "nameJa": "安寧の露",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "铁剑",
+      "nameJa": "鉄の剣",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "雷剑",
+      "nameJa": "サンダーソード",
+      "aliases": [
+        "雷电剑"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "尤纳梅",
+      "nameJa": "ユナメイ",
+      "aliases": [
+        "尤那魅"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "净化之剑",
+      "nameJa": "清めの剣",
+      "aliases": [
+        "净化剑"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "铁枪",
+      "nameJa": "鉄の槍",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "铁斧",
+      "nameJa": "鉄の斧",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "手斧",
+      "nameJa": "手斧",
+      "aliases": [
+        "投斧"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "战锤",
+      "nameJa": "ハンマー",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "长弓",
+      "nameJa": "ロングボウ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "猎马弓",
+      "nameJa": "馬殺しの弓",
+      "aliases": [
+        "屠马弓"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "梅拉拉",
+      "nameJa": "メララ",
+      "aliases": [
+        "霉拉拉"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "铁盾",
+      "nameJa": "鉄の盾",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "封魔盾",
+      "nameJa": "魔封じの盾",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "魔道之杖",
+      "nameJa": "魔道の杖",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "射手戒指",
+      "nameJa": "射手の指輪",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "弓杀护符",
+      "nameJa": "弓殺しの護符",
+      "aliases": [
+        "破弓者护符"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "连携石",
+      "nameJa": "連携の石",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "高级武具箱",
+      "nameJa": "高級な武具箱",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "达·米纳武具箱",
+      "nameJa": "ダ・ミナの武具箱",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "档案 Β",
+      "nameJa": "アーカイヴΒ",
+      "aliases": [
+        "档案B"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "档案 Γ",
+      "nameJa": "アーカイヴΓ",
+      "aliases": [
+        "档案Γ"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "佳兰",
+      "nameJa": "グルマオサ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "连携大珠",
+      "nameJa": "連携の大玉",
+      "aliases": [
+        "连携大玉"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "奥利巴",
+      "nameJa": "オリバ",
+      "aliases": [
+        "甘榄"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "赤金拜",
+      "nameJa": "アカキンバイ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "尼内亚卡",
+      "nameJa": "ニネイアッカ",
+      "aliases": [],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "可怜面具",
+      "nameJa": "可憐の仮面",
+      "aliases": [
+        "迷人面具"
+      ],
+      "alignmentSourceIds": [
+        "fwsite-merchants",
+        "gamewith-item-alignment"
+      ]
+    },
+    {
+      "canonicalName": "斧抢",
+      "nameJa": "ハルバード",
+      "aliases": [
+        "长柄战斧"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "高级考试票证",
+      "nameJa": "上級試験手形",
+      "aliases": [
+        "高级考试准考证"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "中级考试票证",
+      "nameJa": "中級試験手形",
+      "aliases": [
+        "中级考试准考证"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "初级考试票证",
+      "nameJa": "初級試験手形",
+      "aliases": [
+        "初级考试准考证"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "难闻的鱼酱",
+      "nameJa": "嫌なガルム",
+      "aliases": [
+        "难闻的加尔姆"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "梦幻的鱼酱",
+      "nameJa": "幻のガルム",
+      "aliases": [
+        "梦幻加尔姆"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "高级考试票证 +2",
+      "nameJa": "上級試験手形+2",
+      "aliases": [
+        "高级考试准考证 +2"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "中级考试票证 +2",
+      "nameJa": "中級試験手形+2",
+      "aliases": [
+        "中级考试准考证 +2"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "初级考试票证 +2",
+      "nameJa": "初級試験手形+2",
+      "aliases": [
+        "初级考试准考证 +2"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "难闻的鱼酱 +2",
+      "nameJa": "嫌なガルム+2",
+      "aliases": [
+        "难闻的加尔姆 +2"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "梦幻的鱼酱 +2",
+      "nameJa": "幻のガルム+2",
+      "aliases": [
+        "梦幻加尔姆 +2"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "爽口的鱼酱 +2",
+      "nameJa": "淡麗なガルム+2",
+      "aliases": [
+        "清淡加尔姆 +2"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "纯白雪露必 +2",
+      "nameJa": "純白のセルビ+2",
+      "aliases": [
+        "纯白塞尔维饮品 +2"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "混合药 +2",
+      "nameJa": "調合薬+2",
+      "aliases": [
+        "调合药 +2"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "浓郁的鱼酱",
+      "nameJa": "濃厚なガルム",
+      "aliases": [
+        "浓郁加尔姆"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "木剑",
+      "nameJa": "木製の剣",
+      "aliases": [
+        "木制剑"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "木枪",
+      "nameJa": "木製の槍",
+      "aliases": [
+        "木制枪"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "木斧",
+      "nameJa": "木製の斧",
+      "aliases": [
+        "木制斧"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "木弓",
+      "nameJa": "木製の弓",
+      "aliases": [
+        "木制弓"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "木护手",
+      "nameJa": "木製の籠手",
+      "aliases": [
+        "木制护手"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "木盾",
+      "nameJa": "木製の盾",
+      "aliases": [
+        "木制盾"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "木剑 +2",
+      "nameJa": "木製の剣+2",
+      "aliases": [
+        "木制剑 +2"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "木枪 +2",
+      "nameJa": "木製の槍+2",
+      "aliases": [
+        "木制枪 +2"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "木斧 +2",
+      "nameJa": "木製の斧+2",
+      "aliases": [
+        "木制斧 +2"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "木弓 +2",
+      "nameJa": "木製の弓+2",
+      "aliases": [
+        "木制弓 +2"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "木护手 +2",
+      "nameJa": "木製の籠手+2",
+      "aliases": [
+        "木制护手 +2"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "木盾 +2",
+      "nameJa": "木製の盾+2",
+      "aliases": [
+        "木制盾 +2"
+      ],
+      "confirmedBy": "user"
+    }
+  ],
+  "itemSubstringRules": [
+    {
+      "from": "特芙咖啡",
+      "to": "特芙"
+    },
+    {
+      "from": "戈修发酵酒",
+      "to": "赤烧"
+    },
+    {
+      "from": "苏修发酵酒",
+      "to": "苍烧"
+    },
+    {
+      "from": "调合药",
+      "to": "混合药"
+    },
+    {
+      "from": "塞尔维饮品",
+      "to": "雪露必"
+    },
+    {
+      "from": "清淡加尔姆",
+      "to": "爽口的鱼酱"
+    },
+    {
+      "from": "的加尔姆",
+      "to": "的鱼酱"
+    },
+    {
+      "from": "加尔姆",
+      "to": "的鱼酱"
+    },
+    {
+      "from": "柔韧鱼竿",
+      "to": "有弹性的钓竿"
+    },
+    {
+      "from": "锋利鱼钩",
+      "to": "尖锐的鱼钩"
+    },
+    {
+      "from": "准考证",
+      "to": "票证"
+    },
+    {
+      "from": "木制",
+      "to": "木"
+    }
+  ],
+  "locations": [
+    {
+      "canonicalName": "阿奇纽村",
+      "nameJa": "アギーニョ村",
+      "aliases": [
+        "阿吉尼奥村"
+      ],
+      "confirmedBy": "user"
+    },
+    {
+      "canonicalName": "莱伊·欧港",
+      "nameJa": "ライ・オーの港",
+      "aliases": [
+        "莱奥港"
+      ],
+      "confirmedBy": "user"
+    }
+  ]
+}

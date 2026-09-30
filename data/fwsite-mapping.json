@@ -1,0 +1,1718 @@
+{
+  "characters": {
+    "救世主": {
+      "id": "character-1",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "凯伊": {
+      "id": "character-2",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "迪托利希": {
+      "id": "character-3",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "赛奥朵拉": {
+      "id": "character-4",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "蕾达": {
+      "id": "character-5",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "媞雅拉": {
+      "id": "character-6",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "皮特鲁": {
+      "id": "character-7",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "乌尔坦德": {
+      "id": "character-8",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "法毕欧": {
+      "id": "character-9",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "艾丝梅拉尔达": {
+      "id": "character-10",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "米迦艾拉": {
+      "id": "character-11",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "波拿帕尔特": {
+      "id": "character-12",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "托比亚斯": {
+      "id": "character-13",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "莉利安": {
+      "id": "character-14",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "莱桑达": {
+      "id": "character-15",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "巴卡尼亚": {
+      "id": "character-16",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "西洛可": {
+      "id": "character-17",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "奥琳琵娅": {
+      "id": "character-18",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "穆": {
+      "id": "character-19",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "贝特兰": {
+      "id": "character-20",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "谭利穆恩": {
+      "id": "character-21",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "欧露赫露": {
+      "id": "character-22",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "爱娜特莉亚": {
+      "id": "character-23",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "盛托利翁": {
+      "id": "character-24",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "特洛伊亚": {
+      "id": "character-25",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "红花": {
+      "id": "character-26",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "盖茨": {
+      "id": "character-27",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "乌修拉": {
+      "id": "character-28",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "迪雅各": {
+      "id": "character-29",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "沙兰": {
+      "id": "character-30",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "丹提": {
+      "id": "character-31",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "希蒙": {
+      "id": "character-32",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "妮涅": {
+      "id": "character-33",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "哪吒": {
+      "id": "character-34",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "古扎岚": {
+      "id": "character-35",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "努蒂奴": {
+      "id": "character-36",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "伊欧": {
+      "id": "character-37",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "卡塔妮雅": {
+      "id": "character-38",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "班迪兹": {
+      "id": "character-39",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "亚历珊德拉": {
+      "id": "character-40",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "诺克裘拉": {
+      "id": "character-41",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "杨界": {
+      "id": "character-42",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "索绯雅": {
+      "id": "character-43",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "努佐": {
+      "id": "character-44",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "马吉迪": {
+      "id": "character-45",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "札可捏": {
+      "id": "character-46",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "哥莱亚斯": {
+      "id": "character-47",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "杰斯塔": {
+      "id": "character-48",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "露露蒂雅": {
+      "id": "character-49",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "绯亚娜": {
+      "id": "character-50",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "大刀": {
+      "id": "character-51",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "哈尔温": {
+      "id": "character-52",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "西提司": {
+      "id": "character-53",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "罗蕾塔": {
+      "id": "character-54",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "内森": {
+      "id": "character-55",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "齐利科": {
+      "id": "character-56",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "嘉丝敏": {
+      "id": "character-57",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "奇洛伊卡": {
+      "id": "character-58",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "易尼奥尼": {
+      "id": "character-59",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "佩佩": {
+      "id": "character-60",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "亚丝望": {
+      "id": "character-61",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "塔霍尼雅": {
+      "id": "character-62",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    },
+    "库拉普卡": {
+      "id": "character-63",
+      "method": "matched shared GameWith portrait asset ID and local Japanese name"
+    }
+  },
+  "items": {
+    "世界名诗集": {
+      "nameJa": "世界の名詩集",
+      "canonicalName": "世界名诗集",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "东方漆黑绢": {
+      "nameJa": "東方の漆黒絹",
+      "canonicalName": "东方漆黑丝绸",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "东方耳饰": {
+      "nameJa": "東方の耳飾り",
+      "canonicalName": "东方耳饰",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "两把鱼刀": {
+      "nameJa": "二振りの魚包丁",
+      "canonicalName": "两把鱼刀",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "丹提戏曲全集": {
+      "nameJa": "ダンテ戯曲全集",
+      "canonicalName": "但丁戏剧全集",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "乡村简朴料理集": {
+      "nameJa": "村の素朴な料理集",
+      "canonicalName": "乡村简朴料理集",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "亚库的奶": {
+      "nameJa": "ヤクの乳",
+      "canonicalName": "牦牛奶",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "关节保护用长手套": {
+      "nameJa": "関節保護用長手袋",
+      "canonicalName": "护关节长手套",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "兽肉与沙虫的珍馐": {
+      "nameJa": "獣肉と砂虫の珍味",
+      "canonicalName": "兽肉与沙虫珍馐",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "军略书的抄本": {
+      "nameJa": "軍略書の写本",
+      "canonicalName": "军略书抄本",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "加了津吉的雪露必": {
+      "nameJa": "ギンジ入りセルビ",
+      "canonicalName": "银吉雪露必",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "加了特芙的烤点心": {
+      "nameJa": "テフ入り焼き菓子",
+      "canonicalName": "特芙烤点心",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "加了蜂蜜的奶": {
+      "nameJa": "蜂蜜入りの乳",
+      "canonicalName": "蜂蜜奶",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "南方赤烧": {
+      "nameJa": "南方のゴーシュ",
+      "canonicalName": "南方赤烧",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "南方风味特芙": {
+      "nameJa": "南方の薫るテフ",
+      "canonicalName": "南方香醇特芙",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "厚重的异国书籍": {
+      "nameJa": "異邦の分厚い書物",
+      "canonicalName": "异邦厚书",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "味道刺激的赤烧": {
+      "nameJa": "刺激的なゴーシュ",
+      "canonicalName": "烈性赤烧",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "商贸入门": {
+      "nameJa": "貿易取引入門",
+      "canonicalName": "贸易入门",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "大粒特芙": {
+      "nameJa": "大粒のテフ",
+      "canonicalName": "大粒特芙",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "天露水": {
+      "nameJa": "天露水",
+      "canonicalName": "天露水",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "太阳赤烧": {
+      "nameJa": "太陽のゴーシュ",
+      "canonicalName": "太阳赤烧",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "女骑士与求婚者": {
+      "nameJa": "女騎士と求婚者",
+      "canonicalName": "女骑士与求婚者",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "家庭料理大全": {
+      "nameJa": "家庭料理大全",
+      "canonicalName": "家庭料理大全",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "小猫摆设": {
+      "nameJa": "子猫の置物",
+      "canonicalName": "小猫摆件",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "小粒特芙": {
+      "nameJa": "小粒のテフ",
+      "canonicalName": "小粒特芙",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "尖锐的鱼钩": {
+      "nameJa": "鋭い釣り針",
+      "canonicalName": "尖锐的鱼钩",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "尼札产的鱼酱": {
+      "nameJa": "ニーザ産ガルム",
+      "canonicalName": "尼萨产的鱼酱",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "巨型鱼的眼珠": {
+      "nameJa": "巨大魚の目玉",
+      "canonicalName": "巨鱼眼球",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "幽·法丝的肖像": {
+      "nameJa": "ユ・ファスの肖像",
+      "canonicalName": "尤法斯肖像画",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "庶民百景": {
+      "nameJa": "庶民百景",
+      "canonicalName": "庶民百景",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "弓箭保养工具": {
+      "nameJa": "弓の手入れ道具",
+      "canonicalName": "弓保养工具",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "微甜的烤点心": {
+      "nameJa": "少し甘い焼き菓子",
+      "canonicalName": "微甜烤点心",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "摩尔菲斯红茶": {
+      "nameJa": "モルフィスの紅茶",
+      "canonicalName": "莫尔菲斯红茶",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "教职员事件簿": {
+      "nameJa": "教職員事件簿",
+      "canonicalName": "教职员事件簿",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "斗技场物语的抄本": {
+      "nameJa": "闘技場物語の写本",
+      "canonicalName": "斗技场故事抄本",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "新酿苍烧": {
+      "nameJa": "若いソウシュ",
+      "canonicalName": "新酿苍烧",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "新酿赤烧": {
+      "nameJa": "若いゴーシュ",
+      "canonicalName": "新酿赤烧",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "旅行老人的语录": {
+      "nameJa": "旅の老師の口伝録",
+      "canonicalName": "游历老者口述录",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "有弹性的钓竿": {
+      "nameJa": "しなやかな釣り竿",
+      "canonicalName": "有弹性的钓竿",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "朴素的烤点心": {
+      "nameJa": "素朴な焼き菓子",
+      "canonicalName": "朴素烤点心",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "朴素赤烧": {
+      "nameJa": "素朴なゴーシュ",
+      "canonicalName": "朴素赤烧",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "桌上游戏定式集": {
+      "nameJa": "盤上遊戯の定跡集",
+      "canonicalName": "桌游定式集",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "欧加斯特芙": {
+      "nameJa": "オーガスのテフ",
+      "canonicalName": "奥古斯特芙",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "武术训练用重物": {
+      "nameJa": "武術訓練用の重り",
+      "canonicalName": "武术训练重物",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "浅色绘画材料": {
+      "nameJa": "淡い色の画材",
+      "canonicalName": "浅色画材",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "浓雪露必": {
+      "nameJa": "濃いセルビ",
+      "canonicalName": "浓雪露必",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "淡雪露必": {
+      "nameJa": "薄いセルビ",
+      "canonicalName": "淡雪露必",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "火之山赤烧": {
+      "nameJa": "火の山のゴーシュ",
+      "canonicalName": "火山赤烧",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "熟成雪露必干": {
+      "nameJa": "熟成干しセルビ",
+      "canonicalName": "熟成干制塞尔维",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "爽口的鱼酱": {
+      "nameJa": "淡麗なガルム",
+      "canonicalName": "爽口的鱼酱",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "瓶装腌菜": {
+      "nameJa": "野菜の瓶漬け",
+      "canonicalName": "瓶装腌蔬菜",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "百药之萃": {
+      "nameJa": "百薬の雫",
+      "canonicalName": "百药之滴",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "秘传赤烧": {
+      "nameJa": "秘伝のゴーシュ",
+      "canonicalName": "秘传赤烧",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "稀有的香料": {
+      "nameJa": "珍しい香辛料",
+      "canonicalName": "稀有香辛料",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "简易魔术道具": {
+      "nameJa": "簡単な手品道具",
+      "canonicalName": "简单魔术道具",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "箭头形的宝石": {
+      "nameJa": "矢じりの形の宝石",
+      "canonicalName": "箭镞形宝石",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "精灵护身人偶": {
+      "nameJa": "精霊の護人形",
+      "canonicalName": "精灵守护人偶",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "精灵桌上游戏": {
+      "nameJa": "精霊の盤上遊戯",
+      "canonicalName": "精灵桌游",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "纯白的雪露必": {
+      "nameJa": "純白のセルビ",
+      "canonicalName": "纯白雪露必",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "翡翠色赤烧": {
+      "nameJa": "翡翠色のゴーシュ",
+      "canonicalName": "翡翠赤烧",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "翡翠豹像": {
+      "nameJa": "翡翠色の豹の像",
+      "canonicalName": "翡翠色豹像",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "耐用的皮革背包": {
+      "nameJa": "丈夫な背負い革袋",
+      "canonicalName": "耐用皮背囊",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "芙朵拉红茶": {
+      "nameJa": "フォドラの紅茶",
+      "canonicalName": "芙朵拉红茶",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "苍空苍烧": {
+      "nameJa": "蒼空のソウシュ",
+      "canonicalName": "苍空苍烧",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "药草料理大全": {
+      "nameJa": "薬草料理大全",
+      "canonicalName": "药草料理大全",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "营养满分点心书": {
+      "nameJa": "栄養満点お菓子本",
+      "canonicalName": "营养点心食谱",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "萨拉弥斯的点心": {
+      "nameJa": "サラミスの菓子",
+      "canonicalName": "萨拉米斯点心",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "蓝蔷薇花束": {
+      "nameJa": "蒼い薔薇の花束",
+      "canonicalName": "蓝玫瑰花束",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "蔬菜盆栽": {
+      "nameJa": "野菜の鉢植え",
+      "canonicalName": "盆栽蔬菜",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "蜂蜜烤点心": {
+      "nameJa": "蜂蜜入り焼き菓子",
+      "canonicalName": "蜂蜜烤点心",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "过于华丽的手环": {
+      "nameJa": "派手すぎる腕輪",
+      "canonicalName": "过于华丽的手环",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "迦梅尔奶": {
+      "nameJa": "ジャーメルの乳",
+      "canonicalName": "贾梅尔奶",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "醋渍球根": {
+      "nameJa": "球根の酢漬け",
+      "canonicalName": "醋渍球根",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "野外用厨具": {
+      "nameJa": "野外調理道具",
+      "canonicalName": "野外烹饪工具",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "锋利的礼仪用枪": {
+      "nameJa": "儀礼用の鋭い槍",
+      "canonicalName": "仪式用锋利长枪",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "锋利的雕刻刀": {
+      "nameJa": "よく切れる彫刻刀",
+      "canonicalName": "锋利雕刻刀",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "锻炼用石柱": {
+      "nameJa": "鍛錬用の石柱",
+      "canonicalName": "训练石柱",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "锻炼用装饰手环": {
+      "nameJa": "鍛錬用の装飾腕輪",
+      "canonicalName": "训练装饰臂环",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "阿雷库托鱼酱": {
+      "nameJa": "アレクトーガルム",
+      "canonicalName": "阿勒克托的鱼酱",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "陈酿苍烧": {
+      "nameJa": "熟成ソウシュ",
+      "canonicalName": "陈酿苍烧",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "陈酿赤烧": {
+      "nameJa": "熟成ゴーシュ",
+      "canonicalName": "陈酿赤烧",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "鞑古扎鼠尾粟": {
+      "nameJa": "ダグザヒゲシバ",
+      "canonicalName": "达格萨胡须草",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "风味浓郁的调味料": {
+      "nameJa": "味わい深い調味料",
+      "canonicalName": "浓香调味料",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "风裂箭羽": {
+      "nameJa": "風裂きの矢羽根",
+      "canonicalName": "裂风箭羽",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "香喷喷的烤点心": {
+      "nameJa": "香ばしい焼き菓子",
+      "canonicalName": "香烤点心",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "香醇的苍烧": {
+      "nameJa": "芳醇なソウシュ",
+      "canonicalName": "香醇的苍烧",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "马匹保养工具": {
+      "nameJa": "馬のお手入れ道具",
+      "canonicalName": "马匹保养工具",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "鬃毛饰品": {
+      "nameJa": "鬣飾り",
+      "canonicalName": "马鬃饰品",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "鱼酱": {
+      "nameJa": "ガルム",
+      "canonicalName": "鱼酱",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    },
+    "鲜红赤烧": {
+      "nameJa": "真紅のゴーシュ",
+      "canonicalName": "深红赤烧",
+      "evidence": "Game8 Japanese gift list; repeated same-character preference rows and item-name comparison",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/816847"
+    }
+  },
+  "shopItems": {
+    "猛击斧": {
+      "nameJa": "スマッシュアクス",
+      "canonicalName": "粉碎斧",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "对魔铁甲": {
+      "nameJa": "対魔の鉄甲",
+      "canonicalName": "对魔铁甲",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "黑魔术指南书": {
+      "nameJa": "黒魔術指南書",
+      "canonicalName": "黑魔术指南书",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "白魔术指南书": {
+      "nameJa": "白魔術指南書",
+      "canonicalName": "白魔术指南书",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "噬毒宝珠": {
+      "nameJa": "毒喰の宝珠",
+      "canonicalName": "噬毒宝珠",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "龙舌兰": {
+      "nameJa": "アガヴェ",
+      "canonicalName": "龙舌兰",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "猎毒宝珠": {
+      "nameJa": "毒狩の宝珠",
+      "canonicalName": "猎毒宝珠",
+      "evidence": "按日文商店条目、出售地点及兑换配方对照",
+      "sourceUrl": "https://appmedia.jp/fe_banshisenkou/80425387"
+    },
+    "梭露季": {
+      "nameJa": "ソルギ",
+      "canonicalName": "索尔吉",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "优良武具箱": {
+      "nameJa": "良質な武具箱",
+      "canonicalName": "优质武具箱",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "库勒司妥露": {
+      "nameJa": "クレストル",
+      "canonicalName": "克雷斯托尔",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "阿帕提芽": {
+      "nameJa": "アパチア",
+      "canonicalName": "阿帕奇亚",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "书箱": {
+      "nameJa": "書箱",
+      "canonicalName": "书箱",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "佐托贡": {
+      "nameJa": "ゾトーゴン",
+      "canonicalName": "佐托贡",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "矿石箱": {
+      "nameJa": "鉱石箱",
+      "canonicalName": "矿石箱",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "椰枣": {
+      "nameJa": "デーツ",
+      "canonicalName": "椰枣",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "青铜手甲": {
+      "nameJa": "青銅の籠手",
+      "canonicalName": "青铜护手",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "铁手甲": {
+      "nameJa": "鉄の籠手",
+      "canonicalName": "铁护手",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "达·米纳手甲": {
+      "nameJa": "ダ・ミナの籠手",
+      "canonicalName": "达米纳护手",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "反击手甲": {
+      "nameJa": "反撃の籠手",
+      "canonicalName": "反击护手",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "达·米纳剑": {
+      "nameJa": "ダ・ミナの剣",
+      "canonicalName": "达米纳剑",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "夏库托": {
+      "nameJa": "シャクトウ",
+      "canonicalName": "夏库托",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "治愈之杖": {
+      "nameJa": "癒しの杖",
+      "canonicalName": "治愈之杖",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "鞑古扎恩涤": {
+      "nameJa": "ダグザンディ",
+      "canonicalName": "达格赞迪",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "迅雷宝珠": {
+      "nameJa": "迅雷の宝珠",
+      "canonicalName": "迅雷宝珠",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "约帕": {
+      "nameJa": "ジョッパ",
+      "canonicalName": "约帕",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "轰炎宝珠": {
+      "nameJa": "轟炎の宝珠",
+      "canonicalName": "轰炎宝珠",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "炼狱草": {
+      "nameJa": "煉獄草",
+      "canonicalName": "炼狱草",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "翠岚宝珠": {
+      "nameJa": "翠嵐の宝珠",
+      "canonicalName": "翠岚宝珠",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "金芭蕉": {
+      "nameJa": "キンバショウ",
+      "canonicalName": "金芭蕉",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "西拿摩司": {
+      "nameJa": "シナモス",
+      "canonicalName": "西纳摩斯",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "绝风宝珠": {
+      "nameJa": "絶風の宝珠",
+      "canonicalName": "绝风宝珠",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "恩黎艾特": {
+      "nameJa": "エンリエット",
+      "canonicalName": "恩利耶特",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "混合药": {
+      "nameJa": "調合薬",
+      "canonicalName": "混合药",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "姬金鱼草": {
+      "nameJa": "リナリア",
+      "canonicalName": "利纳利亚",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "礼品箱": {
+      "nameJa": "祝品箱",
+      "canonicalName": "礼品箱",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "沙漠黍": {
+      "nameJa": "サバクキビ",
+      "canonicalName": "沙漠黍",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "高级蔬菜箱": {
+      "nameJa": "高級野菜箱",
+      "canonicalName": "高级蔬菜箱",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "达·米纳盾": {
+      "nameJa": "ダ・ミナの盾",
+      "canonicalName": "达米纳盾",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "津吉": {
+      "nameJa": "ギンジ",
+      "canonicalName": "津吉",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "利加涅特": {
+      "nameJa": "リガネット",
+      "canonicalName": "利加内特",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "祝胜宝珠": {
+      "nameJa": "祝勝の宝珠",
+      "canonicalName": "祝胜宝珠",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "青津吉": {
+      "nameJa": "アオギンジ",
+      "canonicalName": "青银吉",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "亚尔玛梅托": {
+      "nameJa": "アルマメット",
+      "canonicalName": "阿尔马梅特",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "洛卡": {
+      "nameJa": "ロカ",
+      "canonicalName": "罗卡",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "猎人戒指": {
+      "nameJa": "狩人の指輪",
+      "canonicalName": "猎人戒指",
+      "evidence": "按日文商店条目、出售地点及兑换配方对照",
+      "sourceUrl": "https://appmedia.jp/fe_banshisenkou/80425321"
+    },
+    "特涅芭豆": {
+      "nameJa": "テネバトウ",
+      "canonicalName": "特内巴豆",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "必圣宝珠": {
+      "nameJa": "必聖の宝珠",
+      "canonicalName": "必圣宝珠",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "赤金拜": {
+      "nameJa": "アカキンバイ",
+      "canonicalName": "赤金拜",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "红烁": {
+      "nameJa": "レッドフリッカ",
+      "canonicalName": "红烁",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "海星石": {
+      "nameJa": "海星石",
+      "canonicalName": "海星石",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "伤药": {
+      "nameJa": "傷薬",
+      "canonicalName": "伤药",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "塔尔特虾虎鱼": {
+      "nameJa": "タルトゴビー",
+      "canonicalName": "塔尔特虾虎鱼",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "金鳟": {
+      "nameJa": "ゴールドトラウト",
+      "canonicalName": "金鳟鱼",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "简朴武具箱": {
+      "nameJa": "質素な武具箱",
+      "canonicalName": "朴素武具箱",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "柯夏鲁雀鳝": {
+      "nameJa": "コーシャルーガー",
+      "canonicalName": "柯夏鲁雀鳝",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "霸尔狗鱼": {
+      "nameJa": "バアルパイク",
+      "canonicalName": "霸尔狗鱼",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "解毒剂": {
+      "nameJa": "毒消し",
+      "canonicalName": "解毒药",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "白鳟": {
+      "nameJa": "ホワイトトラウト",
+      "canonicalName": "白鳟",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "达·米纳枪": {
+      "nameJa": "ダ・ミナの槍",
+      "canonicalName": "达米纳枪",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "驱虫菊": {
+      "nameJa": "ピレスギク",
+      "canonicalName": "除虫菊",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "巴谷": {
+      "nameJa": "バク",
+      "canonicalName": "巴库",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "除魔盾": {
+      "nameJa": "魔除けの盾",
+      "canonicalName": "避魔盾",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "追击宝珠": {
+      "nameJa": "追撃の宝珠",
+      "canonicalName": "追击宝珠",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "哈库桑": {
+      "nameJa": "ハクサン",
+      "canonicalName": "白杉",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "必杀剑": {
+      "nameJa": "キルソード",
+      "canonicalName": "必杀剑",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "伏力萨": {
+      "nameJa": "フリッサ",
+      "canonicalName": "弗利萨刀",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "风弓": {
+      "nameJa": "風の弓",
+      "canonicalName": "风之弓",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "达·米纳弓": {
+      "nameJa": "ダ・ミナの弓",
+      "canonicalName": "达米纳弓",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "尼内亚卡": {
+      "nameJa": "ニネイアッカ",
+      "canonicalName": "尼内亚卡",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "菱花": {
+      "nameJa": "ヒシバナ",
+      "canonicalName": "菱花",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "迷人面具": {
+      "nameJa": "可憐の仮面",
+      "canonicalName": "可怜面具",
+      "evidence": "按日文商店条目、出售地点及兑换配方对照",
+      "sourceUrl": "https://appmedia.jp/fe_banshisenkou/80425279"
+    },
+    "塞姆芋": {
+      "nameJa": "セムイモ",
+      "canonicalName": "塞姆薯",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "魅惑面具": {
+      "nameJa": "魅了の仮面",
+      "canonicalName": "魅惑面具",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "疯狂面具": {
+      "nameJa": "酔狂の仮面",
+      "canonicalName": "狂放面具",
+      "evidence": "按日文商店条目、出售地点及兑换配方对照",
+      "sourceUrl": "https://appmedia.jp/fe_banshisenkou/80425279"
+    },
+    "加护之露": {
+      "nameJa": "加護の露",
+      "canonicalName": "加护之露",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "青铜弓": {
+      "nameJa": "青銅の弓",
+      "canonicalName": "青铜弓",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "铁弓": {
+      "nameJa": "鉄の弓",
+      "canonicalName": "铁弓",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "猎兽弓": {
+      "nameJa": "獣狩りの弓",
+      "canonicalName": "猎兽弓",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "风来宝珠": {
+      "nameJa": "風来の宝珠",
+      "canonicalName": "风来宝珠",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "融鱼": {
+      "nameJa": "メルトフィッシュ",
+      "canonicalName": "融鱼",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "精灵宝珠": {
+      "nameJa": "精霊の宝珠",
+      "canonicalName": "精灵宝珠",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "月鱼": {
+      "nameJa": "ムーンフィッシュ",
+      "canonicalName": "月鱼",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "太阳果": {
+      "nameJa": "サンノミ",
+      "canonicalName": "桑之果",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "壹果": {
+      "nameJa": "イチノミ",
+      "canonicalName": "一之果",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "夏露密鲁": {
+      "nameJa": "シャルミール",
+      "canonicalName": "夏尔米尔",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "挪亚果": {
+      "nameJa": "ノアノミ",
+      "canonicalName": "诺亚果",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "特芙果": {
+      "nameJa": "テフノミ",
+      "canonicalName": "特芙果",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "咖哒姆": {
+      "nameJa": "カダム",
+      "canonicalName": "卡达姆",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "光之星": {
+      "nameJa": "ヒカリボシ",
+      "canonicalName": "光星",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "奥卜洛玛": {
+      "nameJa": "オブロマ",
+      "canonicalName": "奥布罗马",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "欧多梦竺": {
+      "nameJa": "オドモンジュ",
+      "canonicalName": "奥多蒙朱",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "白芷": {
+      "nameJa": "アンゼリカ",
+      "canonicalName": "安泽莉卡",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "挑战宝珠": {
+      "nameJa": "挑戦の宝珠",
+      "canonicalName": "挑战宝珠",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "破剑者护符": {
+      "nameJa": "剣殺しの護符",
+      "canonicalName": "剑杀护符",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "赞格": {
+      "nameJa": "ザンゲ",
+      "canonicalName": "赞格",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "破枪者护符": {
+      "nameJa": "槍殺しの護符",
+      "canonicalName": "枪杀护符",
+      "evidence": "按日文商店条目、出售地点及兑换配方对照",
+      "sourceUrl": "https://appmedia.jp/fe_banshisenkou/80425762"
+    },
+    "蓬葛": {
+      "nameJa": "ポンゴ",
+      "canonicalName": "蓬果",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "破斧者护符": {
+      "nameJa": "斧殺しの護符",
+      "canonicalName": "斧杀护符",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "秘菈尼拉": {
+      "nameJa": "ミラニラ",
+      "canonicalName": "米拉尼拉",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "拉冬泥鳅": {
+      "nameJa": "ラドンローチ",
+      "canonicalName": "拉顿泥鳅",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "拉冬狗鱼": {
+      "nameJa": "ラドンパイク",
+      "canonicalName": "拉顿狗鱼",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "达·米纳斧": {
+      "nameJa": "ダ・ミナの斧",
+      "canonicalName": "达·米纳斧",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "巨人戒指": {
+      "nameJa": "巨人の指輪",
+      "canonicalName": "巨人戒指",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "辉光鱼": {
+      "nameJa": "カガヤキウオ",
+      "canonicalName": "辉光鱼",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "疾风戒指": {
+      "nameJa": "疾風の指輪",
+      "canonicalName": "疾风戒指",
+      "evidence": "按日文商店条目、出售地点及兑换配方对照",
+      "sourceUrl": "https://appmedia.jp/fe_banshisenkou/80425690"
+    },
+    "梦之标": {
+      "nameJa": "ユメノシルベ",
+      "canonicalName": "梦之路标",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "肉箱": {
+      "nameJa": "肉箱",
+      "canonicalName": "肉箱",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "鱼箱": {
+      "nameJa": "魚箱",
+      "canonicalName": "鱼箱",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "标枪": {
+      "nameJa": "手槍",
+      "canonicalName": "投枪",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "短枪": {
+      "nameJa": "ショートスピア",
+      "canonicalName": "短枪",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "偃月刀": {
+      "nameJa": "偃月刀",
+      "canonicalName": "偃月刀",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "安宁之露": {
+      "nameJa": "安寧の露",
+      "canonicalName": "安宁之露",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "铁剑": {
+      "nameJa": "鉄の剣",
+      "canonicalName": "铁剑",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "雷电剑": {
+      "nameJa": "サンダーソード",
+      "canonicalName": "雷剑",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "尤那魅": {
+      "nameJa": "ユナメイ",
+      "canonicalName": "尤纳梅",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "净化剑": {
+      "nameJa": "清めの剣",
+      "canonicalName": "净化之剑",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "铁枪": {
+      "nameJa": "鉄の槍",
+      "canonicalName": "铁枪",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "铁斧": {
+      "nameJa": "鉄の斧",
+      "canonicalName": "铁斧",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "手斧": {
+      "nameJa": "手斧",
+      "canonicalName": "手斧",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "战锤": {
+      "nameJa": "ハンマー",
+      "canonicalName": "战锤",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "长弓": {
+      "nameJa": "ロングボウ",
+      "canonicalName": "长弓",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "屠马弓": {
+      "nameJa": "馬殺しの弓",
+      "canonicalName": "猎马弓",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/576859"
+    },
+    "霉拉拉": {
+      "nameJa": "メララ",
+      "canonicalName": "梅拉拉",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "铁盾": {
+      "nameJa": "鉄の盾",
+      "canonicalName": "铁盾",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "封魔盾": {
+      "nameJa": "魔封じの盾",
+      "canonicalName": "封魔盾",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "魔道之杖": {
+      "nameJa": "魔道の杖",
+      "canonicalName": "魔道之杖",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "射手戒指": {
+      "nameJa": "射手の指輪",
+      "canonicalName": "射手戒指",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "破弓者护符": {
+      "nameJa": "弓殺しの護符",
+      "canonicalName": "弓杀护符",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574252"
+    },
+    "连携石": {
+      "nameJa": "連携の石",
+      "canonicalName": "连携石",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "高级武具箱": {
+      "nameJa": "高級な武具箱",
+      "canonicalName": "高级武具箱",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "达·米纳武具箱": {
+      "nameJa": "ダ・ミナの武具箱",
+      "canonicalName": "达·米纳武具箱",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "档案B": {
+      "nameJa": "アーカイヴΒ",
+      "canonicalName": "档案 Β",
+      "evidence": "按日文商店条目、出售地点及兑换配方对照",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/818736"
+    },
+    "档案Γ": {
+      "nameJa": "アーカイヴΓ",
+      "canonicalName": "档案 Γ",
+      "evidence": "按日文商店条目、出售地点及兑换配方对照",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/818736"
+    },
+    "佳兰": {
+      "nameJa": "グルマオサ",
+      "canonicalName": "佳兰",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    },
+    "连携大玉": {
+      "nameJa": "連携の大玉",
+      "canonicalName": "连携大珠",
+      "evidence": "按日文商店条目、出售地点及兑换配方对照",
+      "sourceUrl": "https://game8.jp/fe-banshisenko/818736"
+    },
+    "甘榄": {
+      "nameJa": "オリバ",
+      "canonicalName": "奥利巴",
+      "evidence": "日文原名、物品效果 / 获取地点 / 兑换配方对照",
+      "sourceUrl": "https://gamewith.jp/fefw/574296"
+    }
+  },
+  "locations": {
+    "亚席罗堡垒": {
+      "id": "fw-travel-1",
+      "nameJa": null,
+      "method": "新增旅行商人观测地点，保留来源中文名"
+    },
+    "马恩城郭": {
+      "id": "place-29",
+      "nameJa": "マオン城郭",
+      "method": "日文地点名对齐"
+    },
+    "战士之路": {
+      "id": "fw-travel-3",
+      "nameJa": null,
+      "method": "新增旅行商人观测地点，保留来源中文名"
+    },
+    "王都布雷斯顿": {
+      "id": "place-28",
+      "nameJa": "王都ブレストン",
+      "method": "日文地点名对齐"
+    },
+    "笑面岩": {
+      "id": "place-36",
+      "nameJa": "笑み岩",
+      "method": "日文地点名对齐"
+    },
+    "加拉曼提斯盐湖": {
+      "id": "fw-travel-6",
+      "nameJa": null,
+      "method": "新增旅行商人观测地点，保留来源中文名"
+    },
+    "戈拉草原带": {
+      "id": "place-31",
+      "nameJa": "ゴーラ草原帯",
+      "method": "日文地点名对齐"
+    },
+    "佐托湖": {
+      "id": "place-37",
+      "nameJa": "ゾトー湖",
+      "method": "日文地点名对齐"
+    },
+    "桑塔纳桥": {
+      "id": "place-34",
+      "nameJa": "サンタナ橋",
+      "method": "日文地点名对齐"
+    },
+    "菲那礁岩": {
+      "id": "place-32",
+      "nameJa": "フィーナの岩礁",
+      "method": "日文地点名对齐"
+    },
+    "乌兹纳岭": {
+      "id": "fw-travel-11",
+      "nameJa": null,
+      "method": "新增旅行商人观测地点，保留来源中文名"
+    },
+    "黑翼之谷": {
+      "id": "place-33",
+      "nameJa": "黒翼の谷",
+      "method": "日文地点名对齐"
+    },
+    "卡尔门塔站": {
+      "id": "fw-travel-13",
+      "nameJa": null,
+      "method": "新增旅行商人观测地点，保留来源中文名"
+    },
+    "地平线交汇点": {
+      "id": "fw-travel-14",
+      "nameJa": null,
+      "method": "新增旅行商人观测地点，保留来源中文名"
+    },
+    "佩鲁萨海岬": {
+      "id": "place-35",
+      "nameJa": "ペルーサ岬",
+      "method": "日文地点名对齐"
+    },
+    "索丹的魔桥关": {
+      "id": "fw-travel-16",
+      "nameJa": null,
+      "method": "新增旅行商人观测地点，保留来源中文名"
+    },
+    "莱伊·欧港": {
+      "id": "place-10",
+      "nameJa": "ライ・オーの港",
+      "method": "日文地点名对齐"
+    },
+    "海都阿雷库托": {
+      "id": "place-13",
+      "nameJa": "海都アレクトー",
+      "method": "日文地点名对齐"
+    },
+    "星诞花园": {
+      "id": "fw-travel-19",
+      "nameJa": null,
+      "method": "新增旅行商人观测地点，保留来源中文名"
+    },
+    "猎首岩": {
+      "id": "fw-travel-20",
+      "nameJa": null,
+      "method": "新增旅行商人观测地点，保留来源中文名"
+    }
+  }
+}

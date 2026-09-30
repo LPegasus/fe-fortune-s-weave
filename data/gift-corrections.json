@@ -6,6 +6,70 @@
     "to": "likes",
     "reportedBy": "user",
     "date": "2026-09-30",
-    "note": "用户实测修正：大粒特芙咖啡（大粒のテフ）为“喜欢”；公开攻略原记录为“非常喜欢”。"
+    "note": "用户实测修正：大粒特芙（大粒のテフ）为“喜欢”；公开攻略原记录为“非常喜欢”。"
+  },
+  {
+    "characterId": "character-48",
+    "itemName": "鱼酱",
+    "itemNameJa": "ガルム",
+    "from": null,
+    "to": "loves",
+    "reportedBy": "user",
+    "date": "2026-09-30",
+    "note": "用户补充：鱼酱为杰斯塔“非常喜欢”的物品；日文「ガルム」已通过中日清单对齐。",
+    "item": {
+      "name": "鱼酱",
+      "nameJa": "ガルム",
+      "kind": "item",
+      "sourceIds": []
+    }
+  },
+  {
+    "characterId": "character-38",
+    "itemName": "过于华丽的手环",
+    "itemNameJa": "派手すぎる腕輪",
+    "from": null,
+    "to": "loves",
+    "reportedBy": "user",
+    "date": "2026-10-01",
+    "note": "用户补充：过于华丽的手环为卡塔妮娅“非常喜欢”的物品。",
+    "item": {
+      "name": "过于华丽的手环",
+      "nameJa": "派手すぎる腕輪",
+      "kind": "item",
+      "sourceIds": []
+    }
+  },
+  {
+    "characterId": "character-31",
+    "itemName": "世界名诗集",
+    "itemNameJa": "世界の名詩集",
+    "from": null,
+    "to": "loves",
+    "reportedBy": "user",
+    "date": "2026-10-01",
+    "note": "用户补充：世界名诗集为丹提“非常喜欢”的物品。",
+    "item": {
+      "name": "世界名诗集",
+      "nameJa": "世界の名詩集",
+      "kind": "item",
+      "sourceIds": []
+    }
+  },
+  {
+    "characterId": "character-37",
+    "itemName": "乡村简朴料理集",
+    "itemNameJa": "村の素朴な料理集",
+    "from": null,
+    "to": "likes",
+    "reportedBy": "user",
+    "date": "2026-10-01",
+    "note": "用户补充：乡村简朴料理集为伊欧“喜欢”的物品。",
+    "item": {
+      "name": "乡村简朴料理集",
+      "nameJa": "村の素朴な料理集",
+      "kind": "item",
+      "sourceIds": []
+    }
   }
 ]
