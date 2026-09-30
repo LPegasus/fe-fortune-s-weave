@@ -19,6 +19,7 @@ class MergeTests(unittest.TestCase):
             for pref in ['loves','likes']:
                 for incoming in row[pref]:
                     jp=identity(incoming);override=corrections.get((c['id'],jp));target=override['to'] if override else pref
+                    if target=='likes' and not override and any(identity(i)==jp for i in c['loves']):target='loves'
                     match=next(i for i in c[target] if identity(i)==jp)
                     self.assertTrue(any(o['rawName']==incoming['rawName'] and o['preference']==pref for o in match['sourceObservations']))
         for (cid,jp),correction in corrections.items():
@@ -50,7 +51,9 @@ class MergeTests(unittest.TestCase):
         for c in old['characters']:
             new=next(n for n in self.gifts['characters'] if n['id']==c['id'])
             for pref in ['loves','likes']:
-                for i in c[pref]:self.assertTrue(any(identity(i)==identity(n) for n in new[pref]),(c['name'],pref,i['name']))
+                for i in c[pref]:
+                    target='loves' if pref=='likes' and any(identity(i)==identity(n) for n in new['loves']) else pref
+                    self.assertTrue(any(identity(i)==identity(n) for n in new[target]),(c['name'],pref,i['name']))
         old=json.loads((ROOT/'.research/pre-fw-shops.json').read_text(encoding='utf8'))
         for loc in old['locations']:
             newloc=next(n for n in self.shops['locations'] if n['id']==loc['id'])

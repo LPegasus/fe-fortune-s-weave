@@ -1,6 +1,7 @@
-"""Apply user-approved names without changing source text or gift preferences."""
+"""Apply approved names and gift precedence while retaining source evidence."""
 import json
 from pathlib import Path
+from gift_rules import enforce_gift_precedence
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / 'data'
@@ -70,6 +71,8 @@ def normalize_payloads(gifts=None, shops=None, sources=None, portraits=None, cor
         portrait['alt'] = normalize_name('characters', name) + '的人物头像'
     for correction in corrections or []:
         normalize_correction(correction)
+    if gifts is not None:
+        enforce_gift_precedence(gifts)
 
 
 def main():

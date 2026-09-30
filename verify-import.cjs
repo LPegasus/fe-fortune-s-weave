@@ -7,7 +7,7 @@ const read=n=>JSON.parse(fs.readFileSync(path.join(__dirname,'data',n+'.json'),'
   const page=await browser.newPage({viewport:{width:1440,height:1000}}),errors=[],failed=[];
   page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.url().includes('/data/')&&!r.ok())failed.push(r.url())});
   await page.goto('http://127.0.0.1:4175/#gifts');await page.waitForSelector('.gift-tag');
-  const character=data.characters.find(c=>c.loves.some(g=>g.preferenceConflict));
+  const character=data.characters.find(c=>c.loves.some(g=>g.preferenceResolution));
   await page.locator('#gift-search').fill(character.nameEn);await page.locator(`[data-character="${character.id}"]`).click();
   assert(await page.locator('.conflict-badge').count()>0);
   await page.locator('.gift-evidence summary').click();assert((await page.locator('.gift-evidence').innerText()).includes('中文站'));

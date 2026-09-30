@@ -14,9 +14,20 @@ function indexAliases(){
     }
   }
 }
+function aliasEntry(scope,item){return aliasIndex[scope].get(item.nameJa)||aliasIndex[scope].get(item.nameEn)||aliasIndex[scope].get(item.name)}
+function otherNames(scope,item){
+  const entry=aliasEntry(scope,item);
+  return [...new Set([...(entry?.aliases||[]),...(item.aliases||[]),...(item.originalNameJa||[]),item.rawName,...(item.sourceObservations||[]).map(o=>o.rawName)])].filter(n=>typeof n==='string'&&n&&n!==item.name);
+}
+function matchesName(scope,item,query){
+  const entry=aliasEntry(scope,item);
+  return [item.name,item.nameJa,item.nameEn,entry?.canonicalName,entry?.nameJa,entry?.nameEn,...otherNames(scope,item)].some(n=>typeof n==='string'&&includes(n,query));
+}
+function matchesShopItem(item,query){
+  return matchesName('items',item,query)||[...(item.exchange||[]),...(item.sourceObservations||[]).flatMap(o=>o.exchange||[])].some(m=>matchesName('items',m,query));
+}
 function nameWithAliases(scope,item,inControl=false){
-  const entry=aliasIndex[scope].get(item.nameJa)||aliasIndex[scope].get(item.name);
-  const aliases=[...new Set([...(entry?.aliases||[]),...(item.aliases||[]),...(item.sourceObservations||[]).map(o=>o.rawName)])].filter(n=>n&&n!==item.name);
+  const aliases=otherNames(scope,item);
   if(!aliases.length)return esc(item.name);
   return `<span class="alias-trigger" data-alias-name="${esc(item.name)}" data-aliases="${esc(JSON.stringify(aliases))}"${inControl?'':' tabindex="0"'}>${esc(item.name)}</span>`;
 }

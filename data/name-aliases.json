@@ -161,15 +161,16 @@
     },
     {
       "id": "character-10",
-      "canonicalName": "埃斯梅拉达",
+      "canonicalName": "艾丝梅拉尔达",
       "nameJa": "エスメラルダ",
       "nameEn": "Esmeralda",
       "aliases": [
-        "艾丝梅拉尔达"
+        "埃斯梅拉达"
       ],
       "alignmentSourceIds": [
         "fwsite-characters"
-      ]
+      ],
+      "confirmedBy": "user"
     },
     {
       "id": "character-12",
@@ -900,15 +901,16 @@
       "confirmedBy": "user"
     },
     {
-      "canonicalName": "巨鱼眼球",
+      "canonicalName": "巨型鱼的眼珠",
       "nameJa": "巨大魚の目玉",
       "aliases": [
-        "巨型鱼的眼珠"
+        "巨鱼眼球"
       ],
       "alignmentSourceIds": [
         "fwsite-misc",
         "game8-gift-alignment"
-      ]
+      ],
+      "confirmedBy": "user"
     },
     {
       "canonicalName": "尤法斯肖像画",

@@ -2770,7 +2770,7 @@
             },
             {
               "nameJa": "手斧+2",
-              "name": "投斧 +2",
+              "name": "手斧 +2",
               "stock": null,
               "stockStatus": "unknown",
               "price": 2500,
@@ -7439,7 +7439,7 @@
             },
             {
               "nameJa": "巨大魚の目玉",
-              "name": "巨鱼眼球",
+              "name": "巨型鱼的眼珠",
               "stock": 1,
               "stockStatus": "known",
               "price": 400,

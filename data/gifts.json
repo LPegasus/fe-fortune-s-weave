@@ -29,7 +29,8 @@
         "width": 350,
         "height": 350,
         "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
-      }
+      },
+      "notes": []
     },
     {
       "id": "character-2",
@@ -219,7 +220,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g1",
+              "preference": "likes",
+              "rawName": "加了津吉的雪露必",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "ペガサスの風景画",
@@ -240,7 +258,7 @@
       ],
       "likes": [
         {
-          "name": "巨鱼眼球",
+          "name": "巨型鱼的眼珠",
           "nameJa": "巨大魚の目玉",
           "kind": "item",
           "sourceIds": [
@@ -346,25 +364,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "银吉雪露必",
-          "nameJa": "ギンジ入りセルビ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g1",
-              "preference": "likes",
-              "rawName": "加了津吉的雪露必",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "蜂蜜奶",
@@ -537,7 +536,7 @@
       "status": "documented",
       "notes": [
         "中日清单存在差异；当前偏好采用采集到的 GameWith 列表，中文独有项保存在 JSON 供核对。",
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [
         "テフ入り焼き菓子"
@@ -782,7 +781,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g3",
+              "preference": "likes",
+              "rawName": "过于华丽的手环",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "東方の耳飾り",
@@ -980,25 +996,6 @@
           ]
         },
         {
-          "name": "过于华丽的手环",
-          "nameJa": "派手すぎる腕輪",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g3",
-              "preference": "likes",
-              "rawName": "过于华丽的手环",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "马匹保养工具",
           "nameJa": "馬のお手入れ道具",
           "kind": "item",
@@ -1017,7 +1014,7 @@
           ]
         },
         {
-          "name": "巨鱼眼球",
+          "name": "巨型鱼的眼珠",
           "nameJa": "巨大魚の目玉",
           "kind": "item",
           "sourceIds": [
@@ -1258,7 +1255,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -1300,7 +1297,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g4",
+              "preference": "likes",
+              "rawName": "女骑士与求婚者",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "貿易取引入門",
@@ -1406,7 +1420,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g4",
+              "preference": "likes",
+              "rawName": "浓雪露必",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "ギンジ入りセルビ",
@@ -1415,7 +1446,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g4",
+              "preference": "likes",
+              "rawName": "加了津吉的雪露必",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "熟成干しセルビ",
@@ -1473,44 +1521,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "女骑士与求婚者",
-          "nameJa": "女騎士と求婚者",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g4",
-              "preference": "likes",
-              "rawName": "女骑士与求婚者",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "银吉雪露必",
-          "nameJa": "ギンジ入りセルビ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g4",
-              "preference": "likes",
-              "rawName": "加了津吉的雪露必",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "药草料理大全",
@@ -1639,25 +1649,6 @@
           ]
         },
         {
-          "name": "浓雪露必",
-          "nameJa": "濃いセルビ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g4",
-              "preference": "likes",
-              "rawName": "浓雪露必",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "浓香调味料",
           "nameJa": "味わい深い調味料",
           "kind": "item",
@@ -1737,7 +1728,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -1763,7 +1754,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g5",
+              "preference": "likes",
+              "rawName": "微甜的烤点心",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "ギンジ入りセルビ",
@@ -1772,7 +1780,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g5",
+              "preference": "likes",
+              "rawName": "加了津吉的雪露必",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "サラミスの菓子",
@@ -1800,7 +1825,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g5",
+              "preference": "likes",
+              "rawName": "营养满分点心书",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "香ばしい焼き菓子",
@@ -1809,7 +1851,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g5",
+              "preference": "likes",
+              "rawName": "香喷喷的烤点心",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "蜂蜜入りの乳",
@@ -1956,44 +2015,6 @@
           ]
         },
         {
-          "name": "香烤点心",
-          "nameJa": "香ばしい焼き菓子",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g5",
-              "preference": "likes",
-              "rawName": "香喷喷的烤点心",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "银吉雪露必",
-          "nameJa": "ギンジ入りセルビ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g5",
-              "preference": "likes",
-              "rawName": "加了津吉的雪露必",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "贾梅尔奶",
           "nameJa": "ジャーメルの乳",
           "kind": "item",
@@ -2046,44 +2067,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "微甜烤点心",
-          "nameJa": "少し甘い焼き菓子",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g5",
-              "preference": "likes",
-              "rawName": "微甜的烤点心",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "营养点心食谱",
-          "nameJa": "栄養満点お菓子本",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g5",
-              "preference": "likes",
-              "rawName": "营养满分点心书",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "朴素烤点心",
@@ -2165,7 +2148,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -2269,7 +2252,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g6",
+              "preference": "likes",
+              "rawName": "野外用厨具",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "村の素朴な料理集",
@@ -2305,7 +2305,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g6",
+              "preference": "likes",
+              "rawName": "女骑士与求婚者",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "世界の名詩集",
@@ -2414,44 +2431,6 @@
           ]
         },
         {
-          "name": "女骑士与求婚者",
-          "nameJa": "女騎士と求婚者",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g6",
-              "preference": "likes",
-              "rawName": "女骑士与求婚者",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "野外烹饪工具",
-          "nameJa": "野外調理道具",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g6",
-              "preference": "likes",
-              "rawName": "野外用厨具",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "营养点心食谱",
           "nameJa": "栄養満点お菓子本",
           "kind": "item",
@@ -2477,7 +2456,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -2541,7 +2520,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g7",
+              "preference": "likes",
+              "rawName": "欧加斯特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "南方の薫るテフ",
@@ -2550,7 +2546,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g7",
+              "preference": "likes",
+              "rawName": "南方风味特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "テフ入り焼き菓子",
@@ -2689,7 +2702,7 @@
           ]
         },
         {
-          "name": "巨鱼眼球",
+          "name": "巨型鱼的眼珠",
           "nameJa": "巨大魚の目玉",
           "kind": "item",
           "sourceIds": [
@@ -2779,25 +2792,6 @@
           ]
         },
         {
-          "name": "奥古斯特芙",
-          "nameJa": "オーガスのテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g7",
-              "preference": "likes",
-              "rawName": "欧加斯特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "浅色画材",
           "nameJa": "淡い色の画材",
           "kind": "item",
@@ -2870,25 +2864,6 @@
           ]
         },
         {
-          "name": "南方香醇特芙",
-          "nameJa": "南方の薫るテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g7",
-              "preference": "likes",
-              "rawName": "南方风味特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "南方赤烧",
           "nameJa": "南方のゴーシュ",
           "kind": "item",
@@ -2950,7 +2925,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -2965,7 +2940,7 @@
     },
     {
       "id": "character-10",
-      "name": "埃斯梅拉达",
+      "name": "艾丝梅拉尔达",
       "nameJa": "エスメラルダ",
       "nameEn": "Esmeralda",
       "loves": [
@@ -3014,7 +2989,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g8",
+              "preference": "likes",
+              "rawName": "微甜的烤点心",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "素朴な焼き菓子",
@@ -3023,7 +3015,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g8",
+              "preference": "likes",
+              "rawName": "朴素的烤点心",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "香ばしい焼き菓子",
@@ -3032,7 +3041,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g8",
+              "preference": "likes",
+              "rawName": "香喷喷的烤点心",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "ギンジ入りセルビ",
@@ -3044,12 +3070,29 @@
         },
         {
           "nameJa": "巨大魚の目玉",
-          "name": "巨鱼眼球",
+          "name": "巨型鱼的眼珠",
           "kind": "item",
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g8",
+              "preference": "likes",
+              "rawName": "巨型鱼的眼珠",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "テフ入り焼き菓子",
@@ -3232,25 +3275,6 @@
           ]
         },
         {
-          "name": "香烤点心",
-          "nameJa": "香ばしい焼き菓子",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g8",
-              "preference": "likes",
-              "rawName": "香喷喷的烤点心",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "过于华丽的手环",
           "nameJa": "派手すぎる腕輪",
           "kind": "item",
@@ -3323,25 +3347,6 @@
           ]
         },
         {
-          "name": "巨鱼眼球",
-          "nameJa": "巨大魚の目玉",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g8",
-              "preference": "likes",
-              "rawName": "巨型鱼的眼珠",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "小猫摆件",
           "nameJa": "子猫の置物",
           "kind": "item",
@@ -3360,25 +3365,6 @@
           ]
         },
         {
-          "name": "微甜烤点心",
-          "nameJa": "少し甘い焼き菓子",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g8",
-              "preference": "likes",
-              "rawName": "微甜的烤点心",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "营养点心食谱",
           "nameJa": "栄養満点お菓子本",
           "kind": "item",
@@ -3395,25 +3381,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "朴素烤点心",
-          "nameJa": "素朴な焼き菓子",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g8",
-              "preference": "likes",
-              "rawName": "朴素的烤点心",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "爽口的鱼酱",
@@ -3495,12 +3462,12 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
         "src": "assets/portraits/character-10.png",
-        "alt": "埃斯梅拉达的人物头像",
+        "alt": "艾丝梅拉尔达的人物头像",
         "sourceUrl": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_12.png",
         "sourcePage": "https://gamewith.jp/fefw/577115",
         "width": 441,
@@ -3540,7 +3507,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g9",
+              "preference": "likes",
+              "rawName": "大粒特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "南方の薫るテフ",
@@ -3549,7 +3533,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g9",
+              "preference": "likes",
+              "rawName": "南方风味特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "軽妙なソウシュ",
@@ -3732,7 +3733,7 @@
           ]
         },
         {
-          "name": "巨鱼眼球",
+          "name": "巨型鱼的眼珠",
           "nameJa": "巨大魚の目玉",
           "kind": "item",
           "sourceIds": [
@@ -3912,44 +3913,6 @@
           ]
         },
         {
-          "name": "大粒特芙",
-          "nameJa": "大粒のテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g9",
-              "preference": "likes",
-              "rawName": "大粒特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "南方香醇特芙",
-          "nameJa": "南方の薫るテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g9",
-              "preference": "likes",
-              "rawName": "南方风味特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "南方赤烧",
           "nameJa": "南方のゴーシュ",
           "kind": "item",
@@ -4047,7 +4010,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -4473,7 +4436,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
+              "preference": "likes",
+              "rawName": "新酿赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "熟成ゴーシュ",
@@ -4482,7 +4462,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
+              "preference": "likes",
+              "rawName": "陈酿赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "翡翠色のゴーシュ",
@@ -4491,7 +4488,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
+              "preference": "likes",
+              "rawName": "翡翠色赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "刺激的なゴーシュ",
@@ -4508,7 +4522,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
+              "preference": "likes",
+              "rawName": "朴素赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "秘伝のゴーシュ",
@@ -4517,7 +4548,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
+              "preference": "likes",
+              "rawName": "秘传赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "南方のゴーシュ",
@@ -4526,7 +4574,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
+              "preference": "likes",
+              "rawName": "南方赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "火の山のゴーシュ",
@@ -4570,7 +4635,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
+              "preference": "likes",
+              "rawName": "陈酿苍烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "軽妙なソウシュ",
@@ -4754,7 +4836,7 @@
           ]
         },
         {
-          "name": "巨鱼眼球",
+          "name": "巨型鱼的眼珠",
           "nameJa": "巨大魚の目玉",
           "kind": "item",
           "sourceIds": [
@@ -4770,25 +4852,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "翡翠赤烧",
-          "nameJa": "翡翠色のゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
-              "preference": "likes",
-              "rawName": "翡翠色赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "小猫摆件",
@@ -4809,44 +4872,6 @@
           ]
         },
         {
-          "name": "陈酿赤烧",
-          "nameJa": "熟成ゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
-              "preference": "likes",
-              "rawName": "陈酿赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "陈酿苍烧",
-          "nameJa": "熟成ソウシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
-              "preference": "likes",
-              "rawName": "陈酿苍烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "营养点心食谱",
           "nameJa": "栄養満点お菓子本",
           "kind": "item",
@@ -4863,44 +4888,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "朴素赤烧",
-          "nameJa": "素朴なゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
-              "preference": "likes",
-              "rawName": "朴素赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "秘传赤烧",
-          "nameJa": "秘伝のゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
-              "preference": "likes",
-              "rawName": "秘传赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "尖锐的鱼钩",
@@ -4937,25 +4924,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "南方赤烧",
-          "nameJa": "南方のゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
-              "preference": "likes",
-              "rawName": "南方赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "浓香调味料",
@@ -5046,25 +5014,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "新酿赤烧",
-          "nameJa": "若いゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g11",
-              "preference": "likes",
-              "rawName": "新酿赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         }
       ],
       "sourceIds": [
@@ -5074,7 +5023,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -5119,7 +5068,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g12",
+              "preference": "likes",
+              "rawName": "过于华丽的手环",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "天露水",
@@ -5209,25 +5175,6 @@
         }
       ],
       "likes": [
-        {
-          "name": "过于华丽的手环",
-          "nameJa": "派手すぎる腕輪",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g12",
-              "preference": "likes",
-              "rawName": "过于华丽的手环",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
         {
           "name": "药草料理大全",
           "nameJa": "薬草料理大全",
@@ -5380,7 +5327,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -5537,7 +5484,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g14",
+              "preference": "likes",
+              "rawName": "新酿赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "熟成ゴーシュ",
@@ -5809,25 +5773,6 @@
           ]
         },
         {
-          "name": "新酿赤烧",
-          "nameJa": "若いゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g14",
-              "preference": "likes",
-              "rawName": "新酿赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "新酿苍烧",
           "nameJa": "若いソウシュ",
           "kind": "item",
@@ -5853,7 +5798,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -5898,7 +5843,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g15",
+              "preference": "likes",
+              "rawName": "陈酿赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "太陽のゴーシュ",
@@ -5923,7 +5885,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g15",
+              "preference": "likes",
+              "rawName": "朴素赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "翡翠色のゴーシュ",
@@ -5994,7 +5973,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g15",
+              "preference": "likes",
+              "rawName": "新酿苍烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "熟成ソウシュ",
@@ -6003,7 +5999,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g15",
+              "preference": "likes",
+              "rawName": "陈酿苍烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "軽妙なソウシュ",
@@ -6028,7 +6041,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g15",
+              "preference": "likes",
+              "rawName": "女骑士与求婚者",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "南洋冒険奇譚",
@@ -6045,7 +6075,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g15",
+              "preference": "likes",
+              "rawName": "幽·法丝的肖像",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "ペガサスの風景画",
@@ -6128,44 +6175,6 @@
           ]
         },
         {
-          "name": "尤法斯肖像画",
-          "nameJa": "ユ・ファスの肖像",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g15",
-              "preference": "likes",
-              "rawName": "幽·法丝的肖像",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "女骑士与求婚者",
-          "nameJa": "女騎士と求婚者",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g15",
-              "preference": "likes",
-              "rawName": "女骑士与求婚者",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "护关节长手套",
           "nameJa": "関節保護用長手袋",
           "kind": "item",
@@ -6202,44 +6211,6 @@
           ]
         },
         {
-          "name": "陈酿赤烧",
-          "nameJa": "熟成ゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g15",
-              "preference": "likes",
-              "rawName": "陈酿赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "陈酿苍烧",
-          "nameJa": "熟成ソウシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g15",
-              "preference": "likes",
-              "rawName": "陈酿苍烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "浅色画材",
           "nameJa": "淡い色の画材",
           "kind": "item",
@@ -6256,44 +6227,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "朴素赤烧",
-          "nameJa": "素朴なゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g15",
-              "preference": "likes",
-              "rawName": "朴素赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "新酿苍烧",
-          "nameJa": "若いソウシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g15",
-              "preference": "likes",
-              "rawName": "新酿苍烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         }
       ],
       "sourceIds": [
@@ -6303,7 +6236,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -6367,7 +6300,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g16",
+              "preference": "likes",
+              "rawName": "大粒特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "南方の薫るテフ",
@@ -6376,7 +6326,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g16",
+              "preference": "likes",
+              "rawName": "南方风味特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "天露水",
@@ -6420,7 +6387,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g16",
+              "preference": "likes",
+              "rawName": "过于华丽的手环",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "派手で美しい指輪",
@@ -6437,7 +6421,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g16",
+              "preference": "likes",
+              "rawName": "幽·法丝的肖像",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "盾たちの肖像画",
@@ -6524,82 +6525,6 @@
           "sourceIds": [
             "gamewith"
           ]
-        },
-        {
-          "name": "尤法斯肖像画",
-          "nameJa": "ユ・ファスの肖像",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g16",
-              "preference": "likes",
-              "rawName": "幽·法丝的肖像",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "过于华丽的手环",
-          "nameJa": "派手すぎる腕輪",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g16",
-              "preference": "likes",
-              "rawName": "过于华丽的手环",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "大粒特芙",
-          "nameJa": "大粒のテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g16",
-              "preference": "likes",
-              "rawName": "大粒特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "南方香醇特芙",
-          "nameJa": "南方の薫るテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g16",
-              "preference": "likes",
-              "rawName": "南方风味特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         }
       ],
       "sourceIds": [
@@ -6609,7 +6534,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -8055,7 +7980,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g25",
+              "preference": "likes",
+              "rawName": "马匹保养工具",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "ダグザヒゲシバ",
@@ -8174,25 +8116,6 @@
           ]
         },
         {
-          "name": "马匹保养工具",
-          "nameJa": "馬のお手入れ道具",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g25",
-              "preference": "likes",
-              "rawName": "马匹保养工具",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "护关节长手套",
           "nameJa": "関節保護用長手袋",
           "kind": "item",
@@ -8273,7 +8196,7 @@
       "status": "documented",
       "notes": [
         "中日清单存在差异；当前偏好采用采集到的 GameWith 列表，中文独有项保存在 JSON 供核对。",
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [
         "東方の最高級紅茶"
@@ -8547,7 +8470,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g27",
+              "preference": "likes",
+              "rawName": "关节保护用长手套",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "弓の手入れ道具",
@@ -8698,25 +8638,6 @@
           ]
         },
         {
-          "name": "护关节长手套",
-          "nameJa": "関節保護用長手袋",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g27",
-              "preference": "likes",
-              "rawName": "关节保护用长手套",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "精灵守护人偶",
           "nameJa": "精霊の護人形",
           "kind": "item",
@@ -8779,7 +8700,7 @@
       "status": "documented",
       "notes": [
         "日文站已有明确礼物记录；中文旧版仍为调查中。",
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -8832,7 +8753,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g28",
+              "preference": "likes",
+              "rawName": "尼札产的鱼酱",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "アレクトーガルム",
@@ -8889,7 +8827,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g28",
+              "preference": "likes",
+              "rawName": "营养满分点心书",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "東方の最高級茶葉",
@@ -9017,7 +8972,7 @@
         },
         {
           "nameJa": "巨大魚の目玉",
-          "name": "巨鱼眼球",
+          "name": "巨型鱼的眼珠",
           "kind": "item",
           "sourceIds": [
             "gamewith"
@@ -9042,25 +8997,6 @@
           ]
         },
         {
-          "name": "尼萨产的鱼酱",
-          "nameJa": "ニーザ産ガルム",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g28",
-              "preference": "likes",
-              "rawName": "尼札产的鱼酱",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "野外烹饪工具",
           "nameJa": "野外調理道具",
           "kind": "item",
@@ -9077,25 +9013,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "营养点心食谱",
-          "nameJa": "栄養満点お菓子本",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g28",
-              "preference": "likes",
-              "rawName": "营养满分点心书",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "大粒特芙",
@@ -9123,7 +9040,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -9168,7 +9085,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g29",
+              "preference": "likes",
+              "rawName": "大粒特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "南方の薫るテフ",
@@ -9185,7 +9119,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g29",
+              "preference": "likes",
+              "rawName": "丹提戏曲全集",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "女騎士と求婚者",
@@ -9407,44 +9358,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "大粒特芙",
-          "nameJa": "大粒のテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g29",
-              "preference": "likes",
-              "rawName": "大粒特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "但丁戏剧全集",
-          "nameJa": "ダンテ戯曲全集",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g29",
-              "preference": "likes",
-              "rawName": "丹提戏曲全集",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         }
       ],
       "sourceIds": [
@@ -9455,7 +9368,7 @@
       "status": "documented",
       "notes": [
         "用户补充：世界名诗集为丹提“非常喜欢”的物品。",
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -9508,7 +9421,7 @@
           ]
         },
         {
-          "name": "巨鱼眼球",
+          "name": "巨型鱼的眼珠",
           "nameJa": "巨大魚の目玉",
           "kind": "item",
           "sourceIds": [
@@ -10021,7 +9934,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
+              "preference": "likes",
+              "rawName": "新酿赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "熟成ゴーシュ",
@@ -10049,7 +9979,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
+              "preference": "likes",
+              "rawName": "太阳赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "刺激的なゴーシュ",
@@ -10066,7 +10013,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
+              "preference": "likes",
+              "rawName": "朴素赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "翡翠色のゴーシュ",
@@ -10075,7 +10039,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
+              "preference": "likes",
+              "rawName": "翡翠色赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "南方のゴーシュ",
@@ -10084,7 +10065,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
+              "preference": "likes",
+              "rawName": "南方赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "火の山のゴーシュ",
@@ -10112,7 +10110,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
+              "preference": "likes",
+              "rawName": "新酿苍烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "熟成ソウシュ",
@@ -10121,7 +10136,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
+              "preference": "likes",
+              "rawName": "陈酿苍烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "芳醇なソウシュ",
@@ -10130,7 +10162,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
+              "preference": "likes",
+              "rawName": "香醇的苍烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "name": "深红赤烧",
@@ -10225,26 +10274,7 @@
           ]
         },
         {
-          "name": "香醇的苍烧",
-          "nameJa": "芳醇なソウシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
-              "preference": "likes",
-              "rawName": "香醇的苍烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "巨鱼眼球",
+          "name": "巨型鱼的眼珠",
           "nameJa": "巨大魚の目玉",
           "kind": "item",
           "sourceIds": [
@@ -10260,25 +10290,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "翡翠赤烧",
-          "nameJa": "翡翠色のゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
-              "preference": "likes",
-              "rawName": "翡翠色赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "苍空苍烧",
@@ -10299,25 +10310,6 @@
           ]
         },
         {
-          "name": "陈酿苍烧",
-          "nameJa": "熟成ソウシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
-              "preference": "likes",
-              "rawName": "陈酿苍烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "奥古斯特芙",
           "nameJa": "オーガスのテフ",
           "kind": "item",
@@ -10334,25 +10326,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "朴素赤烧",
-          "nameJa": "素朴なゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
-              "preference": "likes",
-              "rawName": "朴素赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "秘传赤烧",
@@ -10409,25 +10382,6 @@
           ]
         },
         {
-          "name": "南方赤烧",
-          "nameJa": "南方のゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
-              "preference": "likes",
-              "rawName": "南方赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "浓香调味料",
           "nameJa": "味わい深い調味料",
           "kind": "item",
@@ -10446,25 +10400,6 @@
           ]
         },
         {
-          "name": "太阳赤烧",
-          "nameJa": "太陽のゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
-              "preference": "likes",
-              "rawName": "太阳赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "裂风箭羽",
           "nameJa": "風裂きの矢羽根",
           "kind": "item",
@@ -10481,44 +10416,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "新酿赤烧",
-          "nameJa": "若いゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
-              "preference": "likes",
-              "rawName": "新酿赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "新酿苍烧",
-          "nameJa": "若いソウシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g33",
-              "preference": "likes",
-              "rawName": "新酿苍烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         }
       ],
       "sourceIds": [
@@ -10528,7 +10425,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -10554,7 +10451,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g34",
+              "preference": "likes",
+              "rawName": "风裂箭羽",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "関節保護用長手袋",
@@ -10842,25 +10756,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "裂风箭羽",
-          "nameJa": "風裂きの矢羽根",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g34",
-              "preference": "likes",
-              "rawName": "风裂箭羽",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         }
       ],
       "sourceIds": [
@@ -10870,7 +10765,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -10896,7 +10791,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g35",
+              "preference": "likes",
+              "rawName": "马匹保养工具",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "ダグザヒゲシバ",
@@ -10927,7 +10839,24 @@
           "originalNameJa": [
             "髭飾り"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g35",
+              "preference": "likes",
+              "rawName": "鬃毛饰品",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "name": "大粒特芙",
@@ -11062,25 +10991,6 @@
           ]
         },
         {
-          "name": "马匹保养工具",
-          "nameJa": "馬のお手入れ道具",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g35",
-              "preference": "likes",
-              "rawName": "马匹保养工具",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "护关节长手套",
           "nameJa": "関節保護用長手袋",
           "kind": "item",
@@ -11097,25 +11007,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "马鬃饰品",
-          "nameJa": "鬣飾り",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g35",
-              "preference": "likes",
-              "rawName": "鬃毛饰品",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "精灵守护人偶",
@@ -11216,7 +11107,7 @@
       "status": "documented",
       "notes": [
         "用户补充：乡村简朴料理集为伊欧“喜欢”的物品。",
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -11261,7 +11152,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g36",
+              "preference": "likes",
+              "rawName": "大粒特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "オーガスのテフ",
@@ -11270,7 +11178,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g36",
+              "preference": "likes",
+              "rawName": "欧加斯特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "盾たちの肖像画",
@@ -11491,25 +11416,6 @@
           ]
         },
         {
-          "name": "奥古斯特芙",
-          "nameJa": "オーガスのテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g36",
-              "preference": "likes",
-              "rawName": "欧加斯特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "浅色画材",
           "nameJa": "淡い色の画材",
           "kind": "item",
@@ -11526,25 +11432,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "大粒特芙",
-          "nameJa": "大粒のテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g36",
-              "preference": "likes",
-              "rawName": "大粒特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "南方香醇特芙",
@@ -11573,7 +11460,7 @@
       "status": "documented",
       "notes": [
         "用户补充：过于华丽的手环为卡塔妮娅“非常喜欢”的物品。",
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -11906,7 +11793,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g38",
+              "preference": "likes",
+              "rawName": "马匹保养工具",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "鬣飾り",
@@ -11918,7 +11822,24 @@
           "originalNameJa": [
             "髭飾り"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g38",
+              "preference": "likes",
+              "rawName": "鬃毛饰品",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "ダグザヒゲシバ",
@@ -11927,7 +11848,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g38",
+              "preference": "likes",
+              "rawName": "鞑古扎鼠尾粟",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "ペガサスの風景画",
@@ -12048,25 +11986,6 @@
           ]
         },
         {
-          "name": "达格萨胡须草",
-          "nameJa": "ダグザヒゲシバ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g38",
-              "preference": "likes",
-              "rawName": "鞑古扎鼠尾粟",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "过于华丽的手环",
           "nameJa": "派手すぎる腕輪",
           "kind": "item",
@@ -12119,44 +12038,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "马匹保养工具",
-          "nameJa": "馬のお手入れ道具",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g38",
-              "preference": "likes",
-              "rawName": "马匹保养工具",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "马鬃饰品",
-          "nameJa": "鬣飾り",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g38",
-              "preference": "likes",
-              "rawName": "鬃毛饰品",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "营养点心食谱",
@@ -12292,7 +12173,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -12318,7 +12199,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g39",
+              "preference": "likes",
+              "rawName": "锻炼用装饰手环",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "武術訓練用の重り",
@@ -12402,7 +12300,7 @@
           ]
         },
         {
-          "name": "巨鱼眼球",
+          "name": "巨型鱼的眼珠",
           "nameJa": "巨大魚の目玉",
           "kind": "item",
           "sourceIds": [
@@ -12456,25 +12354,6 @@
           ]
         },
         {
-          "name": "训练装饰臂环",
-          "nameJa": "鍛錬用の装飾腕輪",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g39",
-              "preference": "likes",
-              "rawName": "锻炼用装饰手环",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "裂风箭羽",
           "nameJa": "風裂きの矢羽根",
           "kind": "item",
@@ -12500,7 +12379,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -12526,7 +12405,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
+              "preference": "likes",
+              "rawName": "新酿赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "熟成ゴーシュ",
@@ -12535,7 +12431,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
+              "preference": "likes",
+              "rawName": "陈酿赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "太陽のゴーシュ",
@@ -12544,7 +12457,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
+              "preference": "likes",
+              "rawName": "太阳赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "刺激的なゴーシュ",
@@ -12561,7 +12491,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
+              "preference": "likes",
+              "rawName": "朴素赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "翡翠色のゴーシュ",
@@ -12570,7 +12517,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
+              "preference": "likes",
+              "rawName": "翡翠色赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "南方のゴーシュ",
@@ -12579,7 +12543,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
+              "preference": "likes",
+              "rawName": "南方赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "真紅のゴーシュ",
@@ -12596,7 +12577,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
+              "preference": "likes",
+              "rawName": "秘传赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "若いソウシュ",
@@ -12613,7 +12611,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
+              "preference": "likes",
+              "rawName": "陈酿苍烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "軽妙なソウシュ",
@@ -12630,7 +12645,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
+              "preference": "likes",
+              "rawName": "香醇的苍烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "火の山のゴーシュ",
@@ -12658,7 +12690,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
+              "preference": "likes",
+              "rawName": "丹提戏曲全集",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "女騎士と求婚者",
@@ -12827,25 +12876,6 @@
           ]
         },
         {
-          "name": "香醇的苍烧",
-          "nameJa": "芳醇なソウシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
-              "preference": "likes",
-              "rawName": "香醇的苍烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "有弹性的钓竿",
           "nameJa": "しなやかな釣り竿",
           "kind": "item",
@@ -12900,7 +12930,7 @@
           ]
         },
         {
-          "name": "巨鱼眼球",
+          "name": "巨型鱼的眼珠",
           "nameJa": "巨大魚の目玉",
           "kind": "item",
           "sourceIds": [
@@ -12916,25 +12946,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "翡翠赤烧",
-          "nameJa": "翡翠色のゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
-              "preference": "likes",
-              "rawName": "翡翠色赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "苍空苍烧",
@@ -12953,44 +12964,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "陈酿赤烧",
-          "nameJa": "熟成ゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
-              "preference": "likes",
-              "rawName": "陈酿赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "陈酿苍烧",
-          "nameJa": "熟成ソウシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
-              "preference": "likes",
-              "rawName": "陈酿苍烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "奥古斯特芙",
@@ -13027,44 +13000,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "朴素赤烧",
-          "nameJa": "素朴なゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
-              "preference": "likes",
-              "rawName": "朴素赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "秘传赤烧",
-          "nameJa": "秘伝のゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
-              "preference": "likes",
-              "rawName": "秘传赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "大粒特芙",
@@ -13121,63 +13056,6 @@
           ]
         },
         {
-          "name": "南方赤烧",
-          "nameJa": "南方のゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
-              "preference": "likes",
-              "rawName": "南方赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "太阳赤烧",
-          "nameJa": "太陽のゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
-              "preference": "likes",
-              "rawName": "太阳赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "但丁戏剧全集",
-          "nameJa": "ダンテ戯曲全集",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
-              "preference": "likes",
-              "rawName": "丹提戏曲全集",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "贸易入门",
           "nameJa": "貿易取引入門",
           "kind": "item",
@@ -13212,25 +13090,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "新酿赤烧",
-          "nameJa": "若いゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g40",
-              "preference": "likes",
-              "rawName": "新酿赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         }
       ],
       "sourceIds": [
@@ -13240,7 +13099,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -13266,7 +13125,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
+              "preference": "likes",
+              "rawName": "尼札产的鱼酱",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "ガルム",
@@ -13345,7 +13221,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
+              "preference": "likes",
+              "rawName": "野外用厨具",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "村の素朴な料理集",
@@ -13370,7 +13263,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
+              "preference": "likes",
+              "rawName": "迦梅尔奶",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "ヤクの乳",
@@ -13379,7 +13289,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
+              "preference": "likes",
+              "rawName": "亚库的奶",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "濃いセルビ",
@@ -13431,7 +13358,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
+              "preference": "likes",
+              "rawName": "加了津吉的雪露必",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "少し甘い焼き菓子",
@@ -13472,7 +13416,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
+              "preference": "likes",
+              "rawName": "营养满分点心书",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "南方の薫るテフ",
@@ -13508,7 +13469,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
+              "preference": "likes",
+              "rawName": "小粒特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "オーガスのテフ",
@@ -13591,25 +13569,6 @@
           ]
         },
         {
-          "name": "小粒特芙",
-          "nameJa": "小粒のテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
-              "preference": "likes",
-              "rawName": "小粒特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "深红赤烧",
           "nameJa": "真紅のゴーシュ",
           "kind": "item",
@@ -13628,25 +13587,6 @@
           ]
         },
         {
-          "name": "银吉雪露必",
-          "nameJa": "ギンジ入りセルビ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
-              "preference": "likes",
-              "rawName": "加了津吉的雪露必",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "蜂蜜烤点心",
           "nameJa": "蜂蜜入り焼き菓子",
           "kind": "item",
@@ -13663,25 +13603,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "贾梅尔奶",
-          "nameJa": "ジャーメルの乳",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
-              "preference": "likes",
-              "rawName": "迦梅尔奶",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "小猫摆件",
@@ -13720,44 +13641,6 @@
           ]
         },
         {
-          "name": "尼萨产的鱼酱",
-          "nameJa": "ニーザ産ガルム",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
-              "preference": "likes",
-              "rawName": "尼札产的鱼酱",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "野外烹饪工具",
-          "nameJa": "野外調理道具",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
-              "preference": "likes",
-              "rawName": "野外用厨具",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "浅色画材",
           "nameJa": "淡い色の画材",
           "kind": "item",
@@ -13774,25 +13657,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "营养点心食谱",
-          "nameJa": "栄養満点お菓子本",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
-              "preference": "likes",
-              "rawName": "营养满分点心书",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "瓶装腌蔬菜",
@@ -13865,25 +13729,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "牦牛奶",
-          "nameJa": "ヤクの乳",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g41",
-              "preference": "likes",
-              "rawName": "亚库的奶",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         }
       ],
       "sourceIds": [
@@ -13893,7 +13738,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -13927,7 +13772,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g42",
+              "preference": "likes",
+              "rawName": "尼札产的鱼酱",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "薬草料理大全",
@@ -13944,7 +13806,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g42",
+              "preference": "likes",
+              "rawName": "野外用厨具",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "味わい深い調味料",
@@ -13961,7 +13840,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g42",
+              "preference": "likes",
+              "rawName": "瓶装腌菜",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "野菜の鉢植え",
@@ -14132,63 +14028,6 @@
           ]
         },
         {
-          "name": "尼萨产的鱼酱",
-          "nameJa": "ニーザ産ガルム",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g42",
-              "preference": "likes",
-              "rawName": "尼札产的鱼酱",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "野外烹饪工具",
-          "nameJa": "野外調理道具",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g42",
-              "preference": "likes",
-              "rawName": "野外用厨具",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "瓶装腌蔬菜",
-          "nameJa": "野菜の瓶漬け",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g42",
-              "preference": "likes",
-              "rawName": "瓶装腌菜",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "精灵守护人偶",
           "nameJa": "精霊の護人形",
           "kind": "item",
@@ -14304,7 +14143,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -14330,7 +14169,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g43",
+              "preference": "likes",
+              "rawName": "新酿赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "熟成ゴーシュ",
@@ -14374,7 +14230,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g43",
+              "preference": "likes",
+              "rawName": "朴素赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "翡翠色のゴーシュ",
@@ -14399,7 +14272,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g43",
+              "preference": "likes",
+              "rawName": "火之山赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "真紅のゴーシュ",
@@ -14427,7 +14317,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g43",
+              "preference": "likes",
+              "rawName": "新酿苍烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "熟成ソウシュ",
@@ -14436,7 +14343,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g43",
+              "preference": "likes",
+              "rawName": "陈酿苍烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "軽妙なソウシュ",
@@ -14529,44 +14453,6 @@
           ]
         },
         {
-          "name": "陈酿苍烧",
-          "nameJa": "熟成ソウシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g43",
-              "preference": "likes",
-              "rawName": "陈酿苍烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "朴素赤烧",
-          "nameJa": "素朴なゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g43",
-              "preference": "likes",
-              "rawName": "朴素赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "训练石柱",
           "nameJa": "鍛錬用の石柱",
           "kind": "item",
@@ -14601,63 +14487,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "火山赤烧",
-          "nameJa": "火の山のゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g43",
-              "preference": "likes",
-              "rawName": "火之山赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "新酿赤烧",
-          "nameJa": "若いゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g43",
-              "preference": "likes",
-              "rawName": "新酿赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "新酿苍烧",
-          "nameJa": "若いソウシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g43",
-              "preference": "likes",
-              "rawName": "新酿苍烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         }
       ],
       "sourceIds": [
@@ -14667,7 +14496,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -14701,7 +14530,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g44",
+              "preference": "likes",
+              "rawName": "醋渍球根",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "野菜の鉢植え",
@@ -14710,7 +14556,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g44",
+              "preference": "likes",
+              "rawName": "蔬菜盆栽",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "奇妙な野菜の種子",
@@ -14795,44 +14658,6 @@
           ]
         },
         {
-          "name": "醋渍球根",
-          "nameJa": "球根の酢漬け",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g44",
-              "preference": "likes",
-              "rawName": "醋渍球根",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "盆栽蔬菜",
-          "nameJa": "野菜の鉢植え",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g44",
-              "preference": "likes",
-              "rawName": "蔬菜盆栽",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "军略书抄本",
           "nameJa": "軍略書の写本",
           "kind": "item",
@@ -14895,7 +14720,7 @@
       "status": "documented",
       "notes": [
         "日文站已有明确礼物记录；中文旧版仍为调查中。",
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -14921,7 +14746,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g45",
+              "preference": "likes",
+              "rawName": "新酿赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "太陽のゴーシュ",
@@ -14930,7 +14772,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g45",
+              "preference": "likes",
+              "rawName": "太阳赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "熟成ゴーシュ",
@@ -14966,7 +14825,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g45",
+              "preference": "likes",
+              "rawName": "朴素赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "翡翠色のゴーシュ",
@@ -14975,7 +14851,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g45",
+              "preference": "likes",
+              "rawName": "翡翠色赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "南方のゴーシュ",
@@ -14984,7 +14877,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g45",
+              "preference": "likes",
+              "rawName": "南方赤烧",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "火の山のゴーシュ",
@@ -15114,25 +15024,6 @@
           ]
         },
         {
-          "name": "翡翠赤烧",
-          "nameJa": "翡翠色のゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g45",
-              "preference": "likes",
-              "rawName": "翡翠色赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "苍空苍烧",
           "nameJa": "蒼空のソウシュ",
           "kind": "item",
@@ -15149,25 +15040,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "朴素赤烧",
-          "nameJa": "素朴なゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g45",
-              "preference": "likes",
-              "rawName": "朴素赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "秘传赤烧",
@@ -15188,25 +15060,6 @@
           ]
         },
         {
-          "name": "南方赤烧",
-          "nameJa": "南方のゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g45",
-              "preference": "likes",
-              "rawName": "南方赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "耐用皮背囊",
           "nameJa": "丈夫な背負い革袋",
           "kind": "item",
@@ -15223,25 +15076,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "太阳赤烧",
-          "nameJa": "太陽のゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g45",
-              "preference": "likes",
-              "rawName": "太阳赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "训练装饰臂环",
@@ -15278,25 +15112,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "新酿赤烧",
-          "nameJa": "若いゴーシュ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g45",
-              "preference": "likes",
-              "rawName": "新酿赤烧",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         }
       ],
       "sourceIds": [
@@ -15306,7 +15121,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -15558,7 +15373,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g47",
+              "preference": "likes",
+              "rawName": "大粒特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "南方の薫るテフ",
@@ -15567,7 +15399,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g47",
+              "preference": "likes",
+              "rawName": "南方风味特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "オーガスのテフ",
@@ -15576,7 +15425,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g47",
+              "preference": "likes",
+              "rawName": "欧加斯特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "庶民百景",
@@ -15620,7 +15486,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g47",
+              "preference": "likes",
+              "rawName": "商贸入门",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "闘技場物語の写本",
@@ -15829,25 +15712,6 @@
           ]
         },
         {
-          "name": "奥古斯特芙",
-          "nameJa": "オーガスのテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g47",
-              "preference": "likes",
-              "rawName": "欧加斯特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "营养点心食谱",
           "nameJa": "栄養満点お菓子本",
           "kind": "item",
@@ -15864,25 +15728,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "大粒特芙",
-          "nameJa": "大粒のテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g47",
-              "preference": "likes",
-              "rawName": "大粒特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "尖锐的鱼钩",
@@ -15903,25 +15748,6 @@
           ]
         },
         {
-          "name": "南方香醇特芙",
-          "nameJa": "南方の薫るテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g47",
-              "preference": "likes",
-              "rawName": "南方风味特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "耐用皮背囊",
           "nameJa": "丈夫な背負い革袋",
           "kind": "item",
@@ -15938,25 +15764,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "贸易入门",
-          "nameJa": "貿易取引入門",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g47",
-              "preference": "likes",
-              "rawName": "商贸入门",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "训练装饰臂环",
@@ -16002,7 +15809,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -16066,7 +15873,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g48",
+              "preference": "likes",
+              "rawName": "南方风味特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "テフ入り焼き菓子",
@@ -16091,7 +15915,21 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "gamewith"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "gamewith",
+              "preference": "likes",
+              "rawName": "モルフィスの紅茶"
+            }
+          ]
         },
         {
           "nameJa": "東方の最高級茶葉",
@@ -16184,15 +16022,6 @@
           ]
         },
         {
-          "nameJa": "モルフィスの紅茶",
-          "name": "莫尔菲斯红茶",
-          "kind": "item",
-          "sourceIds": [
-            "gamewith"
-          ],
-          "preferenceConflict": true
-        },
-        {
           "nameJa": "フォドラの紅茶",
           "name": "芙朵拉红茶",
           "kind": "item",
@@ -16235,25 +16064,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "南方香醇特芙",
-          "nameJa": "南方の薫るテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g48",
-              "preference": "likes",
-              "rawName": "南方风味特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         }
       ],
       "sourceIds": [
@@ -16264,7 +16074,7 @@
       "status": "documented",
       "notes": [
         "中日清单存在差异；当前偏好采用采集到的 GameWith 列表，中文独有项保存在 JSON 供核对。",
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [
         "東方の最高級紅茶"
@@ -16300,7 +16110,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g49",
+              "preference": "likes",
+              "rawName": "亚库的奶",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "蜂蜜入りの乳",
@@ -16309,7 +16136,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g49",
+              "preference": "likes",
+              "rawName": "加了蜂蜜的奶",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "ジャーメルの乳",
@@ -16356,7 +16200,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g49",
+              "preference": "likes",
+              "rawName": "浓雪露必",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "熟成干しセルビ",
@@ -16365,7 +16226,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g49",
+              "preference": "likes",
+              "rawName": "熟成雪露必干",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "ギンジ入りセルビ",
@@ -16374,7 +16252,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g49",
+              "preference": "likes",
+              "rawName": "加了津吉的雪露必",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "素朴な焼き菓子",
@@ -16383,7 +16278,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g49",
+              "preference": "likes",
+              "rawName": "朴素的烤点心",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "name": "小猫摆件",
@@ -16548,44 +16460,6 @@
           ]
         },
         {
-          "name": "银吉雪露必",
-          "nameJa": "ギンジ入りセルビ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g49",
-              "preference": "likes",
-              "rawName": "加了津吉的雪露必",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "蜂蜜奶",
-          "nameJa": "蜂蜜入りの乳",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g49",
-              "preference": "likes",
-              "rawName": "加了蜂蜜的奶",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "蜂蜜烤点心",
           "nameJa": "蜂蜜入り焼き菓子",
           "kind": "item",
@@ -16604,7 +16478,7 @@
           ]
         },
         {
-          "name": "巨鱼眼球",
+          "name": "巨型鱼的眼珠",
           "nameJa": "巨大魚の目玉",
           "kind": "item",
           "sourceIds": [
@@ -16620,25 +16494,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "熟成干制塞尔维",
-          "nameJa": "熟成干しセルビ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g49",
-              "preference": "likes",
-              "rawName": "熟成雪露必干",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "微甜烤点心",
@@ -16711,63 +16566,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "朴素烤点心",
-          "nameJa": "素朴な焼き菓子",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g49",
-              "preference": "likes",
-              "rawName": "朴素的烤点心",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "浓雪露必",
-          "nameJa": "濃いセルビ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g49",
-              "preference": "likes",
-              "rawName": "浓雪露必",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
-          "name": "牦牛奶",
-          "nameJa": "ヤクの乳",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g49",
-              "preference": "likes",
-              "rawName": "亚库的奶",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         }
       ],
       "sourceIds": [
@@ -16777,7 +16575,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -17135,7 +16933,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g51",
+              "preference": "likes",
+              "rawName": "有弹性的钓竿",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "name": "教职员事件簿",
@@ -17266,25 +17081,6 @@
           ]
         },
         {
-          "name": "有弹性的钓竿",
-          "nameJa": "しなやかな釣り竿",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g51",
-              "preference": "likes",
-              "rawName": "有弹性的钓竿",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "药草料理大全",
           "nameJa": "薬草料理大全",
           "kind": "item",
@@ -17321,7 +17117,7 @@
           ]
         },
         {
-          "name": "巨鱼眼球",
+          "name": "巨型鱼的眼珠",
           "nameJa": "巨大魚の目玉",
           "kind": "item",
           "sourceIds": [
@@ -17455,7 +17251,7 @@
       "status": "documented",
       "notes": [
         "日文站已有明确礼物记录；中文旧版仍为调查中。",
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -17481,7 +17277,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g52",
+              "preference": "likes",
+              "rawName": "微甜的烤点心",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "素朴な焼き菓子",
@@ -17663,25 +17476,6 @@
           ]
         },
         {
-          "name": "微甜烤点心",
-          "nameJa": "少し甘い焼き菓子",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g52",
-              "preference": "likes",
-              "rawName": "微甜的烤点心",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "纯白雪露必",
           "nameJa": "純白のセルビ",
           "kind": "item",
@@ -17743,7 +17537,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -17986,7 +17780,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g53",
+              "preference": "likes",
+              "rawName": "尼札产的鱼酱",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "東方の盤上遊戯",
@@ -18205,25 +18016,6 @@
           ]
         },
         {
-          "name": "尼萨产的鱼酱",
-          "nameJa": "ニーザ産ガルム",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g53",
-              "preference": "likes",
-              "rawName": "尼札产的鱼酱",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "野外烹饪工具",
           "nameJa": "野外調理道具",
           "kind": "item",
@@ -18376,7 +18168,7 @@
       "status": "documented",
       "notes": [
         "日文站已有明确礼物记录；中文旧版仍为调查中。",
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -18421,7 +18213,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g54",
+              "preference": "likes",
+              "rawName": "大粒特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "南方の薫るテフ",
@@ -18430,7 +18239,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g54",
+              "preference": "likes",
+              "rawName": "南方风味特芙",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "テフ入り焼き菓子",
@@ -18655,25 +18481,6 @@
           ]
         },
         {
-          "name": "大粒特芙",
-          "nameJa": "大粒のテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g54",
-              "preference": "likes",
-              "rawName": "大粒特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "尖锐的鱼钩",
           "nameJa": "鋭い釣り針",
           "kind": "item",
@@ -18690,25 +18497,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "南方香醇特芙",
-          "nameJa": "南方の薫るテフ",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g54",
-              "preference": "likes",
-              "rawName": "南方风味特芙",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "训练石柱",
@@ -18790,7 +18578,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -18832,7 +18620,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g55",
+              "preference": "likes",
+              "rawName": "风裂箭羽",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "しなやかな釣り竿",
@@ -18849,7 +18654,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g55",
+              "preference": "likes",
+              "rawName": "尖锐的鱼钩",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "name": "军略书抄本",
@@ -18908,7 +18730,7 @@
           ]
         },
         {
-          "name": "巨鱼眼球",
+          "name": "巨型鱼的眼珠",
           "nameJa": "巨大魚の目玉",
           "kind": "item",
           "sourceIds": [
@@ -18924,25 +18746,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "尖锐的鱼钩",
-          "nameJa": "鋭い釣り針",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g55",
-              "preference": "likes",
-              "rawName": "尖锐的鱼钩",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         },
         {
           "name": "耐用皮背囊",
@@ -18979,25 +18782,6 @@
               "observedAt": "2026-10-01"
             }
           ]
-        },
-        {
-          "name": "裂风箭羽",
-          "nameJa": "風裂きの矢羽根",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g55",
-              "preference": "likes",
-              "rawName": "风裂箭羽",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
         }
       ],
       "sourceIds": [
@@ -19007,7 +18791,7 @@
       ],
       "status": "documented",
       "notes": [
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -19143,7 +18927,24 @@
           "sourceIds": [
             "gamewith"
           ],
-          "preferenceConflict": true
+          "preferenceResolution": {
+            "rule": "loves_over_likes",
+            "keptPreference": "loves",
+            "removedPreference": "likes",
+            "removedLikeSourceIds": [
+              "fwsite-misc"
+            ]
+          },
+          "sourceObservations": [
+            {
+              "sourceId": "fwsite-misc",
+              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g56",
+              "preference": "likes",
+              "rawName": "营养满分点心书",
+              "upstreamSource": "game8",
+              "observedAt": "2026-10-01"
+            }
+          ]
         },
         {
           "nameJa": "薬草料理大全",
@@ -19360,25 +19161,6 @@
           ]
         },
         {
-          "name": "营养点心食谱",
-          "nameJa": "栄養満点お菓子本",
-          "kind": "item",
-          "sourceIds": [
-            "fwsite-misc"
-          ],
-          "sourceObservations": [
-            {
-              "sourceId": "fwsite-misc",
-              "sourceUrl": "https://fire-emblem-fw.site/misc.html#g56",
-              "preference": "likes",
-              "rawName": "营养满分点心书",
-              "upstreamSource": "game8",
-              "observedAt": "2026-10-01"
-            }
-          ],
-          "preferenceConflict": true
-        },
-        {
           "name": "精灵守护人偶",
           "nameJa": "精霊の護人形",
           "kind": "item",
@@ -19513,7 +19295,7 @@
       "status": "documented",
       "notes": [
         "日文站已有明确礼物记录；中文旧版仍为调查中。",
-        "部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。"
+        "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
       ],
       "sourceDifference": [],
       "portrait": {
@@ -19765,5 +19547,9 @@
         "rights": "Nintendo / INTELLIGENT SYSTEMS; image hosted by GameWith"
       }
     }
-  ]
+  ],
+  "preferenceRules": {
+    "overlap": "loves_over_likes",
+    "description": "同一礼物同时列为“非常喜欢”和“喜欢”时，按规则仅保留在“非常喜欢”；原始来源等级保留供核对。"
+  }
 }

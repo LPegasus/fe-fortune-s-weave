@@ -3,6 +3,7 @@ import copy
 import json
 from pathlib import Path
 from normalize_names import ALIASES, normalize_name, normalize_payloads
+from gift_rules import item_identity as identity
 ROOT=Path(__file__).resolve().parent
 DATA=ROOT/'data'
 SOURCE={'id':'fwsite-misc','language':'zh','title':'万缕千丝中文攻略站 · 礼物与商人','url':'https://fire-emblem-fw.site/misc.html','note':'2026-10-01 导入；礼物主要转译 Game8，并含玩家补充。按日文名称取并集，冲突保留原始来源，用户修正优先。','accessed':'2026-10-01'}
@@ -11,13 +12,6 @@ CHAR_SOURCE={'id':'fwsite-characters','language':'zh','title':'万缕千丝中�
 
 def add_unique(values,value):
     if value not in values:values.append(value)
-
-def identity(item):
-    jp=item.get('nameJa');name=item.get('name') or item.get('itemName')
-    for entry in ALIASES['items']:
-        if jp==entry.get('nameJa') or jp in entry['aliases'] or name in [entry['canonicalName'],*entry['aliases']]:
-            return entry['nameJa']
-    return jp or name
 
 def merge_gifts(gifts,sources,corrections=None):
     path=DATA/'imports/fwsite-gifts.json'
@@ -71,12 +65,6 @@ def merge_gifts(gifts,sources,corrections=None):
     for character in gifts['characters']:
         both={identity(i) for i in character['loves']}&{identity(i) for i in character['likes']}
         stats['conflictingItems']+=len(both)
-        for k in ['loves','likes']:
-            for item in character[k]:
-                if identity(item) in both:item['preferenceConflict']=True
-        if both:
-            note='部分礼物的喜好等级在来源间不一致，已按并集保留在两栏并标注“来源分歧”；不代表一次送礼同时获得两种效果。'
-            add_unique(character.setdefault('notes',[]),note)
         character['status']='documented' if character['loves'] or character['likes'] else 'unknown'
         for note in list(character.get('notes',[])):
             if '鱼酱' in note and '日文名称待确认' in note:character['notes'].remove(note)

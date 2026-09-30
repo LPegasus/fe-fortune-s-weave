@@ -19,12 +19,12 @@
  <header><div><div class="eyebrow" id="eyebrow">THE GIFT COMPANION</div><h1 id="page-title">一份礼物，一段羁绊<span>。</span></h1><p id="subtitle">查询每位人物非常喜欢与喜欢的礼物，出发前准备一份恰好的心意。</p></div><a class="data-link" href="data/gifts.json" download id="download">下载 JSON <span>↓</span></a></header>
  <div class="stats" id="stats"></div>
  <section id="gifts-view" class="view">
-  <div class="toolbar"><label class="search"><svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 4.5 4.5"/></svg><input id="gift-search" type="search" placeholder="搜索人物、礼物，支持中文 / 日文 / 英文" aria-label="搜索人物或礼物"><kbd>/</kbd></label><label class="select-label">偏好<select id="preference"><option value="all">全部偏好</option><option value="loves">非常喜欢</option><option value="likes">喜欢</option><option value="unknown">待确认人物</option></select></label></div>
+  <div class="toolbar"><label class="search"><svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 4.5 4.5"/></svg><input id="gift-search" type="search" placeholder="搜索人物、礼物或别名，支持中 / 日 / 英" aria-label="搜索人物或礼物"><kbd>/</kbd></label><label class="select-label">偏好<select id="preference"><option value="all">全部偏好</option><option value="loves">非常喜欢</option><option value="likes">喜欢</option><option value="unknown">待确认人物</option></select></label></div>
   <div class="section-caption"><span>人物名录 <b id="character-count"></b></span><span><i class="dot love-dot"></i>非常喜欢 <i class="dot like-dot"></i>喜欢</span></div>
   <div class="gift-layout"><div id="characters" class="characters" aria-label="人物列表"></div><article id="character-detail" class="detail" aria-live="polite"></article></div>
  </section>
  <section id="overview-view" class="view" hidden>
-  <div class="toolbar"><label class="search"><svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 4.5 4.5"/></svg><input id="overview-search" type="search" placeholder="搜索人物或礼物，快速对照所有人的偏好" aria-label="搜索送礼总览"><kbd>/</kbd></label></div>
+  <div class="toolbar"><label class="search"><svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 4.5 4.5"/></svg><input id="overview-search" type="search" placeholder="搜索人物、礼物或别名，快速对照偏好" aria-label="搜索送礼总览"><kbd>/</kbd></label></div>
   <div class="section-caption"><span>人物总览 <b id="overview-count" aria-live="polite"></b></span><span>点击人物查看详情 · 暂无记录不代表没有喜好</span></div>
   <p class="overview-scroll-hint">左右滑动查看两类礼物，人物列保持固定。</p>
   <div class="overview-scroll" role="region" aria-label="人物送礼总览表，可滚动查看" tabindex="0">
@@ -32,7 +32,7 @@
   </div>
  </section>
  <section id="shops-view" class="view" hidden>
-  <div class="toolbar"><label class="search"><svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 4.5 4.5"/></svg><input id="shop-search" type="search" placeholder="搜索据点或商品名称" aria-label="搜索据点或商品"></label><label class="select-label">地点<select id="place-kind"><option value="all">全部地点</option><option value="据点">据点</option><option value="准据点">准据点</option><option value="地图商会">地图商会</option><option value="旅行商人观测地点">旅行商人观测地点</option></select></label></div>
+  <div class="toolbar"><label class="search"><svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 4.5 4.5"/></svg><input id="shop-search" type="search" placeholder="搜索地点、商品、兑换材料或别名" aria-label="搜索地点、商品、兑换材料或别名"></label><label class="select-label">地点<select id="place-kind"><option value="all">全部地点</option><option value="据点">据点</option><option value="准据点">准据点</option><option value="地图商会">地图商会</option><option value="旅行商人观测地点">旅行商人观测地点</option></select></label></div>
   <div class="notice"><span>ⓘ</span><p>库存为攻略记录的可购买数量。<strong>∞</strong> 表示无限，<strong>待确认</strong> 表示来源未给出数量。章节、路线及名声可能影响货品。</p></div>
   <div class="shop-layout"><aside class="places" id="places" aria-label="据点列表"></aside><article id="shop-detail" class="detail" aria-live="polite"></article></div>
  </section>

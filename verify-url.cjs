@@ -28,8 +28,8 @@ async function snapshot(page){return page.evaluate(()=>({
    assert.equal((await params(page)).get('giftSearch'),'Cai');assert.equal((await params(page)).get('preference'),'likes');
    await page.goBack();await page.waitForSelector('#shops-view:not([hidden])');assert.deepEqual(await snapshot(page),expected);
    await page.goForward();await page.waitForSelector('#gifts-view:not([hidden])');assert.equal(await page.locator('#gift-search').inputValue(),'Cai');assert.equal(await page.locator('#preference').inputValue(),'likes');
-   await page.locator('[data-view="overview"]').click();await page.locator('#overview-search').fill('凯伊');
-   assert.equal((await params(page)).get('overviewSearch'),'凯伊');await page.reload();await page.waitForSelector('[data-overview-row]');assert.equal(await page.locator('[data-overview-row]').count(),1);
+   await page.locator('[data-view="overview"]').click();await page.locator('#overview-search').fill('Cai');
+   assert.equal((await params(page)).get('overviewSearch'),'Cai');await page.reload();await page.waitForSelector('[data-overview-row]');assert.equal(await page.locator('[data-overview-row]').count(),1);
    await page.locator('[data-overview-character="character-2"]').click();assert.equal((await params(page)).get('giftSearch'),null);assert.equal((await params(page)).get('preference'),null);
    await page.locator('.gift-tag').filter({hasText:'马匹保养工具'}).click();await page.locator('[data-jump-place]').last().click();
    assert.equal((await params(page)).get('shopSearch'),null);assert.equal((await params(page)).get('placeKind'),null);
